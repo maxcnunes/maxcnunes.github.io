@@ -1,0 +1,30 @@
+.sidebar-about {
+  text-align: center;
+}
+
+.photo {
+  border-radius: 50px;
+  margin: 0 auto;
+  margin-bottom: 1em;
+}
+
+.sidebar-about h1 {
+  font-size: 1.7em;
+}
+
+@media (min-width: 58rem) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 58rem) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/*@media (min-width: 48rem)*/
+.sidebar-sticky {
+  top: 30%;
+}
