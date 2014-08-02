@@ -11,5 +11,8 @@
       {{ content }}
     </div>
 
+    {% if site.comments %}
+      {% include disqus-count.html %}
+    {% endif %}
   </body>
 </html>

@@ -1,18 +1,18 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        /:year/:month/:day/:title/
 
 # Setup
 title:            Max Claus Nunes
-tagline:          'A Jekyll theme'
+tagline:          Blog
 description:      Software Developer
 url:              http://hyde.getpoole.com
 
 author:
-  name:           'Max Claus Nunes'
+  name:           Max Claus Nunes
   url:            https://twitter.com/maxcnunes
 
 paginate:         5
@@ -22,3 +22,5 @@ version:          2.0.0
 
 github:
   repo:           https://github.com/maxcnunes
+
+comments:         true
