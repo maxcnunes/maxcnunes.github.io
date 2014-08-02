@@ -3,7 +3,7 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        pretty
+permalink:        /:year/:month/:day/:title/
 
 # Setup
 title:            Max Claus Nunes

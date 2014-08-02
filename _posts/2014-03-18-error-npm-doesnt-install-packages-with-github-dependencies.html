@@ -1,0 +1,31 @@
+---
+layout: post
+title: Error - npm doesn't install packages with GitHub dependencies
+categories:
+- Git
+- npm
+tags:
+- error
+- git
+- github
+- javascript
+- npm
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _headspace_page_title: Error - npm doesn't install packages with GitHub dependencies
+  _headspace_description: npm ERR! notarget No compatible version found
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+
+<p>To set in your node project a dependency from github you just need to include the <strong>&lt;username&gt;/&lt;repository&gt;</strong> on package.json:</p>
+{% gist maxcnunes/9618061 package.json" %}
+<p>If you are getting the error below then probably you don't have git installed in your environment. Install that and should fix this problem.</p>
+{% gist maxcnunes/9618061 error.sh" %}

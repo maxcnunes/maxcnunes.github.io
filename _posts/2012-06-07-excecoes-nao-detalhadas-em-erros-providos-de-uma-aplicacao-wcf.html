@@ -1,0 +1,42 @@
+---
+layout: post
+title: Exceções não detalhadas em erros providos de uma aplicação WCF
+categories:
+- C#
+- SharePoint
+- WCF
+tags:
+- asp.net
+- c#
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _aioseop_keywords: Claims-based authentication, serviceDebug, WCF, Sharepoint, exception
+  _aioseop_description: The server was unable to process the request due to an internal
+    error. For more information about the error, either turn on IncludeExceptionDetailInFaults
+    ...
+  _aioseop_title: Exceções não detalhadas em erros providos de uma aplicação WCF
+  simplecatch-sidebarlayout: ''
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+<p>Se ao debugar o projeto, após configurar a autenticação "Claims-based authentication" no Sharepoint 2010, está apresentando a seguinte mensagem:</p>
+<p><em>"The server was unable to process the request due to an internal error. For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <servicedebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework 3.0 SDK documentation and inspect the server trace logs."&nbsp;</servicedebug></em></p>
+
+<img class="size-medium wp-image-667 " title="SPClaimsUtility.AuthenticateFormUser_ErrorDebug" src="/assets/SPClaimsUtility.AuthenticateFormUser_ErrorDebug-300x120.png" alt="" width="300" height="120" />
+
+<p><!--more-->Este é um problema comum, ao utilizar serviços WCF, que por padrão vem com o detalhamento de exceções desabilitado para seus clientes.&nbsp;</p>
+<p>Precisamos fazer algumas configurações no webconfig. Neste caso por estarmos falando do "SPClaimsUtility.AuthenticateFormUser" a aplicação é o Security Token, localizado por padrão em:&nbsp;</p>
+<p style="text-align: center;"><span style="color: #0000ff;"><em>C:Program FilesCommon FilesMicrosoft SharedWeb Server Extensions14WebServicesSecurityToken</em></span></p>
+<p style="text-align: left;">Com o webconfig aberto, insira dentro de "behavior" o seguinte trecho de código:</p>
+<p style="text-align: center;"><span style="color: #0000ff;"><em>&lt;serviceDebug httpHelpPageEnabled="true" includeExceptionDetailInFaults="true" /&gt;</em></span></p>
+
+<img class="size-medium wp-image-669" title="serviceDebug" src="/assets/serviceDebug-300x161.png" alt="" width="300" height="161" />
+
+<p style="text-align: left;">Após isto, salve o webconfig e renicie o IIS. Com essa configuração na próxima vez que ocorrer um erro dentro do WCF, será exibido o erro detalhado e você será capaz de entender o que está acontecendo realmente.</p>

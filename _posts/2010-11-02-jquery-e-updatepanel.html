@@ -1,0 +1,41 @@
+---
+layout: post
+title: Jquery e UpdatePanel
+categories:
+- ASP.NET
+- JavaScript
+- JQuery
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _aioseop_keywords: javascript, updatepanel, jquery, document ready, pageload
+  _aioseop_description: Tutorial explica e exemplifica o problema de funções javascript
+    não funcionarem após um postback, dentro de um updatepanel.
+  _aioseop_title: Jquery e UpdatePanel
+  _syntaxhighlighter_encoded: '1'
+  simplecatch-sidebarlayout: ''
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+<p>Problemas com a inicialização das suas funções em jquery, que não carregam após algum postback vindo de um updatepanel?</p>
+<p>Facil resolver.</p>
+<p>Ao invés de você usar o famoso <em><strong>$(document).ready()</strong></em></p>
+<p>[sourcecode language="javascript"]</p>
+<p>$(document).ready(function(){</p>
+<p>alert(&quot;Olá mundo!&quot;);</p>
+<p>});</p>
+<p>[/sourcecode]</p>
+<p>Devemos utilizar o <em><strong>function pageLoad()</strong></em></p>
+<p>[sourcecode language="javascript"]</p>
+<p>function pageLoad(){</p>
+<p>alert(&quot;Olá mundo!&quot;);</p>
+<p>}</p>
+<p>[/sourcecode]</p>
+<p>O assunto mais a fundo você encontra aqui: <a href="http://encosia.com/2009/03/25/document-ready-and-pageload-are-not-the-same/">http://encosia.com/2009/03/25/document-ready-and-pageload-are-not-the-same/</a></p>

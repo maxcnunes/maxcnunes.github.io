@@ -1,0 +1,74 @@
+---
+layout: post
+title: Python no Visual Studio
+categories:
+- Python
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _syntaxhighlighter_encoded: '1'
+  _aioseop_keywords: python, visual studio, .net, ironpython
+  _aioseop_description: Tutorial descreve algumas vantagens do python e explica como
+    configurá-lo no Visual Studio.
+  _aioseop_title: Python no Visual Studio
+  simplecatch-sidebarlayout: ''
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+<img class="size-thumbnail wp-image-317" title="Python" src="/assets/python-logo-glassy-150x150.png" alt="" width="150" height="150" />
+
+<p>Outro dia precisei trabalhar com uma linguagem, que sempre tive fascinação, mas que fazia tempo que não à utilizava.<br />
+Estou falando do Python, uma linguagem não muito conhecida e comentada aqui em Londrina. Mas que possui inúmeras vantagens.</p>
+<p>Python é uma linguagem script, multiplataforma, simples, elegante, de fácil aprendizado e desenvolvimento. Tem suporte ao paradigma OO, mas também pode ser desenvolvida no formato estrutural. Podendo ser utilizada para rodar scripts direto no shell, ou também desenvolver sistemas Desktops e Web.<!--more--></p>
+<p>Para ter uma noção do espaço que o Python, possui entre os desenvolvedores e o mercado atualmente. A Microsoft possui o <a title="IronPython" href="http://ironpython.codeplex.com/" target="_blank">IronPython</a>, que é a implementação da linguagem Python para a plataforma o .NET. Possibilitando a integração do Python às bibliotecas do Framework .NET.</p>
+<p>Objetivo deste post é explicar, como instalar e configurar o Python na IDE Visual Studio 2010. Qualquer um que não  seja do mundo .NET, provavelmente não irá gostar desta ideia, de princípio.<br />
+Mas para quem já está acostumado ao ambiente do Visual Studio, fica mais fácil e produtivo. Já que existe suporte IDE para isso e você já está acostumado, de como funciona a IDE e onde estão localizados cada ferramenta utilizadas no processo de desenvolvimento.</p>
+<p>Mais dúvidas sobre o Python? <a href="http://www.python.org.br/wiki/PerguntasFrequentes/SobrePython#O_que_.2BAOk_Python.3F" target="_blank">Acesse este artigo</a>.</p>
+<p>Faça o download da versão 2.7.2  Python no site <a href="http://www.python.org/download/">http://www.python.org/download/</a></p>
+<p>Após instalado o Python. Faça o download do Python Tools for Visual Studio. Que é uma ferramenta para possibilitar o desenvolvimento Python na no Visual Studio.</p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2011/11/Python-Download1.png"><img class="aligncenter size-full wp-image-313" title="Python-Download" src="/assets/Python-Download1.png" alt="Python-Download" width="633" height="405" /></a></p>
+<p>O download do instalador está no codeplex: <a href="http://pytools.codeplex.com/">http://pytools.codeplex.com/</a></p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2011/11/Python-Tools-For-Visual-Studio.png"><img class="aligncenter size-full wp-image-319" title="Python-Tools-For-Visual-Studio" src="/assets/Python-Tools-For-Visual-Studio.png" alt="Python-Tools-For-Visual-Studio" width="554" height="301" /></a></p>
+<p>Com a ferramenta instalada, estamos prontos para iniciar o desenvolvimento Python, através do Visual Studio.</p>
+<p>Abra o Visual Studio e crie um novo projeto do tipo "Python Application":</p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2011/11/Python-Application.png"><img class="aligncenter size-full wp-image-321" title="Python-Application" src="/assets/Python-Application.png" alt="Python-Application" width="624" height="433" /></a></p>
+<p>Em seguida vamos configurar o projeto, para definir que os scripts aqui desenvolvidos serão executados no Interpretador Python 2.7.2 que instalamos anteriormente.</p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2011/11/Python-Application-Properties.png"><img class="aligncenter size-full wp-image-322" title="Python-Application-Properties" src="/assets/Python-Application-Properties.png" alt="" width="591" height="424" /></a></p>
+<p>Selecione o interpretador correto:</p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2011/11/Python-Interpretador.png"><img class="aligncenter size-full wp-image-323" title="Python-Interpretador" src="/assets/Python-Interpretador.png" alt="" width="571" height="333" /></a></p>
+<p>Escreva algum código em Python para testar:</p>
+<p>[sourcecode language="python"]<br />
+# O famoso Hello World<br />
+print('Hello World n')</p>
+<p># Criacao de vairaveis e atribuicao de valores a elas<br />
+a = 2<br />
+b = 3<br />
+resultado = 2 + 3</p>
+<p># Formatacao da string<br />
+print( &quot;2  + 3 = {0}n&quot;.format(resultado))</p>
+<p># Le o valor digitado<br />
+numInput = input('Escolha um numero: ')</p>
+<p>try:<br />
+    # Tenta converter para inteiro<br />
+    num = int(numInput)</p>
+<p>    if num &lt; 5:<br />
+        # Exibi o valor digitado<br />
+        print ('Voce digitou um valor menor que 5: {0}'.format(num))<br />
+    else:<br />
+        # Exibi o valor digitado<br />
+        print ('Voce digitou um vlaor maior que 5: {0}'.format(num))</p>
+<p>except:<br />
+    # Exibi mensagem de erro<br />
+    print('Valor incorreto')</p>
+<p># Espera que digite uma tecla para sair<br />
+input ('Digite algo para sair')<br />
+[/sourcecode]</p>
+<p>Por final, só executar o Start Debugging (F5) e o script será executado em um console.</p>
+<p>Note como o código Python é simples e elegante. Python utiliza a própria identação do código para formar os blocos de código.</p>

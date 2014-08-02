@@ -1,0 +1,40 @@
+---
+layout: post
+title: Retornar a última pasta de um diretório
+categories:
+- .NET
+- ASP.NET
+- C#
+tags:
+- c#
+- diretororio
+- retornar
+- ultima pasta
+- url
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _syntaxhighlighter_encoded: '1'
+  _aioseop_keywords: c#, path, ultima, pasta, last, folder
+  _aioseop_description: Tutorial explica e exemplifica como retornar a última pasta
+    de um diretório
+  _aioseop_title: Retornar a última pasta de um diretório
+  simplecatch-sidebarlayout: ''
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+<p>Uma das maneiras de retornar a última pasta de um diretório.</p>
+<p>Por exemplo, voce tem uma url <em><strong>http://blog2.maxcnunes.net/topicos/csharp/default.aspx</strong></em> e gostaria de retornar apenas a última pasta.</p>
+<p>O jeito que encontrei foi este:</p>
+<p>[sourcecode language="csharp"]</p>
+<p>public string RetornaUltimaPasta(string url)<br />
+{<br />
+    return System.IO.Path.GetFileName(Path.GetDirectoryName(url);<br />
+}</p>
+<p>[/sourcecode]</p>

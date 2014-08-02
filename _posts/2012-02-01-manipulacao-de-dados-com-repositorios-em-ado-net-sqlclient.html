@@ -1,0 +1,78 @@
+---
+layout: post
+title: Manipulação de Dados com Repositórios em ADO.NET SqlClient
+categories:
+- .NET
+- C#
+- SQL
+tags:
+- banco
+- c#
+- classe
+- POO
+- sqlclient
+- SQLEXPRESS
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _syntaxhighlighter_encoded: '1'
+  _aioseop_keywords: DAO, Repositório, ADO.NET, SqlClient
+  _aioseop_description: Tutorial manipulação de Dados com Repositórios em ADO.NET
+    SqlClient
+  _aioseop_title: Manipulação de Dados com Repositórios em ADO.NET SqlClient
+  simplecatch-sidebarlayout: ''
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+<div>
+<img class="size-medium wp-image-526" title="Projeto-ADONET" src="/assets/Projeto-ADONET-186x300.png" alt="" width="186" height="300" />
+<p>Hoje venho apresentar uma forma simples e produtiva para persistência e manipulação de dados.</p>
+</div>
+<div>Para isso vou utilizar a seguinte arquitetura:</div>
+<p><strong>Camada de Apresentação</strong> : Telas Windows Form</p>
+<p><strong>Camada de Entidades</strong>: Classes referente aos objetos de negócio do projeto</p>
+<p><strong>Camada de Repositório</strong>: Classes relacionadas aos objetos de negócios, com a responsabilidade de persistência e manipulação de dados.</p>
+<div>Para o acesso aos dados, implementarei os repositórios utilizando o ADO.NET SqlClient. O que por um lado vai gerar um pouco mais de serviço, precisando implementar todos os comandos SQL para manipulação dos dados. Por outro lado, será um ponto positivo. Pois vamos ter a autonomia nessas manipulações, por não estar dependendo de Frameworks ORMs e tendo todas as possibilidades de comandos que o SQL pode nos proporcionar.</div>
+<p></p>
+<div>O código do projeto foi compartilhado no Github: <a href="https://github.com/maxcnunes/WindowsForm-Entidades-RepositorioAdoNet" target="_blank">https://github.com/maxcnunes/WindowsForm-Entidades-RepositorioAdoNet</a></div>
+<div><!--more--></div>
+<p></p>
+<h3>Projeto Entidades</h3>
+<p>Aqui implementamos dentro do projeto de Entidades, nossa classe referente ao objeto Aluno. Tente sempre manter, para as classes de entidade, a real características e comportamentos referente ao  objeto que a classe representa. Não deixe métodos CRUD aqui, porque no mundo real um aluno não possui tais comportamentos.</p>
+
+{% gist maxcnunes/1748064 Aluno.cs %}
+
+<h3>Projeto Repositório</h3>
+<p>A classe a seguir será herdada por todos os repositórios concretos. Nela manteremos métodos e atributos comum aos outros repositórios.  Neste caso, foi implementado o método criar conexão, que recupera a string de conexão que está no arquivo app.config, que está localizado no projeto principal da Solution (Camada Apresentação).</p>
+
+{% gist maxcnunes/1748064 RepositorioBase.cs %}
+
+<p>Interface que define os comportamentos comuns ao todos os repositórios. Dessa forma garantimos que todos os repositórios deverão seguir esta implementação. O mais legal nesse ponto, é que foi utilizado generics. Deixando esta interface bem genérica e possibilitando que qualquer classe consiga implementá-la.</p>
+
+{% gist maxcnunes/1748064 IRepositorio.cs %}
+
+<p>Repositório Aluno implementa a interface IRepositorio e herda as definições da classe RepositorioBase.  Aqui sim realizamos o acesso aos dados, através do SqlClient do ADO.NET.</p>
+
+{% gist maxcnunes/1748064 AlunoRepositorio.cs %}
+
+<p>Note que no código anterior utilizamos 3 tipos de <em><strong>"Execute Command"</strong></em>, para executar os comandos SQL.</p>
+<ul>
+<li><strong>ExecuteScalar: </strong>Executa o comando SQL e retorna a primeira coluna da primeira linha do conjunto de resultados retornado na consulta. As restantes linhas e colunas são ignoradas. Normalmente utilizado para COUNT, SUM e outros desse tipo.</li>
+<li><strong>ExecuteReader: </strong>Executa o comando SQL retorna uma variável que fornece uma maneira de ler um fluxo uni-direcional de uma base de dados SQL Server. Utilizado para comandos de SELECT.</li>
+<li><strong>ExecuteNonQuery:</strong> Executa o comando SQL e retorna o número de linhas afetadas. Normalmente utilizado para comandos INSERT, DELETE e UPDATE.</li>
+</ul>
+<h3>Projeto MDI_Escola (Apresentação)</h3>
+<p>A tela para gerenciamento do Aluno ficará assim:</p>
+<img class="size-full wp-image-535 " title="Tela-ADONET" src="/assets/Tela-ADONET.png" alt="" width="615" height="446" />
+<p>Eventos da tela Cadastrar Aluno (CodeBehind da Tela):<br />
+
+{% gist maxcnunes/1748064 FrmCadAluno.cs %}
+
+<p>Por último adicione um arquivo "App.config" ao projeto da camada de Apresentação e configure nele a conexão com o seu banco:<br />
+{% gist maxcnunes/1748064 App.config %}

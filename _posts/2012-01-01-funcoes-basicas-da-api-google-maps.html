@@ -1,0 +1,346 @@
+---
+layout: post
+title: Funções básicas da API Google Maps
+categories:
+- JavaScript
+tags:
+- google map
+- javascript
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _syntaxhighlighter_encoded: '1'
+  _aioseop_keywords: api, google, map, 3, bound, resize, rota, marcadores
+  _aioseop_description: Tutorial funções básicas da API Google Maps. Carregar mapa
+    pelo endereço, localização, adicionar marcadores, corrigir fronteira do mapa...
+  _aioseop_title: Funções básicas da API Google Maps
+  simplecatch-sidebarlayout: ''
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+
+<img class="size-thumbnail wp-image-496" title="gmap-exemplo" src="/assets/gmap-exemplo-150x150.png" alt="Exemplo do tutorial" width="150" height="150" />
+
+<p>Com o google maps cada vez mais difundido entre a população. Pela facilidade na utilização do aplicativo e pelos benefícios providos pelo mesmo. Está cada vez mais comum, nos depararmos com sites e sistemas utilizando tais funcionalidades do aplicativo, para indicar a localização de empresas, rotas e outros pontos interessantes.</p>
+<p>O Google disponibiliza uma API para que os desenvolvedores utilizem os recursos do GMap. Neste <a href=" http://code.google.com/intl/pt-BR/apis/maps/documentation/javascript/reference.html" target="_blank"> link </a> você encontrará toda a documentação desta API.</p>
+<p><!--more--><br />
+<br />
+Na demonstração a seguir será abordado funcionalidades simples da API do GMaps, como:</p>
+<ul>
+<li>Marcar um ponto no mapa pelo endereço</li>
+<li>Marcar um ponto no mapa pela localização (Latitude e Longitude)</li>
+<li>Criar descrição de rotas</li>
+<li>Criar eventos para receber o endereço atual do marcador ao arrastá-lo</li>
+<li>Customizar ícones dos marcadores com imagens diferentes do padrão</li>
+<li>Definir a fronteira e o zoom do mapa, de acordo com todos os pontos adicionados nele</li>
+</ul>
+<div>Para você ter uma ideia de como ficará, segue um printscreen do resultado final.</div>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2011/12/gmap-exemplo.png"><img class="aligncenter size-full wp-image-496" title="gmap-exemplo" src="/assets/gmap-exemplo.png" alt="Exemplo do tutorial" width="652" height="448" /></a></p>
+<pre>Faça o download do demo: <a href="https://github.com/maxcnunes/GoogleMapsAPI3" target="_blank">https://github.com/maxcnunes/GoogleMapsAPI3</a>
+[sourcecode language="javascript"]
+/*
+:::::: Variaveis globais
+*/
+var map;
+var directionsPanel;
+var directions;
+var from;
+var to;
+var urlPrint;
+var lat, lng;
+var bounds;
+var geocoder = new google.maps.Geocoder();
+var directionsService = new google.maps.DirectionsService();
+
+function CarregarMapa() {
+    map = new google.maps.Map(document.getElementById('gmap'), {
+        'zoom': 3,
+        'center': new google.maps.LatLng(70, 0),
+        'mapTypeId': google.maps.MapTypeId.ROADMAP
+    });
+
+    //Inicializa a o limite do mapa
+    bounds = new google.maps.LatLngBounds();
+
+    //Cria o marcador
+    marker1 = new google.maps.Marker({
+        map: map,
+        position: new google.maps.LatLng(65, -10),
+        draggable: true,
+        title: 'Arraste-me!'
+    });
+    //Redimensiona o limite do mapa, de acordo com o novo ponto
+    bounds.extend(new google.maps.LatLng(65, -10));
+
+    //Carrega valores para a latitude e longitude
+    lat = parseFloat($(&quot;#hdnLatitude&quot;).val());
+    lng = parseFloat($(&quot;#hdnLongitude&quot;).val());
+
+    marker2 = new google.maps.Marker({
+        map: map,
+        position: new google.maps.LatLng(lat, lng),
+        draggable: true,
+        icon: 'http://google-maps-icons.googlecode.com/files/airport.png'
+    });
+    //Redimensiona o limite do mapa, de acordo com o novo ponto
+    bounds.extend(new google.maps.LatLng(lat, lng));
+
+    //Cria um evento para o marcador, que será disparado ao arrastá-lo
+    google.maps.event.addListener(marker1, &quot;drag&quot;, function () {
+
+        //Recupera a localizacao do marcador
+        var latLng = marker1.getPosition();
+
+        //Passa a localizacao do ponto ao arrastar, para inputs text e hidden
+        $(&quot;#txtLatitude&quot;).val(latLng.lat());
+        $(&quot;#txtLongitude&quot;).val(latLng.lng());
+        $(&quot;#hdnLatitude&quot;).val(latLng.lat());
+        $(&quot;#hdnLongitude&quot;).val(latLng.lng());
+    });
+
+    //Cria um evento para o marcador, que será disparado ao terminar arrastá-lo
+    google.maps.event.addListener(marker1, &quot;dragend&quot;, function () {
+
+        geocodePosition(marker1.getPosition());
+    });
+
+    //Cria um evento para o marcador, que será disparado ao ser clicado
+    google.maps.event.addListener(marker1, &quot;click&quot;, function () {
+        //Cria uma janela de mensagem para o marcador
+        marker.openInfoWindowHtml(&quot;Arraste o ponto, para definir a localização&quot;);
+    });
+
+    //Redefine os limites
+    map.fitBounds(bounds);
+    //Redefine o zoom de acordo com o limite
+    map.setZoom(map.getZoom());
+    //Redefine o centro de acordo com o limite
+    map.setCenter(bounds.getCenter());
+}
+
+function AdicionarLocalizacao() {
+    var marker3 = new google.maps.Marker({
+        map: map,
+        position: new google.maps.LatLng(-70, -10),
+        draggable: true,
+        title: 'Arraste-me!',
+        icon: 'http://mapicons.nicolasmollet.com/wp-content/uploads/mapicons/shape-default/color-ff8a22/shapecolor-white/shadow-1/border-color/symbolstyle-color/symbolshadowstyle-no/gradient-no/archery.png'
+    });
+    //Redimensiona o limite do mapa, de acordo com o novo ponto
+    bounds.extend(new google.maps.LatLng(-70, -10));
+
+    //Redefine os limites
+    map.fitBounds(bounds);
+    //Redefine o zoom de acordo com o limite
+    map.setZoom(bounds.getZoom());
+    //Redefine o centro de acordo com o limite
+    map.setCenter(bounds.getCenter());
+}
+
+function CarregarPeloEndereco() {
+    //Recupera o endereço no input text
+    var endereco = $('#txtEndereco').val();
+
+    //Carrega o endereco no mapa
+    geocoder.geocode({
+        address: endereco
+    }, function (responses) {
+        if (responses &amp;&amp; responses.length &gt; 0) {
+            //Recupera a localiçao retornada pelo geocoder
+            var place = responses[0];
+
+            //Cria Marcador
+            var marker4 = new google.maps.Marker({
+                map: map,
+                position: place.geometry.location,
+                draggable: true,
+                title: 'Arraste-me!',
+                icon: 'http://mapicons.nicolasmollet.com/wp-content/uploads/mapicons/shape-default/color-ffc11f/shapecolor-color/shadow-1/border-dark/symbolstyle-white/symbolshadowstyle-dark/gradient-no/scoutgroup.png'
+            });
+            //Redimensiona o limite do mapa, de acordo com o novo ponto
+            bounds.extend(place.geometry.location);
+
+            //Atualiza valores nos inputs da pagina
+            $('#txtEnderecoImovel').val(place.formatted_address);
+
+            //Redefine os limites
+            map.fitBounds(bounds);
+            //Redefine o zoom de acordo com o limite
+            map.setZoom(map.getZoom());
+            //Redefine o centro de acordo com o limite
+            map.setCenter(bounds.getCenter());
+        } else {
+            $('#txtEndereco').val('Nao pode determinar a localizacao.');
+        }
+    });
+}
+
+function CriarRota() {
+    //Verifica se o input text esta preenchido
+    if (Trim($(&quot;#ondeestou&quot;).val()) == &quot;&quot;) {
+        alert(&quot;Preencha a sua localizacao.&quot;);
+        return;
+    }
+    //Limpa todas os marcadores
+    //map.clearOverlays();
+
+    //Define o painel que receberá a rota &quot;escrita&quot;
+    directionsPanel = document.getElementById(&quot;rota_gmap&quot;);
+    //Limpa o painel de qualquer html
+    directionsPanel.innerHTML = &quot;&quot;;
+
+    //Recupera o endereco do input text
+    from = $(&quot;#ondeestou&quot;).val();
+
+    var directionsDisplay = new google.maps.DirectionsRenderer({
+        'map': map,
+        'preserveViewport': true,
+        'draggable': true
+    });
+    directionsDisplay.setPanel(directionsPanel);
+
+    var request = {
+        origin: from,
+        destination: new google.maps.LatLng(lat, lng),
+        travelMode: google.maps.DirectionsTravelMode.DRIVING
+    };
+    directionsService.route(request, function (response, status) {
+        if (status == google.maps.DirectionsStatus.OK) {
+            directionsDisplay.setDirections(response);
+        }
+    });
+}
+
+function geocodePosition(pos) {
+    geocoder.geocode({
+        latLng: pos
+    }, function (responses) {
+        if (responses &amp;&amp; responses.length &gt; 0) {
+            $('#txtEndereco').val(responses[0].formatted_address);
+        } else {
+            $('#txtEndereco').val('Nao pode determinar a localizacao.');
+        }
+    });
+}
+
+/*
+::::: SCRIPTS DE SUPORTE
+*/
+function Trim(str) {
+    return str.replace(/^s+|s+$/g, &quot;&quot;);
+}
+
+function Imprimir() {
+    var disp_setting = &quot;toolbar=yes,location=no,directories=yes,menubar=yes,&quot;;
+    disp_setting += &quot;scrollbars=yes,width=643, height=600, left=100, top=25&quot;;
+    var content_vlue = document.getElementById(&quot;rota_gmap&quot;).innerHTML;
+    var docprint = window.open(&quot;&quot;, &quot;&quot;, disp_setting);
+    docprint.document.open();
+    docprint.document.write(&quot;&lt;html&gt;&lt;head&gt;&lt;title&gt;Como chegar&lt;/title&gt;&quot;);
+    docprint.document.write(&quot;&lt;style type=&quot;text/css&quot;&gt;body{ font-family:Tahoma;font-size:8pt; margin:10px; }&lt;/style&gt;&quot;);
+    docprint.document.write(&quot;&lt;/head&gt;&lt;body&gt;&lt;center&gt;&quot;);
+    docprint.document.write(&quot;&lt;h1&gt;Como chegar&lt;/h2&gt;&quot;);
+    docprint.document.write(&quot;&lt;div  style=&quot;width: 603px; margin-left:2px;&quot;&gt;&quot;);
+    docprint.document.write(content_vlue);
+    docprint.document.write(&quot;&lt;/div&gt;&quot;);
+    docprint.document.write(&quot;&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot;&gt;window.print();&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;&quot;);
+    docprint.document.close();
+    docprint.focus();
+} 
+[/sourcecode]
+[sourcecode language="html"]
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;Google Maps API&lt;/title&gt;
+    &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
+    &lt;!-- :: CSS - Page Layout :: --&gt;
+    &lt;link href=&quot;css/common.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+    &lt;!-- :: JS - JQuery :: --&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;http://code.jquery.com/jquery-1.7.1.min.js&quot;&gt;&lt;/script&gt;
+    &lt;!-- :: JS - Google Maps API :: --&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;http://maps.google.com/maps/api/js?sensor=false&quot;&gt;&lt;/script&gt;
+    &lt;!-- :: JS - GMaps Functions :: --&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;js/js-gmaps-functions.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot;&gt;
+        $(function () {
+            //Inicializa o mapa
+            CarregarMapa();
+        });
+    &lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div id=&quot;wrapper&quot;&gt;
+        &lt;!--Valores pré-definidos para o mapa--&gt;
+        &lt;input id=&quot;hdnLatitude&quot; runat=&quot;server&quot; type=&quot;hidden&quot; value=&quot;-23.292757&quot; /&gt;
+        &lt;input id=&quot;hdnLongitude&quot; runat=&quot;server&quot; type=&quot;hidden&quot; value=&quot;-51.169424&quot; /&gt;
+        &lt;div&gt;
+            &lt;div class=&quot;box_left&quot;&gt;
+                &lt;label&gt;
+                    Endereço:&lt;/label&gt;
+                &lt;input type=&quot;text&quot; id=&quot;txtEndereco&quot; value=&quot;Av. Tiradentes 1241, Londrina PR&quot; size=&quot;54&quot; /&gt;
+                &lt;!--Botao busca o mapa pelo endereço--&gt;
+                &lt;a class=&quot;button&quot; href=&quot;javascript:CarregarPeloEndereco();&quot; title=&quot;Carregar a partir do endereço&quot;&gt;
+                    &lt;img src=&quot;img/search.png&quot; alt=&quot;Buscar&quot; /&gt;
+                &lt;/a&gt;
+                &lt;div class=&quot;box_middle&quot;&gt;
+                    &lt;label&gt;
+                        Latitude:&lt;/label&gt;
+                    &lt;input type=&quot;text&quot; id=&quot;txtLatitude&quot; value=&quot;-23.292757&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;box_middle&quot;&gt;
+                    &lt;label&gt;
+                        Longitude:&lt;/label&gt;
+                    &lt;input type=&quot;text&quot; id=&quot;txtLongitude&quot; value=&quot;-51.169424&quot; /&gt;
+                    &lt;!--Botao busca o mapa pela localização (Latitude e Longitude)--&gt;
+                    &lt;a class=&quot;button&quot; href=&quot;javascript:CarregarMapa();&quot; title=&quot;Carregar a partir da longitude e latitude&quot;&gt;
+                        &lt;img src=&quot;img/search.png&quot; alt=&quot;Buscar&quot; /&gt;
+                    &lt;/a&gt;
+                &lt;/div&gt;
+                &lt;div&gt;
+                    &lt;label&gt;
+                        Adicionar mais 1 localização
+                        &lt;!--Botao adiciona uma nova localização no mapa--&gt;
+                        &lt;a class=&quot;button&quot; href=&quot;javascript:AdicionarLocalizacao();&quot;&gt;
+                            &lt;img src=&quot;img/add.png&quot; alt=&quot;Add&quot; /&gt;
+                        &lt;/a&gt;
+                    &lt;/label&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;box_right&quot;&gt;
+                &lt;label&gt;
+                    Como chegar?&lt;/label&gt;
+                &lt;input type=&quot;text&quot; id=&quot;ondeestou&quot; size=&quot;36&quot; /&gt;
+                &lt;!--Botao criar rota--&gt;
+                &lt;a href=&quot;javascript:CriarRota();&quot; title=&quot;Traçar Rota&quot; class=&quot;button&quot;&gt;
+                    &lt;img src=&quot;img/go.png&quot; alt=&quot;Ir&quot; /&gt;&lt;/a&gt;
+                &lt;br /&gt;
+                &lt;span style=&quot;font-size: 8pt; color: #999;&quot;&gt;Ex: Rua Numero, Cidade, Estado&lt;/span&gt;
+                &lt;br /&gt;
+                &lt;br /&gt;
+                &lt;!--Botao imprimir--&gt;
+                &lt;a href=&quot;javascript:Imprimir();&quot; class=&quot;button&quot;&gt;
+                    &lt;img src=&quot;img/print.png&quot; alt=&quot;Imprimir&quot; /&gt;&lt;span&gt;Imprimir rota&lt;/span&gt; &lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;div class=&quot;box_left&quot;&gt;
+                &lt;!--Div que armazenará o mapa--&gt;
+                &lt;div id=&quot;gmap&quot;&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;box_right&quot;&gt;
+                &lt;!--Div que armazenará a descrição da rota--&gt;
+                &lt;div id=&quot;rota_gmap&quot;&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+[/sourcecode]</pre>

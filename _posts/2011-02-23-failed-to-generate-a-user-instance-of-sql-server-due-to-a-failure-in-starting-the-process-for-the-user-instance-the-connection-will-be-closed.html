@@ -1,0 +1,46 @@
+---
+layout: post
+title: Failed to generate a user instance of SQL Server ...
+categories:
+- Banco de Dados
+- Erro
+tags:
+- erro
+- Failed
+- generate
+- SQLEXPRESS
+status: publish
+type: post
+published: true
+meta:
+  simplecatch-sidebarlayout: ''
+  _edit_last: '1'
+  _aioseop_keywords: ERRO, ERROR,Failed, generate, instance,SQL Server
+  _aioseop_description: 'Tutorial explica como corrigir o erro Failed to generate
+    a user instance of SQL '
+  _aioseop_title: Failed to generate a user instance of SQL Server
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+<div id="div_conteudo">
+<div>
+<div>
+
+<img class="size-thumbnail wp-image-172 " style="margin: 3px;" title="erro sql server express" src="/assets/images-150x150.jpg" alt="" width="150" height="150" />
+
+
+<p>Ao abrir pelo Visual Studio, um arquivo .mdf, a conexão falhava e aparecia a seguinte mensagem <em>"Failed to generate a user instance of SQL Server due to a failure in starting the process for the user instance. The connection will be closed."</em>.</p>
+<p><!--more--></p>
+<p>Após procurar um pouco na internet achei a seguinte solução:</p>
+<ol>
+<li>Acesse o seguinte local - "c:Documents and Settings[user]Local SettingsApplication DataMicrosoftMicrosoft SQL Server Data".</li>
+<li>Exclua a pasta "SQLEXPRESS"</li>
+</ol>
+<p>O motivo que encontrei deste erro é que o nome da instância tanto no Express 2005 como no 2008 era SQLEXPRESS, e os arquivos de configurações de usuário estavam errados. E após excluir, os arquivos são criados novamente com uma nova configuração.</p>
+</div>
+</div>
+</div>

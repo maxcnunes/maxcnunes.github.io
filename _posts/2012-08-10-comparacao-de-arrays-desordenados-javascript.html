@@ -1,0 +1,66 @@
+---
+layout: post
+title: Comparação de arrays desordenados - Javascript
+categories:
+- JavaScript
+tags:
+- javascript
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _aioseop_keywords: 'Comparação, arrays, desordenados, Javascript, compare, '
+  _aioseop_description: Uma dica rápida de como comparar arrays de objetos, dos quais
+    estão em ordens diferentes.
+  _aioseop_title: Comparação de arrays desordenados - Javascript
+  simplecatch-sidebarlayout: ''
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+<p>
+
+<img class="size-thumbnail wp-image-721" title="disorderly" src="/assets/disorderly-150x150.jpg" alt="" width="150" height="150" />
+
+<p>Trabalhando com javasacript, em muitos momentos surge a necessidade de manter em hiddens ids selecionados em arrays, concatenados por algum caracter separador. E em algumas dessas situações preciso comparar esses arrays com outros arrays, que podem estar em ordens diferentes.</p>
+<p>Sendo assim uma dica rápida de como comparar arrays de objetos, dos quais estão em ordens diferentes:</p>
+<p><!--more--></p>
+<pre class="brush: javascript">//Compara string de arrays [strArray1 = lista 1, strArray2 = lista 2, separator = separador]
+function disorderlyStrArraysAreEqual(strArray1, strArray2, separator) {
+    //Verifica se os valores estao vazios
+    if (strArray1 == '' || strArray1 == 'undefined' || 
+        strArray2 == '' || strArray2 == 'undefined') {
+        return (strArray1 == strArray2);
+    }
+
+    //Separa os valores pelo caracter separador 
+    //e remove o ultimo separador se for o ultimo caracter da string
+    var array1 = rtrim(strArray1, separator).split(separator);
+    var array2 = rtrim(strArray2, separator).split(separator);
+
+    //Compara arrays pelo tamanho
+    if (array1.length != array2.length) {
+        return false;
+    }
+
+    for (var index = 0; index < array1.length; index++) {
+        //Verifica na lista 2 se o item atual da lista 1 não existe
+        if (strArray2.indexOf(array1[index]) == -1)
+            return false;
+        //Verifica na lista 1 se o item atual da lista 2 não existe
+        if (strArray1.indexOf(array2[index]) == -1)
+            return false;
+    }
+    return true;
+}</pre>
+<p>Para garantir que seja removido ultimo caracter&nbsp;de separação vamos utilizar a seguinte função, que remove caracter passado por parametro, se ele for o ultimo da string:</p>
+<pre class="brush: javascript">function rtrim(str, chars) {
+    chars = chars || "s";
+    return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
+}</pre>
+<p>Utilizando a função de comparação:</p>
+<pre class="brush: javascript">var isEqual = disorderlyStrArrayIsEqual(newValues, oldValues, ';');</pre>

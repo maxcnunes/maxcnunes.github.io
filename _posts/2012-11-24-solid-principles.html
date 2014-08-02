@@ -1,0 +1,274 @@
+---
+layout: post
+title: SOLID Principles
+categories:
+- C#
+- Design Patterns
+tags:
+- c#
+- Design Pattern
+- SOLID
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _aioseop_keywords: SOLID, Exemplos, SRP, OCP, LSP, ISP, DIP
+  _aioseop_description: Uma breve descrição, com exemplos, dos princípios SOLID. Para
+    você que ainda não os conhece é uma boa oportunidade para aumentar a qualidade
+    do seu código.
+  _aioseop_title: SOLID Principles
+  simplecatch-sidebarlayout: ''
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+
+
+<img class="size-thumbnail wp-image-764 " title="SOLID_MCN" src="/assets/SOLID_MCN-150x150.png" alt="" width="150" height="150" />
+
+<p>Robert C. Martin “Uncle Bob” descreve os princípios SOLID, em “Agile Software Development: Principles, Patterns and Practices”, como cinco diretrizes para serem seguidas no que aumentariam a qualidade do código OO, facilitando a manutenção e alterações do código de acordo com as mudanças de requisitos.</p>
+<p><!--more--></p>
+<h2><span style="font-weight: normal;"><span style="color: #f79646;">Sintomas de um Design Pobre</span></span></h2>
+<p>Segundo Uncle Bob existiriam alguns sintomas que demonstrariam quando um software está mal planejado e codificado. Os sintomas são definidos da seguinte forma:</p>
+<ol>
+<li>Rigidez (Rigidity) - O design é difícil de ser alterado.</li>
+<li>Fragilidade (Fragility) - O design é fácil de ser quebrado.</li>
+<li>Imobilidade (Immobility) - O design é difícil de ser reutilizado.</li>
+<li>Viscosidade (Viscosity) - É difícil de ser fazer a coisa certa.</li>
+<li>Precisa de menos complexidade (Needless Complexity) - O design está sobrecarregado.</li>
+<li>Precisa de menos repetição (Needless Repetition) – O design está repetido.</li>
+<li>Opacidade (Opacity) – Design desorganizado e difícil de entender.</li>
+</ol>
+<h2>&nbsp;</h2>
+<h2>Princípios SOLID</h2>
+<p>O SOLID são princípios no design orientado a objeto que ajudariam desenvolvedores a eliminar os sintomas de um design pobre e construir um design melhor para a definição de novas funcionalidades. Os princípios são os seguintes:</p>
+<ol>
+<li>SRP (The Single Responsibility Principle) – O Princípio da Responsabilidade Única.</li>
+<li>OCP (The Open-Closed Principle) – O Princípio Aberto-Fechado.</li>
+<li>LSP (The Liskov Substitution Principle) – O Princípio da Substituição de Liskov.</li>
+<li>ISP (The Interface Segregation) – O Princípio da Segregação de Interface.</li>
+<li>DIP (The Dependency Inversion) – O Princípio de Dependência.</li>
+</ol>
+<h4>&nbsp;</h4>
+<h2>&nbsp;</h2>
+<h2><span style="font-weight: normal;"><span style="color: #0080ff;">SRP - O Princípio da Responsabilidade Única</span></span></h2>
+<p>O SRP trata que uma classe não deveria ter mais de uma razão para ser alterada. Isto significa que você deveria projetar sua classe para servir um único propósito. Não precisamos extrapolar e implementar apenas um método por classe, mas que todos os membros da classe sejam relacionados a função principal da classe. Quando pensamos em uma classe com múltiplas responsabilidades, deveríamos pensar melhor e separar essas diferentes reponsabilidades em novas classes.</p>
+<p>Cada vez que uma classe é modificada o risco de surgirem novos bugs aumenta. Seguindo o SRP o risco de afetarem mais partes do sistema, como classes dependentes, é mitigado.</p>
+<p><strong>Exemplo:</strong></p>
+<p><strong><span style="color: #ff0000;">ERRADO</span></strong></p>
+<p>É muito comum, infelizmente, vermos desenvolvedores atribuindo múltiplas responsabilidades para uma única classe ou método. Como esta classe empregado, além dos comportamentos esperados de um objeto empregado, ele ainda possui a responsabilidade de salvar as informações no banco e gerar relatórios.</p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image001.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image001" src="/assets/clip_image001_thumb.png" alt="clip_image001" width="304" height="225" /></a></p>
+<p><strong><span style="color: #00c40f;">CORRETO</span></strong></p>
+<p>Modularize a classe anterior atribuindo às responsabilidades corretas para cada classe gerada:</p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image003.jpg"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image003" src="/assets/clip_image003_thumb.jpg" alt="clip_image003" width="624" height="199" /></a></p>
+<h2>&nbsp;</h2>
+<h2><span style="font-weight: normal;"><span style="color: #0080ff;">OCP – O Princípio Aberto-Fechado</span></span></h2>
+<p>O ORP define que entidades (classes, módulos, funções, etc) deveriam ser abertas para extensões, mas fechadas para modificações. O “fechado” trata da regra na qual um módulo desenvolvido e testado, este código deveria somente ser ajustado para corrigir bugs. O “aberto” trata da regra na qual deveria ser capaz de estender o código existente para introduzir novas funcionalidades.</p>
+<p>Assim como o SRP, este princípio reduz o risco de novos erros sendo introduzidos a partir de alterações no código existente.</p>
+<p><strong>Exemplo</strong></p>
+<p><strong><span style="color: #ff0000;">ERRADO</span></strong></p>
+<p>Suponha que você possui um relatório que deveria fazer o calculo de todas as áreas utilizadas em um sistema. Muitos provavelmente fariam da forma abaixo, criando objetos diferentes com métodos de calculo específicos para cada um e na classe de relatório passariam uma lista de cada tipo de objeto para realizar o calculo total de áreas:</p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image004.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image004" src="/assets/clip_image004_thumb.png" alt="clip_image004" width="426" height="271" /></a></p>
+<pre class="brush: c-sharp; toolbar: false">class Quadrado
+    {
+        public decimal CalcularAreaQuadrado()
+        {
+            return 0;// Suponha que esteja implementado o calculo correto
+        }
+    }
+
+class Retangulo
+    {
+        public decimal CalcularAreaRetangulo()
+        {
+            return 0;// Suponha que esteja implementado o calculo correto
+        }
+    }
+
+class RelatorioAreasService
+    {
+        public decimal CalcularAreaTotal(List<quadrado> quadrados, List<retangulo> retangulos)
+        {
+            decimal areaTotal = 0;
+
+            foreach (Quadrado item in quadrados)
+                areaTotal += item.CalcularAreaQuadrado();
+
+            foreach (Retangulo item in retangulos)
+                areaTotal += item.CalcularAreaRetangulo();
+
+            return areaTotal;
+        }
+    }</retangulo></quadrado></pre>
+<p>Mas e se surgisse uma nova forma geométrica no sistema? Da forma a cima você teria que modificar a classe relatório o que violaria o OCP.</p>
+<p><strong><span style="color: #00c40f;">CORRETO</span></strong></p>
+<p>Pense da seguinte forma, você sabe que a classe relatório deve calcular a área de qualquer objeto que saiba como calcular sua própria área. Dessa forma o melhor seria que cada um desses objetos implementassem um comportamento comum definido por uma interface.</p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image005.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image005" src="/assets/clip_image005_thumb.png" alt="clip_image005" width="445" height="425" /></a></p>
+<pre class="brush: c-sharp; toolbar: false">interface IArea
+    {
+        decimal CalcularArea();
+    }
+
+class Retangulo : IArea
+    {
+        public decimal CalcularArea()
+        {
+            return 0;// Suponha que esteja implementado o calculo correto
+        }
+    }
+
+class Quadrado : IArea
+    {
+        public decimal CalcularArea()
+        {
+            return 0;// Suponha que esteja implementado o calculo correto
+        }
+    }
+
+class RelatorioAreasService
+    {
+        public decimal CalcularAreaTotal(List<iarea> areas)
+        {
+            decimal areaTotal = 0;
+
+            foreach (IArea item in areas)
+                areaTotal += item.CalcularArea();
+
+            return areaTotal;
+        }
+    }</iarea></pre>
+<p>Agora esta abordagem não está violando o OCP porque o código está fechado para modificações, se um dia surgir um objeto triangulo, não seria necessário modificar a classe relatório para realizar o calculo total e da mesma forma está aberta para extensões porque bastaria que a classe triângulo implementasse a interface IArea e ela já estaria apta para estender o relatório para essa nova forma geométrica.</p>
+<h2>&nbsp;</h2>
+<h2><span style="color: #0080ff; font-weight: normal;">LSP – O Princípio da Substituição de Liskov</span></h2>
+<p>O LSP foi nomeado dessa forma por causa de Barbara Liskov que afirmou em 1988 que “funções que utilizam referencias para classes base devem ser capaz de utilizar objetos derivados da classe derivada sem conhecê-los”.</p>
+<p>Se você cria uma superclasse com certos comportamentos definidos e em seguida cria outra classe herdando a classe anterior, mas nessa subclasse você não implementa os comportamentos corretamente, ou seja, sobrescreve qualquer comportamento com um procedimento vazio ou lança alguma exceção em seu lugar, então você está violando o LSP.</p>
+<p><span style="text-decoration: underline;">Para simplificar, pense no LSP como uma forma de garantir que a herança seja utilizada corretamente.</span></p>
+<p><strong>Exemplo:</strong></p>
+<p>Vamos considerar que exista a superclasse Animal e seja herdada pela subclasse classe Cavalo.</p>
+<p><strong><span style="color: #ff0000;">ERRADO</span> </strong></p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image006.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image006" src="/assets/clip_image006_thumb.png" alt="clip_image006" width="183" height="440" /></a></p>
+<p><strong>Todos sabem que um Cavalo não possui comportamentos de Hibernar e Voar!!!</strong></p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image0081.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-top: 0px; border-width: 0px;" title="clip_image008" src="/assets/clip_image008_thumb1.png" alt="clip_image008" width="404" height="298" border="0" /></a></p>
+<p>Então o código implementado ficaria assim:</p>
+<pre class="brush: c-sharp">public abstract class Animal
+    {
+        public abstract void Comer();
+        public abstract void Beber();
+        public abstract void Correr();
+        public abstract void Voar();
+        public abstract void Hibernar();
+    }
+
+public class Cavalo : Animal
+    {
+        public override void Comer()
+        {
+            //Implementar comportamento
+        }
+
+        public override void Beber()
+        {
+            //Implementar comportamento
+        }
+
+        public override void Correr()
+        {
+            //Implementar comportamento
+        }
+
+        public override void Voar()
+        {
+            //Não Implementar comportamento
+        }
+
+        public override void Hibernar()
+        {
+            //Disparar exceção
+            throw new NotImplementedException();
+        }
+    }</pre>
+<p>A implementação a cima foi uma forma frustrante de tentar cumprir os comportamentos impostos pela superclasse, o que nos fez violar o LSP e o SRP.</p>
+<p>Então você se pergunta, mas por que violou o LSP, se foram “implementados” todos os métodos no cavalo? Para facilitar o entendimento imagine que exista uma classe responsável por gerar o relatorio de migração dos animas, da seguinte forma:</p>
+<pre class="brush: c-sharp; toolbar: false">class RelatorioMigracao
+    {
+        void GerarRelatorioMigracaoDeInverno(IList<animal> animais)
+        {
+            foreach (Animal animal in animais)
+                animal.Voar();
+        }
+    }</animal></pre>
+<p>Por mais que a classe derivada (Cavalo) possua a implementação para o método Voar, quando a classe base (Animal) tentar executar esse comportamento, nada ocorrerá porque enganamos a herança implementando um comportamento vazio e como eu já mencionei o LSP diz claramente: “funções que utilizam referencias para classes base devem ser capaz de utilizar objetos derivados da classe derivada sem conhecê-los”.</p>
+<p><strong><span style="color: #00c40f;">CORRETO</span></strong></p>
+<p>Para resolver o problema anterior seria melhor separar especialidades em interfaces e manter comportamentos comuns na classe base. Ficando da seguinte forma:</p>
+<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image009.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image009" src="/assets/clip_image009_thumb.png" alt="clip_image009" width="505" height="505" /></a></p>
+<h2>&nbsp;</h2>
+<h2><span style="color: #0080ff; font-weight: normal;">ISP – O Princípio da Segregação de Interface</span></h2>
+<p>O Princípio da Segregação de Interface (ISP) determina que os clientes não devam ser forçados a depender de interfaces que eles não usam. Esta regra significa que, quando uma classe depende de outra, o número de membros na interface que é visível para a classe dependente deve ser minimizado.</p>
+<p>Muitas vezes, quando você cria uma classe com um grande número de métodos e propriedades, a classe é usada por outros tipos que exigem apenas o acesso a um ou dois membros. Quando você segue o ISP, classes grandes implementam múltiplas interfaces menores que podem ser agrupadas de acordo com a necessidade. Os dependentes são vinculados a essas interfaces, aumentando a robustez, flexibilidade e a possibilidade de reutilização.</p>
+<p><strong>Exemplo</strong>:</p>
+<p><strong><span style="color: #ff0000;">ERRADO</span></strong></p>
+<p><img style="display: inline;" title="clip_image010" src="/assets/clip_image010.png" alt="clip_image010" width="574" height="603" /></p>
+<p><strong><span style="color: #333333;">CORRETO</span></strong></p>
+<p>Segregando as interfaces aumentamos a reusabilidade e não impomos comportamentos indevidos para cada classe:</p>
+<p><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="/assets/image.png" alt="image" width="623" height="663" border="0" /></p>
+<h2>&nbsp;</h2>
+<h2><span style="color: #0080ff;"><span style="font-weight: normal;">DIP – O Princípio da Inversão de Dependência</span></span></h2>
+<p>O Princípio da Inversão de Dependência (DIP) é a última das cinco regras. O DIP faz duas afirmações. A primeira é a de que os módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. A segunda parte da regra é que abstrações não devem depender de detalhes. Detalhes devem depender abstrações.</p>
+<p>O DIP se relaciona principalmente com o conceito de camadas dentro de aplicativos, onde os módulos de nível inferior lidam com funções muito detalhadas e módulas de nível superior usam classes de nível inferior para realizar tarefas maiores. O princípio especifica que, quando existem dependências entre as classes, eles devem ser definidos usando abstrações, como interfaces, ao invés de referenciando classes diretamente. Isso reduz a fragilidade causada por alterações em módulos de baixo nível introduzir erros nas camadas mais altas. A DIP é comumente utilizada com injeção de dependência.</p>
+<p><strong>Exemplo:</strong></p>
+<p><strong><span style="color: #ff0000;">ERRADO</span></strong></p>
+<pre class="brush: c-sharp; toolbar: false">class Email
+    {
+        public void Enviar()
+        {
+
+        }
+    }
+
+class Notificador
+    {
+        private Email _email;
+
+        public Notificador()
+        {
+            _email = new Email();
+        }
+
+        public void NotificarAlteracaoDeSenha()
+        {
+            _email.Enviar();
+        }
+    }</pre>
+<p><strong><span style="color: #00c40f;">CORRETO</span></strong></p>
+<p>De a forma a seguir a classe de alto nível (Notificador) não depende mais de uma classe de baixo nível (Email) e sim de uma abstração (IMensagemService).</p>
+<pre class="brush: c-sharp; toolbar: false">interface IMensagemService
+    {
+        void Enviar();
+    }
+
+class Email : IMensagemService
+    {
+        public void Enviar()
+        {
+
+        }
+    }
+
+class Notificador
+    {
+        private IMensagemService _email;
+
+        public Notificador()
+        {
+            _email = new Email();
+        }
+
+        public void NotificarAlteracaoDeSenha()
+        {
+            _email.Enviar();
+        }
+    }</pre>

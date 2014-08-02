@@ -1,0 +1,52 @@
+---
+layout: post
+title: '"Salvar como" no ASP.NET'
+categories:
+- ASP.NET
+- C#
+tags:
+- dialog save
+- salvar como
+- save as
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _syntaxhighlighter_encoded: '1'
+  _aioseop_keywords: c#, salvar como, asp.net, bytes
+  _aioseop_description: Tutorial exemplifica como exibir o salvar como no asp.net.
+  _aioseop_title: '"Salvar como" no ASP.NET'
+  simplecatch-sidebarlayout: ''
+author:
+  login: maxcnunes
+  email: maxcnunes@gmail.com
+  display_name: maxcnunes
+  first_name: ''
+  last_name: ''
+---
+<p>Muitas vezes quando estamos trabalhando em uma p gina, surge a necessidade de disponibiliar o download de um arquivo aos usu rios.</p>
+<p>E para que o usu rio possa escolher onde salvar e como, devemos implementar uma janela de salvar como.</p>
+<p>De maneira simples segue o código. No qual o arquivo é aberto e lido no lado do servidor e em seguida o navegador é-  forçado a-  abrir sua janela de "salvar como".</p>
+<p>[sourcecode language="csharp"]</p>
+<p>protected void Button1_Click(object sender, EventArgs e)<br />
+{<br />
+     //Pasta dentro do site</p>
+<p>     string caminho = AppDomain.CurrentDomain.BaseDirectory + &quot;pasta/&quot;;<br />
+     //Nome do arquivo</p>
+<p>     string arquivo = &quot;imgTemp.png&quot;;</p>
+<p>     System.IO.FileStream fs = null;<br />
+     fs = System.IO.File.Open(caminho + arqivo, FileMode.Open);<br />
+     byte[] btFile = new byte[fs.Length];<br />
+     fs.Read(btFile, 0, Convert.ToInt32(fs.Length));<br />
+     fs.Close();<br />
+     Response.Buffer = true;<br />
+     Response.Expires = 0;<br />
+     Response.ContentType = &quot;plain/text&quot;;<br />
+     Response.AddHeader(&quot;Content-Type&quot;, &quot;plain/text&quot;);<br />
+     Response.AddHeader(&quot;Content-Disposition&quot;, &quot;attachment;filename=&quot; + arquivo);<br />
+     Response.Cache.SetCacheability(HttpCacheability.NoCache);<br />
+     Response.BinaryWrite(btFile);<br />
+     Response.End();<br />
+}</p>
+<p>[/sourcecode]</p>
