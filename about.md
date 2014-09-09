@@ -5,7 +5,7 @@ title: About
 
 Hi there! I'm **Max Claus Nunes** and in this blog I share some stuff I do in my coding time *(pretty much my whole day)*.
 
-![Me](/public/me.jpg)
+<img src="/public/me.jpg" style="width: 200px">
 
 My early days programming were around Microsoft technologies as .NET, C#, VB.NET, SQL Server, TFS, and etc. Nowadays I'm more glad working with Open Source technologies as Nodejs, MongoDB, Solr, DevOps in Unix environments, and etc.
 
