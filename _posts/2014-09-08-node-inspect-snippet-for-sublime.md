@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sublime Snippet of Node Inspect
+title: Node Inspect Snippet for Sublime
 categories:
 - Sublime
 tags:
