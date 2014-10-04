@@ -42,7 +42,7 @@ To set the result of falsy/thruthy verification to a variable is possible to use
 var xIsEmpty = !!x;
 ```
 
-Actually `!!` is not a operator it is only the `!` operator twice. The first `!` will cast cast to boolean inverting the result. Then the second `!` will invert again the value so it is the expected boolean value.
+Actually `!!` is not a operator it is only the `!` operator twice. The first `!` will cast to boolean inverting the result. Then the second `!` will invert again the value so it is the expected boolean value.
 
 ```js
 var x = 0;        // falsy
