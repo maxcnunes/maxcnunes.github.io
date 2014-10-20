@@ -12,6 +12,10 @@ Linux containers run all over the same Linux Kernel. It means all process runnin
 
 This week I was running some tests in one of the Bravi's server and I realized there was a weird grunt process using 30% of CPU. That was weird because should not exists a grunt process running in a staging/production environment and neither should be using so much from the CPU.
 
+```bash
+top
+```
+
 ![](/assets/top-grunt.png)
 
 Running this command `ps -axfo pid,uname,cmd` I got the full list of process running in that machine. In this list I could find that process with id equals to `2973` and its top parent process.
