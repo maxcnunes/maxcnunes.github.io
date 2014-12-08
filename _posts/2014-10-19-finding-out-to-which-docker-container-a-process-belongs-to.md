@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding out to which docker container a process belongs
+title: Finding out to which docker container a process belongs to
 categories:
 - Docker
 tags:
