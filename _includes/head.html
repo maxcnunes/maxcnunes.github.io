@@ -15,6 +15,12 @@
     {% endif %}
   </title>
 
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}"/>
+  {% else %}
+    <meta name="description" content="{{ site.description }}"/>
+  {% endif %}
+
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
@@ -23,7 +29,7 @@
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" 
+  <link rel="apple-touch-icon-precomposed"
             sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
   <link rel="shortcut icon" href="/public/favicon.ico">
 
