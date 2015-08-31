@@ -11,7 +11,8 @@ My early days programming were around Microsoft technologies as .NET, C#, VB.NET
 
 ## Links:
 
-* [Github](https://gist.github.com/maxcnunes)
+* [Github](https://github.com/maxcnunes)
+* [Gist](https://gist.github.com/maxcnunes)
 * [NPM](https://www.npmjs.org/~maxcnunes)
 * [Facebook](http://www.facebook.com/maxcnunes)
 * [Linkedin](htts://br.linkedin.com/in/maxcnunes)
