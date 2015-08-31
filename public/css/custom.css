@@ -55,3 +55,14 @@
   display: inline-block;
   margin: 0 .5em 0 0;
 }
+
+.navbar-search {
+  text-align: center;
+}
+
+.gsc-control-cse *,
+.gsc-control-cse-en * {
+  -webkit-box-sizing: initial;
+     -moz-box-sizing: initial;
+          box-sizing: initial;
+}
