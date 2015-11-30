@@ -19,6 +19,6 @@ unsafe because would run anything with root permissions. I think the safest solu
 is running those commands that depend on the temp directory with the `--unsafe-perm`
 argument.
 
-```shell
+```bash
 npm run --unsafe-perm <my-npm-script>
 ```
