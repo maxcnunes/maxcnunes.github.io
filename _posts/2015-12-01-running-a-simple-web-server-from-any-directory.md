@@ -25,4 +25,5 @@ Open the browser and access the web server through http://localhost:8000.
 
 ### Demo
 
-![](/assets/running-a-simple-web-server-from-any-directory.gif)
+<img src="/assets/running-a-simple-web-server-from-any-directory.gif" style="width: 100%" />
+<a href="/assets/running-a-simple-web-server-from-any-directory.gif">See the demo in the original scale</a>
