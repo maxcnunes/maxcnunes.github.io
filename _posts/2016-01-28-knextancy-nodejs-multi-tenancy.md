@@ -29,6 +29,10 @@ curl -X GET -H "x-client-id: 11" "http://localhost:3000/"
 
 Knextancy will identify the tenant associated to that request based in the `x-client-id`. In case is the first request for that server, knextancy also will execute the migration and seed tasks. So there is no manual configuration required for bringing up a database for a new client.
 
+> You may ask yourself. How is that secure if the tenant is based in HTTP header? Then the user could change manually the tenant he is accessing.
+>
+> Well. This is not a problem for services running inside a private network. For the public app/services, we run everything behind a proxy, that injects the x-client-id based in the domain.
+
 After that knextancy injects in the request an instance of [knex](knexjs.org) with the context of the current client (e.g. `req.knex`).
 
 Then to execute any SQL query with multi tenant support is just required to use the `req.knex` and any table must have prefix `$_` to allow knextancy resolve the table for the current client.
