@@ -14,19 +14,22 @@ This blog post [Mac OS X: Automating Tasks on Sleep](http://www.kodiakskorner.co
 Summarizing:
 
 ```bash
-# install
+# 1. install
 brew install sleepwatcher
 
-# create a script "~/.sleep" to be executed before the machine sleep
+# 2. create a script "~/.sleep" to be executed before the machine sleep
 # in my case was "cd <vm-directory> && vagrant suspend"
 
+# 3. set full permissions to the owner
 chmod 700 ~/.sleep
 
-# start the watcher then put your machine to sleep to test the script is working
+# 4. start the watcher then put your machine to sleep to test the script is working
 /usr/local/sbin/sleepwatcher --verbose --sleep ~/.sleep
 
 # configure the deamon
 sudo chown root:wheel /usr/local/Cellar/sleepwatcher/2.2/de.bernhard-baehr.sleepwatcher-20compatibility-localuser.plist
+
 ln -sfv /usr/local/Cellar/sleepwatcher/2.2/de.bernhard-baehr.sleepwatcher-20compatibility-localuser.plist ~/Library/LaunchAgents/
+
 launchctl load ~/Library/LaunchAgents/de.bernhard-baehr.sleepwatcher-20compatibility-localuser.plist
 ```
