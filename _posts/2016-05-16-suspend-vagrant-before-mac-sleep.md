@@ -12,6 +12,7 @@ So I find out is possible to configure scripts to be executed on wakeup/sleep th
 This blog post [Mac OS X: Automating Tasks on Sleep](http://www.kodiakskorner.com/log/258/comment-page-1#comment-6777) by Kodiak explain really well how to setup the sleepwatcher.
 
 Summarizing:
+
 ```bash
 # install
 brew install sleepwatcher
