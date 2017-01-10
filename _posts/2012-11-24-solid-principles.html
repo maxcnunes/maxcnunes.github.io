@@ -61,10 +61,10 @@ author:
 <p><strong>Exemplo:</strong></p>
 <p><strong><span style="color: #ff0000;">ERRADO</span></strong></p>
 <p>É muito comum, infelizmente, vermos desenvolvedores atribuindo múltiplas responsabilidades para uma única classe ou método. Como esta classe empregado, além dos comportamentos esperados de um objeto empregado, ele ainda possui a responsabilidade de salvar as informações no banco e gerar relatórios.</p>
-<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image001.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image001" src="/assets/clip_image001_thumb.png" alt="clip_image001" width="304" height="225" /></a></p>
+<p><a href="http://blog2.maxcnunes.com/wp-content/uploads/2012/11/clip_image001.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image001" src="/assets/clip_image001_thumb.png" alt="clip_image001" width="304" height="225" /></a></p>
 <p><strong><span style="color: #00c40f;">CORRETO</span></strong></p>
 <p>Modularize a classe anterior atribuindo às responsabilidades corretas para cada classe gerada:</p>
-<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image003.jpg"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image003" src="/assets/clip_image003_thumb.jpg" alt="clip_image003" width="624" height="199" /></a></p>
+<p><a href="http://blog2.maxcnunes.com/wp-content/uploads/2012/11/clip_image003.jpg"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image003" src="/assets/clip_image003_thumb.jpg" alt="clip_image003" width="624" height="199" /></a></p>
 <h2>&nbsp;</h2>
 <h2><span style="font-weight: normal;"><span style="color: #0080ff;">OCP – O Princípio Aberto-Fechado</span></span></h2>
 <p>O ORP define que entidades (classes, módulos, funções, etc) deveriam ser abertas para extensões, mas fechadas para modificações. O “fechado” trata da regra na qual um módulo desenvolvido e testado, este código deveria somente ser ajustado para corrigir bugs. O “aberto” trata da regra na qual deveria ser capaz de estender o código existente para introduzir novas funcionalidades.</p>
@@ -72,7 +72,7 @@ author:
 <p><strong>Exemplo</strong></p>
 <p><strong><span style="color: #ff0000;">ERRADO</span></strong></p>
 <p>Suponha que você possui um relatório que deveria fazer o calculo de todas as áreas utilizadas em um sistema. Muitos provavelmente fariam da forma abaixo, criando objetos diferentes com métodos de calculo específicos para cada um e na classe de relatório passariam uma lista de cada tipo de objeto para realizar o calculo total de áreas:</p>
-<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image004.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image004" src="/assets/clip_image004_thumb.png" alt="clip_image004" width="426" height="271" /></a></p>
+<p><a href="http://blog2.maxcnunes.com/wp-content/uploads/2012/11/clip_image004.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image004" src="/assets/clip_image004_thumb.png" alt="clip_image004" width="426" height="271" /></a></p>
 <pre class="brush: c-sharp; toolbar: false">class Quadrado
     {
         public decimal CalcularAreaQuadrado()
@@ -107,7 +107,7 @@ class RelatorioAreasService
 <p>Mas e se surgisse uma nova forma geométrica no sistema? Da forma a cima você teria que modificar a classe relatório o que violaria o OCP.</p>
 <p><strong><span style="color: #00c40f;">CORRETO</span></strong></p>
 <p>Pense da seguinte forma, você sabe que a classe relatório deve calcular a área de qualquer objeto que saiba como calcular sua própria área. Dessa forma o melhor seria que cada um desses objetos implementassem um comportamento comum definido por uma interface.</p>
-<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image005.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image005" src="/assets/clip_image005_thumb.png" alt="clip_image005" width="445" height="425" /></a></p>
+<p><a href="http://blog2.maxcnunes.com/wp-content/uploads/2012/11/clip_image005.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image005" src="/assets/clip_image005_thumb.png" alt="clip_image005" width="445" height="425" /></a></p>
 <pre class="brush: c-sharp; toolbar: false">interface IArea
     {
         decimal CalcularArea();
@@ -150,9 +150,9 @@ class RelatorioAreasService
 <p><strong>Exemplo:</strong></p>
 <p>Vamos considerar que exista a superclasse Animal e seja herdada pela subclasse classe Cavalo.</p>
 <p><strong><span style="color: #ff0000;">ERRADO</span> </strong></p>
-<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image006.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image006" src="/assets/clip_image006_thumb.png" alt="clip_image006" width="183" height="440" /></a></p>
+<p><a href="http://blog2.maxcnunes.com/wp-content/uploads/2012/11/clip_image006.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image006" src="/assets/clip_image006_thumb.png" alt="clip_image006" width="183" height="440" /></a></p>
 <p><strong>Todos sabem que um Cavalo não possui comportamentos de Hibernar e Voar!!!</strong></p>
-<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image0081.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-top: 0px; border-width: 0px;" title="clip_image008" src="/assets/clip_image008_thumb1.png" alt="clip_image008" width="404" height="298" border="0" /></a></p>
+<p><a href="http://blog2.maxcnunes.com/wp-content/uploads/2012/11/clip_image0081.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-top: 0px; border-width: 0px;" title="clip_image008" src="/assets/clip_image008_thumb1.png" alt="clip_image008" width="404" height="298" border="0" /></a></p>
 <p>Então o código implementado ficaria assim:</p>
 <pre class="brush: c-sharp">public abstract class Animal
     {
@@ -204,7 +204,7 @@ public class Cavalo : Animal
 <p>Por mais que a classe derivada (Cavalo) possua a implementação para o método Voar, quando a classe base (Animal) tentar executar esse comportamento, nada ocorrerá porque enganamos a herança implementando um comportamento vazio e como eu já mencionei o LSP diz claramente: “funções que utilizam referencias para classes base devem ser capaz de utilizar objetos derivados da classe derivada sem conhecê-los”.</p>
 <p><strong><span style="color: #00c40f;">CORRETO</span></strong></p>
 <p>Para resolver o problema anterior seria melhor separar especialidades em interfaces e manter comportamentos comuns na classe base. Ficando da seguinte forma:</p>
-<p><a href="http://blog2.maxcnunes.net/wp-content/uploads/2012/11/clip_image009.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image009" src="/assets/clip_image009_thumb.png" alt="clip_image009" width="505" height="505" /></a></p>
+<p><a href="http://blog2.maxcnunes.com/wp-content/uploads/2012/11/clip_image009.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image009" src="/assets/clip_image009_thumb.png" alt="clip_image009" width="505" height="505" /></a></p>
 <h2>&nbsp;</h2>
 <h2><span style="color: #0080ff; font-weight: normal;">ISP – O Princípio da Segregação de Interface</span></h2>
 <p>O Princípio da Segregação de Interface (ISP) determina que os clientes não devam ser forçados a depender de interfaces que eles não usam. Esta regra significa que, quando uma classe depende de outra, o número de membros na interface que é visível para a classe dependente deve ser minimizado.</p>
