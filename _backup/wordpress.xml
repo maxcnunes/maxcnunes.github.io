@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Max Claus Nunes</title>
-	<link>http://blog.maxcnunes.com</link>
+	<link>http://maxcnunes.com</link>
 	<description>software developer</description>
 	<pubDate>Fri, 01 Aug 2014 11:59:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://blog.maxcnunes.com</wp:base_site_url>
-	<wp:base_blog_url>http://blog.maxcnunes.com</wp:base_blog_url>
+	<wp:base_site_url>http://maxcnunes.com</wp:base_site_url>
+	<wp:base_blog_url>http://maxcnunes.com</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>maxcnunes</wp:author_login><wp:author_email>maxcnunes@gmail.com</wp:author_email><wp:author_display_name><![CDATA[maxcnunes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -222,10 +222,10 @@
 
 	<item>
 				<title>OhMyZsh</title>
-		<link>http://blog.maxcnunes.com/?attachment_id=1007</link>
+		<link>http://maxcnunes.com/?attachment_id=1007</link>
 		<pubDate>Thu, 20 Jun 2013 14:39:21 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/wp-content/uploads/2013/06/OhMyZsh.png</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/wp-content/uploads/2013/06/OhMyZsh.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -241,7 +241,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blog.maxcnunes.com/wp-content/uploads/2013/06/OhMyZsh.png</wp:attachment_url>
+		<wp:attachment_url>http://maxcnunes.com/wp-content/uploads/2013/06/OhMyZsh.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/OhMyZsh.png]]></wp:meta_value>
@@ -253,10 +253,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1031</link>
+		<link>http://maxcnunes.com/?p=1031</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1031</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1031</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -311,10 +311,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1032</link>
+		<link>http://maxcnunes.com/?p=1032</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1032</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1032</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -369,10 +369,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1033</link>
+		<link>http://maxcnunes.com/?p=1033</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1033</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1033</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -427,10 +427,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1034</link>
+		<link>http://maxcnunes.com/?p=1034</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1034</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1034</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -485,10 +485,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1035</link>
+		<link>http://maxcnunes.com/?p=1035</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1035</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1035</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -543,10 +543,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1036</link>
+		<link>http://maxcnunes.com/?p=1036</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1036</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1036</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -601,10 +601,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1037</link>
+		<link>http://maxcnunes.com/?p=1037</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1037</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1037</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -659,10 +659,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1038</link>
+		<link>http://maxcnunes.com/?p=1038</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1038</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1038</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -717,10 +717,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1039</link>
+		<link>http://maxcnunes.com/?p=1039</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1039</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1039</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -775,10 +775,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1040</link>
+		<link>http://maxcnunes.com/?p=1040</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1040</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1040</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -833,10 +833,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1041</link>
+		<link>http://maxcnunes.com/?p=1041</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1041</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1041</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -891,10 +891,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1042</link>
+		<link>http://maxcnunes.com/?p=1042</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1042</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1042</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -949,10 +949,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1043</link>
+		<link>http://maxcnunes.com/?p=1043</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1043</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1043</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1007,10 +1007,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1044</link>
+		<link>http://maxcnunes.com/?p=1044</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1044</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1044</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1065,10 +1065,10 @@
 	</item>
 	<item>
 				<title>max.nunes</title>
-		<link>http://blog.maxcnunes.com/?attachment_id=1067</link>
+		<link>http://maxcnunes.com/?attachment_id=1067</link>
 		<pubDate>Fri, 21 Jun 2013 03:28:50 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/wp-content/uploads/2013/06/max.nunes_.jpg</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/wp-content/uploads/2013/06/max.nunes_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1084,7 +1084,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blog.maxcnunes.com/wp-content/uploads/2013/06/max.nunes_.jpg</wp:attachment_url>
+		<wp:attachment_url>http://maxcnunes.com/wp-content/uploads/2013/06/max.nunes_.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/max.nunes_.jpg]]></wp:meta_value>
@@ -1096,10 +1096,10 @@
 	</item>
 	<item>
 				<title>maxcnunes6</title>
-		<link>http://blog.maxcnunes.com/?attachment_id=1068</link>
+		<link>http://maxcnunes.com/?attachment_id=1068</link>
 		<pubDate>Fri, 21 Jun 2013 03:28:52 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/wp-content/uploads/2013/06/maxcnunes6.png</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/wp-content/uploads/2013/06/maxcnunes6.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1115,7 +1115,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blog.maxcnunes.com/wp-content/uploads/2013/06/maxcnunes6.png</wp:attachment_url>
+		<wp:attachment_url>http://maxcnunes.com/wp-content/uploads/2013/06/maxcnunes6.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/maxcnunes6.png]]></wp:meta_value>
@@ -1127,12 +1127,12 @@
 	</item>
 	<item>
 				<title>cropped-maxcnunes6.png</title>
-		<link>http://blog.maxcnunes.com/?attachment_id=1069</link>
+		<link>http://maxcnunes.com/?attachment_id=1069</link>
 		<pubDate>Fri, 21 Jun 2013 03:29:07 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/wp-content/uploads/2013/06/cropped-maxcnunes6.png</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/wp-content/uploads/2013/06/cropped-maxcnunes6.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://blog.maxcnunes.com/wp-content/uploads/2013/06/cropped-maxcnunes6.png]]></content:encoded>
+		<content:encoded><![CDATA[http://maxcnunes.com/wp-content/uploads/2013/06/cropped-maxcnunes6.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1069</wp:post_id>
 		<wp:post_date>2013-06-21 03:29:07</wp:post_date>
@@ -1146,7 +1146,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blog.maxcnunes.com/wp-content/uploads/2013/06/cropped-maxcnunes6.png</wp:attachment_url>
+		<wp:attachment_url>http://maxcnunes.com/wp-content/uploads/2013/06/cropped-maxcnunes6.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/cropped-maxcnunes6.png]]></wp:meta_value>
@@ -1166,10 +1166,10 @@
 	</item>
 	<item>
 				<title>knockout-debugger2</title>
-		<link>http://blog.maxcnunes.com/2013/06/22/bind-handler-debugger-knockout/knockout-debugger2/</link>
+		<link>http://maxcnunes.com/2013/06/22/bind-handler-debugger-knockout/knockout-debugger2/</link>
 		<pubDate>Sat, 22 Jun 2013 02:27:50 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger2.png</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1185,7 +1185,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blog.maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger2.png</wp:attachment_url>
+		<wp:attachment_url>http://maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger2.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/knockout-debugger2.png]]></wp:meta_value>
@@ -1197,10 +1197,10 @@
 	</item>
 	<item>
 				<title>knockout-debugger</title>
-		<link>http://blog.maxcnunes.com/2013/06/22/bind-handler-debugger-knockout/knockout-debugger/</link>
+		<link>http://maxcnunes.com/2013/06/22/bind-handler-debugger-knockout/knockout-debugger/</link>
 		<pubDate>Sat, 22 Jun 2013 02:29:34 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger.png</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1216,7 +1216,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blog.maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger.png</wp:attachment_url>
+		<wp:attachment_url>http://maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/knockout-debugger.png]]></wp:meta_value>
@@ -1228,10 +1228,10 @@
 	</item>
 	<item>
 				<title>Sample Page</title>
-		<link>http://blog.maxcnunes.com/sample-page/</link>
+		<link>http://maxcnunes.com/sample-page/</link>
 		<pubDate>Thu, 20 Jun 2013 04:39:13 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?page_id=2</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
@@ -1241,7 +1241,7 @@
 
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 
-As a new WordPress user, you should go to <a href="http://blog.maxcnunes.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+As a new WordPress user, you should go to <a href="http://maxcnunes.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date>2013-06-20 04:39:13</wp:post_date>
@@ -1262,10 +1262,10 @@ As a new WordPress user, you should go to <a href="http://blog.maxcnunes.com/wp-
 	</item>
 	<item>
 				<title>Sample Page</title>
-		<link>http://blog.maxcnunes.com/sample-page-2/</link>
+		<link>http://maxcnunes.com/sample-page-2/</link>
 		<pubDate>Tue, 18 Jun 2013 02:28:23 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?page_id=2</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
@@ -1275,7 +1275,7 @@ As a new WordPress user, you should go to <a href="http://blog.maxcnunes.com/wp-
 
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 
-As a new WordPress user, you should go to <a href="http://blog.maxcnunes.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+As a new WordPress user, you should go to <a href="http://maxcnunes.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date>2013-06-18 02:28:23</wp:post_date>
@@ -1296,7 +1296,7 @@ As a new WordPress user, you should go to <a href="http://blog.maxcnunes.com/wp-
 	</item>
 	<item>
 				<title>Sample Page</title>
-		<link>http://blog.maxcnunes.com/sample-page-2-2/</link>
+		<link>http://maxcnunes.com/sample-page-2-2/</link>
 		<pubDate>Tue, 28 Jun 2011 02:10:56 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?page_id=2</guid>
@@ -1309,7 +1309,7 @@ As a new WordPress user, you should go to <a href="http://blog.maxcnunes.com/wp-
 
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickies to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 
-As a new WordPress user, you should go to <a href="http://blog.maxcnunes.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+As a new WordPress user, you should go to <a href="http://maxcnunes.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date>2011-06-28 02:10:56</wp:post_date>
@@ -1330,7 +1330,7 @@ As a new WordPress user, you should go to <a href="http://blog.maxcnunes.com/wp-
 	</item>
 	<item>
 				<title>Acesso ao banco com SQL Command</title>
-		<link>http://blog.maxcnunes.com/?p=306</link>
+		<link>http://maxcnunes.com/?p=306</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=306</guid>
@@ -1419,10 +1419,10 @@ END]]></content:encoded>
 	</item>
 	<item>
 				<title>Crystal Reports com o Visual Studio</title>
-		<link>http://blog.maxcnunes.com/?p=358</link>
+		<link>http://maxcnunes.com/?p=358</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=358</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=358</guid>
 		<description></description>
 		<content:encoded><![CDATA[Crystal Report é uma poderosa ferramenta para a crição de relatórios. Tem suporte para Web e Desktop. E a fonte de dados pode ser configurada desde arquivos textos e xmls à banco de dados robustos como Oracle e SQL Server.
 
@@ -1430,40 +1430,40 @@ Para exemplificar, vou utilizar uma aplicação Web. Então crie um novo projeto
 
 <a href="http://imasters.com.br/artigo/18174/visual_studio/crystal_reports_para_o_visual_studio_2010_versao_beta/">http://imasters.com.br/artigo/18174/visual_studio/crystal_reports_para_o_visual_studio_2010_versao_beta</a><a href="http://imasters.com.br/artigo/18174/visual_studio/crystal_reports_para_o_visual_studio_2010_versao_beta/">/</a>
 <p style="text-align: center;">a</p>
-<p style="text-align: center;"><a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Novo-Projeto-CrystalReport.png"><img class="aligncenter size-full wp-image-365" title="Novo-Projeto-CrystalReport" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Novo-Projeto-CrystalReport.png" alt="Novo-Projeto-CrystalReport" width="669" height="524" /></a></p>
+<p style="text-align: center;"><a href="http://maxcnunes.com/wp-content/uploads/2011/11/Novo-Projeto-CrystalReport.png"><img class="aligncenter size-full wp-image-365" title="Novo-Projeto-CrystalReport" src="http://maxcnunes.com/wp-content/uploads/2011/11/Novo-Projeto-CrystalReport.png" alt="Novo-Projeto-CrystalReport" width="669" height="524" /></a></p>
 <p style="text-align: left;"> Com projeto criado, clique com o botão direito sobre o projeto e adicione um novo item:</p>
-<p style="text-align: center;"><a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/2-Adicionar-Novo-Item.png"><img class="aligncenter size-full wp-image-369" title="2-Adicionar-Novo-Item" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/2-Adicionar-Novo-Item.png" alt="2-Adicionar-Novo-Item" width="659" height="279" /></a></p>
+<p style="text-align: center;"><a href="http://maxcnunes.com/wp-content/uploads/2011/11/2-Adicionar-Novo-Item.png"><img class="aligncenter size-full wp-image-369" title="2-Adicionar-Novo-Item" src="http://maxcnunes.com/wp-content/uploads/2011/11/2-Adicionar-Novo-Item.png" alt="2-Adicionar-Novo-Item" width="659" height="279" /></a></p>
 Selecione um item do tipo Crystal Reports, na aba de Reporting à direita. Nomeando como Relatorio.rpt:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/3-Item-Crystal-Reports.png"><img class="aligncenter size-full wp-image-371" title="3-Item-Crystal-Reports" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/3-Item-Crystal-Reports.png" alt="3-Item-Crystal-Reports" width="956" height="665" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/3-Item-Crystal-Reports.png"><img class="aligncenter size-full wp-image-371" title="3-Item-Crystal-Reports" src="http://maxcnunes.com/wp-content/uploads/2011/11/3-Item-Crystal-Reports.png" alt="3-Item-Crystal-Reports" width="956" height="665" /></a>
 
 Para ficar mais simples, neste primeiro contato com o Crystal Report, vamos utilizar o Assistente para Relatório, escolhendo o tipo Padrão:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/4-Galeria-Crystal-Reports.png"><img class="aligncenter size-full wp-image-372" title="4-Galeria-Crystal-Reports" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/4-Galeria-Crystal-Reports.png" alt="4-Galeria-Crystal-Reports" width="480" height="522" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/4-Galeria-Crystal-Reports.png"><img class="aligncenter size-full wp-image-372" title="4-Galeria-Crystal-Reports" src="http://maxcnunes.com/wp-content/uploads/2011/11/4-Galeria-Crystal-Reports.png" alt="4-Galeria-Crystal-Reports" width="480" height="522" /></a>
 
 Selecione: Criar Nova Conexão &gt; OLE DB (ADO) &gt; Microsoft OLE DB Provider SQL Server:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/5-Conexao-Fonte-Dados.png"><img class="aligncenter size-full wp-image-373" title="5-Conexao-Fonte-Dados" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/5-Conexao-Fonte-Dados.png" alt="5-Conexao-Fonte-Dados" width="760" height="602" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/5-Conexao-Fonte-Dados.png"><img class="aligncenter size-full wp-image-373" title="5-Conexao-Fonte-Dados" src="http://maxcnunes.com/wp-content/uploads/2011/11/5-Conexao-Fonte-Dados.png" alt="5-Conexao-Fonte-Dados" width="760" height="602" /></a>
 
 Preencha o nome do servidor e o banco de dados. Como estou utilizando a autenticação do Windows, deixei marcada a Segurança Integrada. Mas para outras situações não marque o CheckBox e preencha o Usuário e Senha.
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/6-Informações-Conexão.png"><img class="aligncenter size-full wp-image-374" title="6-Informações-Conexão" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/6-Informações-Conexão.png" alt="6-Informações-Conexão" width="540" height="547" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/6-Informações-Conexão.png"><img class="aligncenter size-full wp-image-374" title="6-Informações-Conexão" src="http://maxcnunes.com/wp-content/uploads/2011/11/6-Informações-Conexão.png" alt="6-Informações-Conexão" width="540" height="547" /></a>
 
 Deixe selecionado o Banco e clique em avançar:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/7-Selecionar-Banco.png"><img class="aligncenter size-full wp-image-375" title="7-Selecionar-Banco" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/7-Selecionar-Banco.png" alt="7-Selecionar-Banco" width="693" height="512" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/7-Selecionar-Banco.png"><img class="aligncenter size-full wp-image-375" title="7-Selecionar-Banco" src="http://maxcnunes.com/wp-content/uploads/2011/11/7-Selecionar-Banco.png" alt="7-Selecionar-Banco" width="693" height="512" /></a>
 
 Selecione o tipo de formatação Padrão do relatório e clique em Concluir:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/8-Estilos-Formatação.png"><img class="aligncenter size-full wp-image-376" title="8-Estilos-Formatação" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/8-Estilos-Formatação.png" alt="8-Estilos-Formatação" width="694" height="514" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/8-Estilos-Formatação.png"><img class="aligncenter size-full wp-image-376" title="8-Estilos-Formatação" src="http://maxcnunes.com/wp-content/uploads/2011/11/8-Estilos-Formatação.png" alt="8-Estilos-Formatação" width="694" height="514" /></a>
 
 Com o relatório criado, abra a aba de Field Explorer e clique sobre o Database Fields e selecione a opção Database Expert...
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/9-Database-Expert.png"><img class="aligncenter size-full wp-image-378" title="9-Database-Expert" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/9-Database-Expert.png" alt="9-Database-Expert" width="1045" height="404" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/9-Database-Expert.png"><img class="aligncenter size-full wp-image-378" title="9-Database-Expert" src="http://maxcnunes.com/wp-content/uploads/2011/11/9-Database-Expert.png" alt="9-Database-Expert" width="1045" height="404" /></a>
 
 Selecione e adicione as tabelas desejadas ao relatório e clique em OK:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/10-Tabelas-Relatório.png"><img class="aligncenter size-full wp-image-380" title="10-Tabelas-Relatório" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/10-Tabelas-Relatório.png" alt="10-Tabelas-Relatório" width="867" height="558" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/10-Tabelas-Relatório.png"><img class="aligncenter size-full wp-image-380" title="10-Tabelas-Relatório" src="http://maxcnunes.com/wp-content/uploads/2011/11/10-Tabelas-Relatório.png" alt="10-Tabelas-Relatório" width="867" height="558" /></a>
 
 Ao clicar em OK na tela anterior será exibida esta tela, com as tabelas adicionadas e seus relacionamentos:]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1495,10 +1495,10 @@ Ao clicar em OK na tela anterior será exibida esta tela, com as tabelas adicion
 	</item>
 	<item>
 				<title>QUERY STRING HTML</title>
-		<link>http://blog.maxcnunes.com/?p=491</link>
+		<link>http://maxcnunes.com/?p=491</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=491</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=491</guid>
 		<description></description>
 		<content:encoded><![CDATA[<pre>function getQuerystring(key, default_) {
     if (default_ == null) default_ = "";
@@ -1539,10 +1539,10 @@ Ao clicar em OK na tela anterior será exibida esta tela, com as tabelas adicion
 	</item>
 	<item>
 				<title>Recuperar a linha atual referente a um componente dentro do Repeater</title>
-		<link>http://blog.maxcnunes.com/?p=546</link>
+		<link>http://maxcnunes.com/?p=546</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=546</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=546</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>&nbsp; int RepeaterItemIndex = ((RepeaterItem)lnkButton.NamingContainer).ItemIndex;</strong>
 
@@ -1582,10 +1582,10 @@ TESTE
 	</item>
 	<item>
 				<title>Publicação IIS</title>
-		<link>http://blog.maxcnunes.com/?p=681</link>
+		<link>http://maxcnunes.com/?p=681</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=681</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=681</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
@@ -1593,33 +1593,33 @@ Passo a passo bem simples para publicar uma aplicação web.
 <h2>Preparando ambiente para publicação</h2>
 Abrir IIS:
 
-[caption id="attachment_698" align="aligncenter" width="300"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/IIS.png"><img class="size-medium wp-image-698" title="IIS" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/IIS-300x205.png" alt="" width="300" height="205" /></a> IIS[/caption]
+[caption id="attachment_698" align="aligncenter" width="300"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/IIS.png"><img class="size-medium wp-image-698" title="IIS" src="http://maxcnunes.com/wp-content/uploads/2012/06/IIS-300x205.png" alt="" width="300" height="205" /></a> IIS[/caption]
 
 Adicionar novo Site:
 
-[caption id="attachment_684" align="aligncenter" width="300"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Adicionar-novo-site-IIS.png"><img class="size-medium wp-image-684" title="Adicionar novo site IIS" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Adicionar-novo-site-IIS-300x231.png" alt="" width="300" height="231" /></a> Adicionar novo site IIS[/caption]
+[caption id="attachment_684" align="aligncenter" width="300"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/Adicionar-novo-site-IIS.png"><img class="size-medium wp-image-684" title="Adicionar novo site IIS" src="http://maxcnunes.com/wp-content/uploads/2012/06/Adicionar-novo-site-IIS-300x231.png" alt="" width="300" height="231" /></a> Adicionar novo site IIS[/caption]
 
 Defina o caminho físico de onde estará localizada a aplicação publicada. No caso de existirem mais sites no mesmo IIS, você pode alterar a porta de acesso, na minha situação deixei como 82 (80 é a porta padrão).
 
-[caption id="attachment_687" align="aligncenter" width="300"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Adicionar-novo-site-IIS-Configuracao.png"><img class="size-medium wp-image-687" title="Adicionar novo site IIS - Configuracao" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Adicionar-novo-site-IIS-Configuracao-300x292.png" alt="" width="300" height="292" /></a> Adicionar novo site IIS - Configuração[/caption]
+[caption id="attachment_687" align="aligncenter" width="300"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/Adicionar-novo-site-IIS-Configuracao.png"><img class="size-medium wp-image-687" title="Adicionar novo site IIS - Configuracao" src="http://maxcnunes.com/wp-content/uploads/2012/06/Adicionar-novo-site-IIS-Configuracao-300x292.png" alt="" width="300" height="292" /></a> Adicionar novo site IIS - Configuração[/caption]
 
 Por padrão novos aplicativos vem com configurado inicialmente por padrão com o .NET Framework 2.0. Acesse o Pools de Aplicativos no IIS e altera para a versão utilizada no seu projeto, na minha situação deixei como 4.0.
 
-[caption id="attachment_699" align="aligncenter" width="300"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Pool-do-Aplicativo.png"><img class="size-medium wp-image-699" title="Pool do Aplicativo" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Pool-do-Aplicativo-300x190.png" alt="" width="300" height="190" /></a> Pool do Aplicativo[/caption]
+[caption id="attachment_699" align="aligncenter" width="300"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/Pool-do-Aplicativo.png"><img class="size-medium wp-image-699" title="Pool do Aplicativo" src="http://maxcnunes.com/wp-content/uploads/2012/06/Pool-do-Aplicativo-300x190.png" alt="" width="300" height="190" /></a> Pool do Aplicativo[/caption]
 
-[caption id="attachment_689" align="aligncenter" width="300"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Alterar-Framework.png"><img class="size-medium wp-image-689" title="Alterar Framework" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Alterar-Framework-300x271.png" alt="" width="300" height="271" /></a> Alterar Framework[/caption]
+[caption id="attachment_689" align="aligncenter" width="300"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/Alterar-Framework.png"><img class="size-medium wp-image-689" title="Alterar Framework" src="http://maxcnunes.com/wp-content/uploads/2012/06/Alterar-Framework-300x271.png" alt="" width="300" height="271" /></a> Alterar Framework[/caption]
 <h2>Publicando o Projeto:</h2>
 Com o projeto aberto no Visual Studio, clique com o botão direito sobre o projeto e selecione “Publish”:
 
-[caption id="attachment_690" align="aligncenter" width="300"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Publicar.png"><img class="size-medium wp-image-690" title="Publicar" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Publicar-300x165.png" alt="" width="300" height="165" /></a> Publicar[/caption]
+[caption id="attachment_690" align="aligncenter" width="300"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/Publicar.png"><img class="size-medium wp-image-690" title="Publicar" src="http://maxcnunes.com/wp-content/uploads/2012/06/Publicar-300x165.png" alt="" width="300" height="165" /></a> Publicar[/caption]
 
 Para publicar os arquivos em um diretório selecione a opção “File System”. No meu caso já direcionei direto para o diretório onde está localizada a hospedagem do meu aplicativo. Caso você publique em um servidor que esteja em outra máquina, poderia publicar em qualquer diretório e depois enviar o conteúdo via FTP para a hospedagem do seu aplicativo.
 
-[caption id="attachment_691" align="aligncenter" width="300"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Publish-Profile.png"><img class="size-medium wp-image-691" title="Publish Profile" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Publish-Profile-300x255.png" alt="" width="300" height="255" /></a> Publish Profile[/caption]
+[caption id="attachment_691" align="aligncenter" width="300"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/Publish-Profile.png"><img class="size-medium wp-image-691" title="Publish Profile" src="http://maxcnunes.com/wp-content/uploads/2012/06/Publish-Profile-300x255.png" alt="" width="300" height="255" /></a> Publish Profile[/caption]
 
 Publicação realizada com sucesso:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Publish-Output.png"><img class="aligncenter size-medium wp-image-692" title="Publish Output" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Publish-Output-300x171.png" alt="" width="300" height="171" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2012/06/Publish-Output.png"><img class="aligncenter size-medium wp-image-692" title="Publish Output" src="http://maxcnunes.com/wp-content/uploads/2012/06/Publish-Output-300x171.png" alt="" width="300" height="171" /></a>
 <h3>Configurações Adicionais:</h3>
 Normalmente os servidores não possuem todas as configurações necessárias para nossa aplicação. Nessas situações precisamos realizar configurações adicionais à publicação.
 <h4>Servidores Banco MySql</h4>
@@ -1635,21 +1635,21 @@ Normalmente os servidores não possuem todas as configurações necessárias par
 
 Ficando assim:
 
-[caption id="attachment_693" align="aligncenter" width="300"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Webconfig.png"><img class="size-medium wp-image-693" title="Webconfig" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/Webconfig-300x106.png" alt="" width="300" height="106" /></a> Webconfig[/caption]
+[caption id="attachment_693" align="aligncenter" width="300"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/Webconfig.png"><img class="size-medium wp-image-693" title="Webconfig" src="http://maxcnunes.com/wp-content/uploads/2012/06/Webconfig-300x106.png" alt="" width="300" height="106" /></a> Webconfig[/caption]
 
 2. Alterar a versão do MySql para a versão correta utilizada no projeto.
 
-[caption id="attachment_695" align="aligncenter" width="208"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/MySql.Data_.dll-Versao.png"><img class="size-medium wp-image-695" title="MySql.Data.dll Versao" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/MySql.Data_.dll-Versao-208x300.png" alt="" width="208" height="300" /></a> MySql.Data.dll Versao[/caption]
+[caption id="attachment_695" align="aligncenter" width="208"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/MySql.Data_.dll-Versao.png"><img class="size-medium wp-image-695" title="MySql.Data.dll Versao" src="http://maxcnunes.com/wp-content/uploads/2012/06/MySql.Data_.dll-Versao-208x300.png" alt="" width="208" height="300" /></a> MySql.Data.dll Versao[/caption]
 
 &nbsp;3. Adicione as seguintes DLLs à pasta BIN da aplicação publicada:
 
-[caption id="attachment_696" align="aligncenter" width="155"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/MySql-Dlls.png"><img class="size-full wp-image-696" title="MySql Dlls" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/MySql-Dlls.png" alt="" width="155" height="95" /></a> MySql Dlls[/caption]
+[caption id="attachment_696" align="aligncenter" width="155"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/MySql-Dlls.png"><img class="size-full wp-image-696" title="MySql Dlls" src="http://maxcnunes.com/wp-content/uploads/2012/06/MySql-Dlls.png" alt="" width="155" height="95" /></a> MySql Dlls[/caption]
 
 Obs: Estas dlls estão localizadas no diretório onde foi instalado o MySql Connector.
 <h4>Servidores sem MVC Framework instalado:</h4>
 1. Adicione as seguintes DLLs à pasta BIN da aplicação publicada:
 
-[caption id="attachment_697" align="aligncenter" width="252"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/MVC-Dlls.png"><img class="size-full wp-image-697" title="MVC Dlls" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/MVC-Dlls.png" alt="" width="252" height="163" /></a> MVC Dlls[/caption]
+[caption id="attachment_697" align="aligncenter" width="252"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/MVC-Dlls.png"><img class="size-full wp-image-697" title="MVC Dlls" src="http://maxcnunes.com/wp-content/uploads/2012/06/MVC-Dlls.png" alt="" width="252" height="163" /></a> MVC Dlls[/caption]
 
 Copie-as do diretório:&nbsp;<span style="color: #008000;">C:Program Files (x86)Microsoft ASP.NETASP.NET Web Pages</span>.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1681,10 +1681,10 @@ Copie-as do diretório:&nbsp;<span style="color: #008000;">C:Program Files (x86)
 	</item>
 	<item>
 				<title>SignalR – Aplicações em tempo real</title>
-		<link>http://blog.maxcnunes.com/?p=863</link>
+		<link>http://maxcnunes.com/?p=863</link>
 		<pubDate>Wed, 23 Jan 2013 01:35:44 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=863</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=863</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
@@ -1728,10 +1728,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1045</link>
+		<link>http://maxcnunes.com/?p=1045</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1045</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1045</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1786,10 +1786,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1046</link>
+		<link>http://maxcnunes.com/?p=1046</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1046</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1046</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1844,10 +1844,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1047</link>
+		<link>http://maxcnunes.com/?p=1047</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1047</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1047</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1902,10 +1902,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1048</link>
+		<link>http://maxcnunes.com/?p=1048</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1048</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1048</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1960,10 +1960,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1049</link>
+		<link>http://maxcnunes.com/?p=1049</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1049</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1049</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2018,10 +2018,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1050</link>
+		<link>http://maxcnunes.com/?p=1050</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1050</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1050</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2076,10 +2076,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1051</link>
+		<link>http://maxcnunes.com/?p=1051</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1051</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1051</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2134,10 +2134,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1052</link>
+		<link>http://maxcnunes.com/?p=1052</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1052</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1052</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2192,10 +2192,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1053</link>
+		<link>http://maxcnunes.com/?p=1053</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1053</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1053</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2250,10 +2250,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1054</link>
+		<link>http://maxcnunes.com/?p=1054</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1054</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1054</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2308,10 +2308,10 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title></title>
-		<link>http://blog.maxcnunes.com/?p=1055</link>
+		<link>http://maxcnunes.com/?p=1055</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1055</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1055</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2366,14 +2366,14 @@ Ficou curioso em saber como SignalR é por dentro? Então acesse o projeto no Gi
 	</item>
 	<item>
 				<title>Hello world!</title>
-		<link>http://blog.maxcnunes.com/2010/08/18/hello-world-2/</link>
+		<link>http://maxcnunes.com/2010/08/18/hello-world-2/</link>
 		<pubDate>Wed, 18 Aug 2010 01:37:30 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://maxcnunes.wordpress.com/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
-[caption id="attachment_6" align="alignleft" width="192"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2010/08/cara-feliz.jpg"><img class="size-medium wp-image-6     " title="cara-feliz" alt="" src="http://blog.maxcnunes.com/wp-content/uploads/2010/08/cara-feliz.jpg?w=300" width="192" height="192" /></a> Hello World[/caption]
+[caption id="attachment_6" align="alignleft" width="192"]<a href="http://maxcnunes.com/wp-content/uploads/2010/08/cara-feliz.jpg"><img class="size-medium wp-image-6     " title="cara-feliz" alt="" src="http://maxcnunes.com/wp-content/uploads/2010/08/cara-feliz.jpg?w=300" width="192" height="192" /></a> Hello World[/caption]
 
 Estou criando esse blog, pra ajudar um pouco, aqueles que estam em dúvida em algo que eu já consegui resolver.
 
@@ -2409,7 +2409,7 @@ Sempre que possí­vel, vou tentar postar algum tutorial ou dica de como resolve
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aioseop_description</wp:meta_key>
-			<wp:meta_value><![CDATA[Primeiro post do meu blog - Max C. Nunes - http://blog.maxcnunes.com]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Primeiro post do meu blog - Max C. Nunes - http://maxcnunes.com]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aioseop_title</wp:meta_key>
@@ -2429,7 +2429,7 @@ Sempre que possí­vel, vou tentar postar algum tutorial ou dica de como resolve
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aioseop_description</wp:meta_key>
-			<wp:meta_value><![CDATA[Primeiro post do meu blog - Max C. Nunes - http://blog.maxcnunes.com]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Primeiro post do meu blog - Max C. Nunes - http://maxcnunes.com]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aioseop_title</wp:meta_key>
@@ -2442,7 +2442,7 @@ Sempre que possí­vel, vou tentar postar algum tutorial ou dica de como resolve
 	</item>
 	<item>
 				<title>Uma simples aplicação com DataSet Tipado</title>
-		<link>http://blog.maxcnunes.com/2010/08/22/dataset-tipado/</link>
+		<link>http://maxcnunes.com/2010/08/22/dataset-tipado/</link>
 		<pubDate>Sun, 22 Aug 2010 22:32:20 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://maxcnunes.wordpress.com/?p=13</guid>
@@ -2773,7 +2773,7 @@ namespace MinhaAplicacao
 	</item>
 	<item>
 				<title>Erwin - Alterar notação dos relacionamentos (pé de galinha)</title>
-		<link>http://blog.maxcnunes.com/2010/09/24/erwin-com-pe-de-galinha/</link>
+		<link>http://maxcnunes.com/2010/09/24/erwin-com-pe-de-galinha/</link>
 		<pubDate>Fri, 24 Sep 2010 12:32:50 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=27</guid>
@@ -2842,7 +2842,7 @@ namespace MinhaAplicacao
 	</item>
 	<item>
 				<title>Gerar banco a partir do diagrama de classes (Rational)</title>
-		<link>http://blog.maxcnunes.com/2010/09/26/gerar-banco-a-partir-do-diagrama-de-classes-rational/</link>
+		<link>http://maxcnunes.com/2010/09/26/gerar-banco-a-partir-do-diagrama-de-classes-rational/</link>
 		<pubDate>Sun, 26 Sep 2010 20:45:39 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=31</guid>
@@ -2859,9 +2859,9 @@ Como exemplo, desenvolvi um diagrama de classes simples, referente a pedidos de 
 	<li>Adicionar a pasta Logica View, do novo projeto, um package para conter nosso diagrama de classes.</li>
 	<li>Montar o nosso diagrama de classes dentro desse package.</li>
 </ul>
-[caption id="attachment_39" align="aligncenter" width="489" caption="Criar Package Diagrama"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2010/09/CriarPackageDiagrama.png"><img class="size-full wp-image-39" title="Criar Package Diagrama" src="http://blog.maxcnunes.com/wp-content/uploads/2010/09/CriarPackageDiagrama.png" alt="" width="489" height="369" /></a>[/caption]
+[caption id="attachment_39" align="aligncenter" width="489" caption="Criar Package Diagrama"]<a href="http://maxcnunes.com/wp-content/uploads/2010/09/CriarPackageDiagrama.png"><img class="size-full wp-image-39" title="Criar Package Diagrama" src="http://maxcnunes.com/wp-content/uploads/2010/09/CriarPackageDiagrama.png" alt="" width="489" height="369" /></a>[/caption]
 
-[caption id="attachment_32" align="aligncenter" width="450" caption="Diagrama De Classes Pedido"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2010/09/diagramaDeClassesPedido.png"><img class="size-medium wp-image-32 " title="Diagrama De Classes Pedido" src="http://blog.maxcnunes.com/wp-content/uploads/2010/09/diagramaDeClassesPedido-300x259.png" alt="" width="450" height="388.5" /></a>[/caption]
+[caption id="attachment_32" align="aligncenter" width="450" caption="Diagrama De Classes Pedido"]<a href="http://maxcnunes.com/wp-content/uploads/2010/09/diagramaDeClassesPedido.png"><img class="size-medium wp-image-32 " title="Diagrama De Classes Pedido" src="http://maxcnunes.com/wp-content/uploads/2010/09/diagramaDeClassesPedido-300x259.png" alt="" width="450" height="388.5" /></a>[/caption]
 <p style="text-align: center;">Ã‰ interessante que você j defina o tipo(string, bollean...) de cada atributo de suas classes para ficar mais consistente o diagrama de classes com o banco gerado. (Se não definir agora, ele ir gerar tudo com small int)</p>
 Após finalizado seu diagrama de classes, devemos definir quais classes se tornarão tabelas no nosso banco. Para isso fação seguinte em todas as tabelas.
 <ul>
@@ -2869,7 +2869,7 @@ Após finalizado seu diagrama de classes, devemos definir quais classes se torna
 	<li>Aba Detail..</li>
 	<li>Marque a opção Persistent</li>
 </ul>
-[caption id="attachment_42" align="aligncenter" width="518" caption="Classes Persistentes (Futuras tabelas no banco)"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2010/09/ClassesPersistentes.png"><img class="size-full wp-image-42" title="Classes Persistentes" src="http://blog.maxcnunes.com/wp-content/uploads/2010/09/ClassesPersistentes.png" alt="" width="518" height="457" /></a>[/caption]
+[caption id="attachment_42" align="aligncenter" width="518" caption="Classes Persistentes (Futuras tabelas no banco)"]<a href="http://maxcnunes.com/wp-content/uploads/2010/09/ClassesPersistentes.png"><img class="size-full wp-image-42" title="Classes Persistentes" src="http://maxcnunes.com/wp-content/uploads/2010/09/ClassesPersistentes.png" alt="" width="518" height="457" /></a>[/caption]
 
 <em>Caso você possua atributo de identificação em suas classes ("id_cliente", "codigo_cliente"...) você deve defini-los como parte do objeto de identificação, se não o Rational ir criar identificadores automaticamente ao gerar as tabelas.</em>
 
@@ -2883,11 +2883,11 @@ Após finalizado seu diagrama de classes, devemos definir quais classes se torna
 <ul>
 	<li>Agora vamos criar nosso banco, para manter nossas tabelas, que serão geradas posteriormente.</li>
 </ul>
-[caption id="attachment_34" align="aligncenter" width="900" caption="Criar Banco - Para manter nossas tabelas (Deixe o nome como BancoDados )"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2010/09/CriarBanco1.png"><img class="size-full wp-image-34 " title="Criar Banco" src="http://blog.maxcnunes.com/wp-content/uploads/2010/09/CriarBanco1-e1285526718680.png" alt="" width="900" height="568.5" /></a>[/caption]
+[caption id="attachment_34" align="aligncenter" width="900" caption="Criar Banco - Para manter nossas tabelas (Deixe o nome como BancoDados )"]<a href="http://maxcnunes.com/wp-content/uploads/2010/09/CriarBanco1.png"><img class="size-full wp-image-34 " title="Criar Banco" src="http://maxcnunes.com/wp-content/uploads/2010/09/CriarBanco1-e1285526718680.png" alt="" width="900" height="568.5" /></a>[/caption]
 <ul>
 	<li>Transformar nosso modelo de objetos em modelo de dados.</li>
 </ul>
-[caption id="attachment_41" align="aligncenter" width="586" caption="Transforma Modelo Dados"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2010/09/TransformaModeloDados.png"><img class="size-full wp-image-41" title="Transforma Modelo Dados" src="http://blog.maxcnunes.com/wp-content/uploads/2010/09/TransformaModeloDados.png" alt="" width="586" height="452" /></a>[/caption]
+[caption id="attachment_41" align="aligncenter" width="586" caption="Transforma Modelo Dados"]<a href="http://maxcnunes.com/wp-content/uploads/2010/09/TransformaModeloDados.png"><img class="size-full wp-image-41" title="Transforma Modelo Dados" src="http://maxcnunes.com/wp-content/uploads/2010/09/TransformaModeloDados.png" alt="" width="586" height="452" /></a>[/caption]
 <ul>
 	<li>Na janela que abrir , selecione em Target Database o banco que criamos.</li>
 	<li>Caso você não deseje que ele criei prefixos no nome de suas tabelas, deixe o Prefix vazio ( Eu sempre deixo vazio).</li>
@@ -2897,11 +2897,11 @@ Agora v em em Schemas, dentro da pasta Logical View e abra o nosso schema criado
 <p style="text-align: left;">Próximo passo, criar o diagrma do modelo de dados:</p>
 
 
-[caption id="attachment_45" align="aligncenter" width="500" caption="Diagrama do modelo de dados (Renomeie o arquivo para ModelodeDados )"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2010/09/DataModelDiagram-e1285531220880.png"><img class="size-full wp-image-45 " title="DataModelDiagram" src="http://blog.maxcnunes.com/wp-content/uploads/2010/09/DataModelDiagram-e1285531220880.png" alt="" width="500" height="307" /></a>[/caption]
+[caption id="attachment_45" align="aligncenter" width="500" caption="Diagrama do modelo de dados (Renomeie o arquivo para ModelodeDados )"]<a href="http://maxcnunes.com/wp-content/uploads/2010/09/DataModelDiagram-e1285531220880.png"><img class="size-full wp-image-45 " title="DataModelDiagram" src="http://maxcnunes.com/wp-content/uploads/2010/09/DataModelDiagram-e1285531220880.png" alt="" width="500" height="307" /></a>[/caption]
 
 Para adicionar nossas tabelas ao diagrama é muito simples. Basta você arrastar as tabelas do nosso Schema para dentro do nosso Modelo de Dados.
 
-[caption id="attachment_46" align="aligncenter" width="500" caption="Diagrama Modelo de Dados"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2010/09/ModelodeDados.png"><img class="size-full wp-image-46" title="Diagrama Modelo de Dados" src="http://blog.maxcnunes.com/wp-content/uploads/2010/09/ModelodeDados-e1285532759266.png" alt="" width="500" height="351" /></a>[/caption]
+[caption id="attachment_46" align="aligncenter" width="500" caption="Diagrama Modelo de Dados"]<a href="http://maxcnunes.com/wp-content/uploads/2010/09/ModelodeDados.png"><img class="size-full wp-image-46" title="Diagrama Modelo de Dados" src="http://maxcnunes.com/wp-content/uploads/2010/09/ModelodeDados-e1285532759266.png" alt="" width="500" height="351" /></a>[/caption]
 
 Após terminar de adicionar todas as tabelas ao modelo você notar que surgiram automaticamente o relacionamento entre as tabelas. Perceba também,-  que se surgiram automaticamente nossas colunas identificadoras, com o sufixo _ID do nome de cada tabela.
 <ul>
@@ -2909,7 +2909,7 @@ Após terminar de adicionar todas as tabelas ao modelo você notar que surgiram 
 </ul>
 Finalmente, vamos gerar nosso script sql do banco:
 
-[caption id="attachment_47" align="aligncenter" width="500" caption="Forward Engineer"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2010/09/ForwardEngineer.png"><img class="size-full wp-image-47" title="ForwardEngineer" src="http://blog.maxcnunes.com/wp-content/uploads/2010/09/ForwardEngineer-e1285533769679.png" alt="" width="500" height="343" /></a>[/caption]
+[caption id="attachment_47" align="aligncenter" width="500" caption="Forward Engineer"]<a href="http://maxcnunes.com/wp-content/uploads/2010/09/ForwardEngineer.png"><img class="size-full wp-image-47" title="ForwardEngineer" src="http://maxcnunes.com/wp-content/uploads/2010/09/ForwardEngineer-e1285533769679.png" alt="" width="500" height="343" /></a>[/caption]
 <ul>
 	<li>Na janela que abriu de NEXT/ NEXT/ selecione o nome e local do arquivo sql/NEXT/FINISH.</li>
 </ul>
@@ -2969,14 +2969,14 @@ Pronto, você acabou de gerar o script sql do banco a partir do seu diagrama de 
 	</item>
 	<item>
 				<title>Retornar a última pasta de um diretório</title>
-		<link>http://blog.maxcnunes.com/2010/11/02/retornar-a-ultima-pasta-de-um-diretorio/</link>
+		<link>http://maxcnunes.com/2010/11/02/retornar-a-ultima-pasta-de-um-diretorio/</link>
 		<pubDate>Tue, 02 Nov 2010 01:36:30 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[Uma das maneiras de retornar a última pasta de um diretório.
 
-Por exemplo, voce tem uma url <em><strong>http://blog.maxcnunes.com/topicos/csharp/default.aspx</strong></em> e gostaria de retornar apenas a última pasta.
+Por exemplo, voce tem uma url <em><strong>http://maxcnunes.com/topicos/csharp/default.aspx</strong></em> e gostaria de retornar apenas a última pasta.
 
 O jeito que encontrei foi este:
 
@@ -3056,7 +3056,7 @@ public string RetornaUltimaPasta(string url)
 	</item>
 	<item>
 				<title>Jquery e UpdatePanel</title>
-		<link>http://blog.maxcnunes.com/2010/11/02/jquery-e-updatepanel/</link>
+		<link>http://maxcnunes.com/2010/11/02/jquery-e-updatepanel/</link>
 		<pubDate>Tue, 02 Nov 2010 17:01:56 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=74</guid>
@@ -3153,7 +3153,7 @@ O assunto mais a fundo você encontra aqui: <a href="http://encosia.com/2009/03/
 	</item>
 	<item>
 				<title>Alert no ASP.NET</title>
-		<link>http://blog.maxcnunes.com/2010/11/23/alert-no-asp-net/</link>
+		<link>http://maxcnunes.com/2010/11/23/alert-no-asp-net/</link>
 		<pubDate>Tue, 23 Nov 2010 22:41:23 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=79</guid>
@@ -3299,7 +3299,7 @@ protected void btnEnviar_Click(object sender, EventArgs e)
 	</item>
 	<item>
 				<title>&quot;Salvar como&quot; no ASP.NET</title>
-		<link>http://blog.maxcnunes.com/2010/12/26/salvar-como-no-asp-net/</link>
+		<link>http://maxcnunes.com/2010/12/26/salvar-como-no-asp-net/</link>
 		<pubDate>Sun, 26 Dec 2010 20:26:59 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=84</guid>
@@ -3402,7 +3402,7 @@ protected void Button1_Click(object sender, EventArgs e)
 	</item>
 	<item>
 				<title>Imprimir uma parte da página com prévia de impressão</title>
-		<link>http://blog.maxcnunes.com/2011/01/21/imprimir-uma-parte-da-pagina-com-previa-de-impressao/</link>
+		<link>http://maxcnunes.com/2011/01/21/imprimir-uma-parte-da-pagina-com-previa-de-impressao/</link>
 		<pubDate>Fri, 21 Jan 2011 03:24:37 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=96</guid>
@@ -3602,7 +3602,7 @@ Lista de parametros opcionais:
 	</item>
 	<item>
 				<title>Validação com REGEX Compiled</title>
-		<link>http://blog.maxcnunes.com/2011/02/11/validacao-com-regex-compiled/</link>
+		<link>http://maxcnunes.com/2011/02/11/validacao-com-regex-compiled/</link>
 		<pubDate>Fri, 11 Feb 2011 02:09:12 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=132</guid>
@@ -3612,7 +3612,7 @@ Lista de parametros opcionais:
 <span style="text-decoration: underline;">Antes dos código, um pouco da definição da "Regex"
 </span>
 
-[caption id="attachment_136" align="alignleft" width="150" caption="Regex"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/02/regex.jpg"><img class="size-thumbnail wp-image-136" style="border: 1px solid black; margin: 3px;" title="regex" src="http://blog.maxcnunes.com/wp-content/uploads/2011/02/regex-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+[caption id="attachment_136" align="alignleft" width="150" caption="Regex"]<a href="http://maxcnunes.com/wp-content/uploads/2011/02/regex.jpg"><img class="size-thumbnail wp-image-136" style="border: 1px solid black; margin: 3px;" title="regex" src="http://maxcnunes.com/wp-content/uploads/2011/02/regex-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 <strong>Expressão Regular:</strong> <em>Uma composição de símbolos, caracteres com funções especiais, que, agrupados entre si e com caracteres literais, formam uma sequência, uma expressão. Essa expressão é interpretada como uma regra, que indicaría sucesso se uma entrada de dados qualquer casar com essa regra, ou seja, obedecer exatamente a todas as suas condições.</em>
 
@@ -3812,12 +3812,12 @@ protected void ButtonValidate_Click(object sender, EventArgs e)
 	</item>
 	<item>
 				<title>Usando o Dictionary</title>
-		<link>http://blog.maxcnunes.com/2011/02/12/usando-dictionary/</link>
+		<link>http://maxcnunes.com/2011/02/12/usando-dictionary/</link>
 		<pubDate>Sat, 12 Feb 2011 20:08:15 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=161</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_162" align="alignleft" width="150" caption="Dictionary"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/02/hk_20080207_dictionary.jpg"><img class="size-thumbnail wp-image-162" style="margin: 3px; border: 1px solid black;" title="Usando Dictionary c#" src="http://blog.maxcnunes.com/wp-content/uploads/2011/02/hk_20080207_dictionary-150x150.jpg" alt="Usando Dictionary c#" width="150" height="150" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_162" align="alignleft" width="150" caption="Dictionary"]<a href="http://maxcnunes.com/wp-content/uploads/2011/02/hk_20080207_dictionary.jpg"><img class="size-thumbnail wp-image-162" style="margin: 3px; border: 1px solid black;" title="Usando Dictionary c#" src="http://maxcnunes.com/wp-content/uploads/2011/02/hk_20080207_dictionary-150x150.jpg" alt="Usando Dictionary c#" width="150" height="150" /></a>[/caption]
 
 Existem muitas formas de armazenar e recuperar dados no c#. Muitas vezes recorremos a arrays, listas, datatables e dentre outros. Porêm, algumas dessas alternativas, como o array, deixa a desejar na performance.
 
@@ -3986,7 +3986,7 @@ Pronto, agora está certo.]]></wp:comment_content>
 	</item>
 	<item>
 				<title>Failed to generate a user instance of SQL Server ...</title>
-		<link>http://blog.maxcnunes.com/2011/02/23/failed-to-generate-a-user-instance-of-sql-server-due-to-a-failure-in-starting-the-process-for-the-user-instance-the-connection-will-be-closed/</link>
+		<link>http://maxcnunes.com/2011/02/23/failed-to-generate-a-user-instance-of-sql-server-due-to-a-failure-in-starting-the-process-for-the-user-instance-the-connection-will-be-closed/</link>
 		<pubDate>Wed, 23 Feb 2011 00:34:24 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=169</guid>
@@ -3995,7 +3995,7 @@ Pronto, agora está certo.]]></wp:comment_content>
 <div>
 <div>
 
-[caption id="attachment_172" align="alignleft" width="150" caption="ERROR"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/02/images.jpg"><img class="size-thumbnail wp-image-172 " style="margin: 3px;" title="erro sql server express" src="http://blog.maxcnunes.com/wp-content/uploads/2011/02/images-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+[caption id="attachment_172" align="alignleft" width="150" caption="ERROR"]<a href="http://maxcnunes.com/wp-content/uploads/2011/02/images.jpg"><img class="size-thumbnail wp-image-172 " style="margin: 3px;" title="erro sql server express" src="http://maxcnunes.com/wp-content/uploads/2011/02/images-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 Ao abrir pelo Visual Studio, um arquivo .mdf, a conexão falhava e aparecia a seguinte mensagem <em>"Failed to generate a user instance of SQL Server due to a failure in starting the process for the user instance. The connection will be closed."</em>.
 
@@ -4069,12 +4069,12 @@ O motivo que encontrei deste erro é que o nome da instância tanto no Express 2
 	</item>
 	<item>
 				<title>Utilizando Replace em uma query de UPDATE</title>
-		<link>http://blog.maxcnunes.com/2011/06/29/utilizando-replace-em-uma-query-de-update/</link>
+		<link>http://maxcnunes.com/2011/06/29/utilizando-replace-em-uma-query-de-update/</link>
 		<pubDate>Wed, 29 Jun 2011 02:36:24 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=186</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_193" align="alignleft" width="150" caption="Replace SQL"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/06/reforma-ortográfica.jpg"><img class="size-thumbnail wp-image-193" title="Replace SQL" src="http://blog.maxcnunes.com/wp-content/uploads/2011/06/reforma-ortográfica-150x150.jpg" alt="Replace SQL" width="150" height="150" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_193" align="alignleft" width="150" caption="Replace SQL"]<a href="http://maxcnunes.com/wp-content/uploads/2011/06/reforma-ortográfica.jpg"><img class="size-thumbnail wp-image-193" title="Replace SQL" src="http://maxcnunes.com/wp-content/uploads/2011/06/reforma-ortográfica-150x150.jpg" alt="Replace SQL" width="150" height="150" /></a>[/caption]
 
 Depois de passar um tempo sem escrever nenhum artigo, após a transferência do servidor do blog, estou retomando as atividades por aqui.
 
@@ -4301,12 +4301,12 @@ update usuários set nome = replace(nome,'Maria','Mariana'); fazem praticamente 
 	</item>
 	<item>
 				<title>Listando mensagens do Twitter - MVC</title>
-		<link>http://blog.maxcnunes.com/2011/07/10/listando-mensagens-do-twitter-mvc/</link>
+		<link>http://maxcnunes.com/2011/07/10/listando-mensagens-do-twitter-mvc/</link>
 		<pubDate>Sun, 10 Jul 2011 22:31:22 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=204</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_205" align="alignleft" width="150" caption="Twitter MVC"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/07/Twitter-Mensagens-MVC.jpg"><img class="size-thumbnail wp-image-205" title="Twitter-Mensagens-MVC" src="http://blog.maxcnunes.com/wp-content/uploads/2011/07/Twitter-Mensagens-MVC-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_205" align="alignleft" width="150" caption="Twitter MVC"]<a href="http://maxcnunes.com/wp-content/uploads/2011/07/Twitter-Mensagens-MVC.jpg"><img class="size-thumbnail wp-image-205" title="Twitter-Mensagens-MVC" src="http://maxcnunes.com/wp-content/uploads/2011/07/Twitter-Mensagens-MVC-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 O Twitter tornou-se uma forte ferramenta de comunicação na web. Cada vez mais empresas e usuários aderem ao Twitter. Pela sua enorme facilidade de disseminar informações.
 
@@ -4566,12 +4566,12 @@ Fonte:<a href="http://www.dotnetcurry.com/ShowArticle.aspx?ID=536">Using ASP.NET
 	</item>
 	<item>
 				<title>Escondendo o MenuItemTemplate</title>
-		<link>http://blog.maxcnunes.com/2011/07/24/escondendo-o-menuitemtemplate/</link>
+		<link>http://maxcnunes.com/2011/07/24/escondendo-o-menuitemtemplate/</link>
 		<pubDate>Sun, 24 Jul 2011 16:07:30 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=211</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_224" align="alignleft" width="150" caption="Sharepoint MenuItemTemplate"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/07/sharepoint-menu-item-template.jpg"><img class="size-thumbnail wp-image-224" title="Sharepoint Menu Item Template" src="http://blog.maxcnunes.com/wp-content/uploads/2011/07/sharepoint-menu-item-template-150x86.jpg" alt="" width="150" height="86" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_224" align="alignleft" width="150" caption="Sharepoint MenuItemTemplate"]<a href="http://maxcnunes.com/wp-content/uploads/2011/07/sharepoint-menu-item-template.jpg"><img class="size-thumbnail wp-image-224" title="Sharepoint Menu Item Template" src="http://maxcnunes.com/wp-content/uploads/2011/07/sharepoint-menu-item-template-150x86.jpg" alt="" width="150" height="86" /></a>[/caption]
 
 Trabalhando com sharepoint, uma situação que eu sempre tive dificuldade em resolver e não sabia como, era a dúvida de como esconder itens do MenuTemplate do Sharepoint, associados ao um SPMenuField dentro da Gridview de acordo com cada registro.
 
@@ -4770,12 +4770,12 @@ namespace WebApplication1
 	</item>
 	<item>
 				<title>POO+JSON+JavaScript</title>
-		<link>http://blog.maxcnunes.com/2011/08/10/poojsonjavascript/</link>
+		<link>http://maxcnunes.com/2011/08/10/poojsonjavascript/</link>
 		<pubDate>Wed, 10 Aug 2011 03:24:26 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=229</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_257" align="alignleft" width="150" caption="POO JSON JavaScript"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/08/POO_JSON_JavaScript.png"><img class="size-thumbnail wp-image-257" title="POO_JSON_JavaScript" src="http://blog.maxcnunes.com/wp-content/uploads/2011/08/POO_JSON_JavaScript-150x140.png" alt="" width="150" height="140" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_257" align="alignleft" width="150" caption="POO JSON JavaScript"]<a href="http://maxcnunes.com/wp-content/uploads/2011/08/POO_JSON_JavaScript.png"><img class="size-thumbnail wp-image-257" title="POO_JSON_JavaScript" src="http://maxcnunes.com/wp-content/uploads/2011/08/POO_JSON_JavaScript-150x140.png" alt="" width="150" height="140" /></a>[/caption]
 
 Quando começamos a trabalhar mais com javascript, aproveitando as vantagens de uma linguagem client-side e o código começar a crescer e ficar mais complexo, surge nessecidade de seguir algum padrão.
 
@@ -4941,12 +4941,12 @@ Que são muito bons!]]></content:encoded>
 	</item>
 	<item>
 				<title>Ordernar aleatoriamente uma lista</title>
-		<link>http://blog.maxcnunes.com/2011/08/17/ordernar-aleatoriamente-uma-lista/</link>
+		<link>http://maxcnunes.com/2011/08/17/ordernar-aleatoriamente-uma-lista/</link>
 		<pubDate>Wed, 17 Aug 2011 02:45:40 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=265</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_268" align="alignleft" width="150" caption="Linq Random"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/08/aleatrio.jpg"><img class="size-thumbnail wp-image-268" title="Random" src="http://blog.maxcnunes.com/wp-content/uploads/2011/08/aleatrio-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_268" align="alignleft" width="150" caption="Linq Random"]<a href="http://maxcnunes.com/wp-content/uploads/2011/08/aleatrio.jpg"><img class="size-thumbnail wp-image-268" title="Random" src="http://maxcnunes.com/wp-content/uploads/2011/08/aleatrio-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 <strong>LINQ</strong> <em>(Language Integrated Query)</em>, além de oferecer um modelo consistente para trabalhar com dados em vários tipos de fontes de dados e formatos, outra importante característica, é facilidade em criar consultas, desde simples <em>selects</em> à outas mirabolantes expressões que uma query possa conter.
 
@@ -5054,10 +5054,10 @@ Sendo assim, cada linha na consulta, a expressão de ordernação será diferent
 	</item>
 	<item>
 				<title>Git - Desfazer alterações</title>
-		<link>http://blog.maxcnunes.com/?p=882</link>
+		<link>http://maxcnunes.com/?p=882</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=882</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=882</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5089,10 +5089,10 @@ Sendo assim, cada linha na consulta, a expressão de ordernação será diferent
 	</item>
 	<item>
 				<title>Ideas Posts</title>
-		<link>http://blog.maxcnunes.com/?p=883</link>
+		<link>http://maxcnunes.com/?p=883</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=883</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=883</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>Git Reset and Checkout</strong>
 
@@ -5154,10 +5154,10 @@ http://www-cs-students.stanford.edu/~blynn/gitmagic/ch05.html#_8230_and_then_som
 	</item>
 	<item>
 				<title>Environment Variables</title>
-		<link>http://blog.maxcnunes.com/?p=1109</link>
+		<link>http://maxcnunes.com/?p=1109</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1109</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1109</guid>
 		<description></description>
 		<content:encoded><![CDATA[sudo vi ~/.bashrc
 
@@ -5197,12 +5197,12 @@ print $KEY]]></content:encoded>
 	</item>
 	<item>
 				<title>Partial class e MetaDataType</title>
-		<link>http://blog.maxcnunes.com/2011/08/30/partial-class-e-metadatatype/</link>
+		<link>http://maxcnunes.com/2011/08/30/partial-class-e-metadatatype/</link>
 		<pubDate>Tue, 30 Aug 2011 05:04:52 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=275</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_283" align="alignleft" width="150" caption="Partial Class"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/08/partial-class-1.jpg"><img class="size-thumbnail wp-image-283" title="Partial Class" src="http://blog.maxcnunes.com/wp-content/uploads/2011/08/partial-class-1-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_283" align="alignleft" width="150" caption="Partial Class"]<a href="http://maxcnunes.com/wp-content/uploads/2011/08/partial-class-1.jpg"><img class="size-thumbnail wp-image-283" title="Partial Class" src="http://maxcnunes.com/wp-content/uploads/2011/08/partial-class-1-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 Se você esta acostumado a utilizar frameworks ORM (Object-relational mapping) como LINQ to SQL, LINQ to Entity e dentre outros. Uma grande vantagem, se não necessidade, é utilizar <strong><span style="color: #3366ff;">Partial Class</span></strong> (classes parciais).
 
@@ -5212,7 +5212,7 @@ Pode ser usada quando trabalhamos com grande projetos, para separar definições
 
 <!--more-->
 
-[caption id="attachment_280" align="aligncenter" width="408" caption="Partial Class"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/08/partial-class.jpg"><img class="size-full wp-image-280" title="partial class" src="http://blog.maxcnunes.com/wp-content/uploads/2011/08/partial-class.jpg" alt="" width="408" height="612" /></a>[/caption]
+[caption id="attachment_280" align="aligncenter" width="408" caption="Partial Class"]<a href="http://maxcnunes.com/wp-content/uploads/2011/08/partial-class.jpg"><img class="size-full wp-image-280" title="partial class" src="http://maxcnunes.com/wp-content/uploads/2011/08/partial-class.jpg" alt="" width="408" height="612" /></a>[/caption]
 
 Para definir uma classe como parcial é necessário incluir a palavra-chave <strong><span style="color: #3366ff;">partial</span></strong> em sua definição Além das classes possuírem exatamente o mesmo nome e namespace.
 
@@ -5378,12 +5378,12 @@ Obs: Imagem utilizada para demonstrar a partial class foi retirada <a href="http
 	</item>
 	<item>
 				<title>Excluir todos os Objetos no SQL Server</title>
-		<link>http://blog.maxcnunes.com/2011/11/17/excluir-todos-os-objetos-no-sql-server/</link>
+		<link>http://maxcnunes.com/2011/11/17/excluir-todos-os-objetos-no-sql-server/</link>
 		<pubDate>Thu, 17 Nov 2011 01:11:32 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
 		<guid isPermaLink="false">http://www.maxcnunes.com/blog/?p=295</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_301" align="alignright" width="150" caption="Excluir todos objetos SQL Server"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/reset.gif"><img class="size-thumbnail wp-image-301 " title="reset" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/reset-150x150.gif" alt="" width="150" height="150" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_301" align="alignright" width="150" caption="Excluir todos objetos SQL Server"]<a href="http://maxcnunes.com/wp-content/uploads/2011/11/reset.gif"><img class="size-thumbnail wp-image-301 " title="reset" src="http://maxcnunes.com/wp-content/uploads/2011/11/reset-150x150.gif" alt="" width="150" height="150" /></a>[/caption]
 
 Este artigo é uma referência á um script que salvou tempo e serviço em um projeto atual. No qual precisávamos zerar o banco, mas com o detalhe que não poderíamos excluí-lo e criá-lo novamente.
 
@@ -5585,12 +5585,12 @@ Segue o link para o post, no qual encontrei este script: <a href="http://paigecs
 	</item>
 	<item>
 				<title>Python no Visual Studio</title>
-		<link>http://blog.maxcnunes.com/2011/11/22/python-no-visual-studio/</link>
+		<link>http://maxcnunes.com/2011/11/22/python-no-visual-studio/</link>
 		<pubDate>Tue, 22 Nov 2011 21:40:14 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=309</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=309</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_317" align="alignleft" width="150" caption="Python"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/python-logo-glassy.png"><img class="size-thumbnail wp-image-317" title="Python" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/python-logo-glassy-150x150.png" alt="" width="150" height="150" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_317" align="alignleft" width="150" caption="Python"]<a href="http://maxcnunes.com/wp-content/uploads/2011/11/python-logo-glassy.png"><img class="size-thumbnail wp-image-317" title="Python" src="http://maxcnunes.com/wp-content/uploads/2011/11/python-logo-glassy-150x150.png" alt="" width="150" height="150" /></a>[/caption]
 
 Outro dia precisei trabalhar com uma linguagem, que sempre tive fascinação, mas que fazia tempo que não à utilizava.
 Estou falando do Python, uma linguagem não muito conhecida e comentada aqui em Londrina. Mas que possui inúmeras vantagens.
@@ -5608,25 +5608,25 @@ Faça o download da versão 2.7.2  Python no site <a href="http://www.python.o
 
 Após instalado o Python. Faça o download do Python Tools for Visual Studio. Que é uma ferramenta para possibilitar o desenvolvimento Python na no Visual Studio.
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Python-Download1.png"><img class="aligncenter size-full wp-image-313" title="Python-Download" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Python-Download1.png" alt="Python-Download" width="633" height="405" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/Python-Download1.png"><img class="aligncenter size-full wp-image-313" title="Python-Download" src="http://maxcnunes.com/wp-content/uploads/2011/11/Python-Download1.png" alt="Python-Download" width="633" height="405" /></a>
 
 O download do instalador está no codeplex: <a href="http://pytools.codeplex.com/">http://pytools.codeplex.com/</a>
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Python-Tools-For-Visual-Studio.png"><img class="aligncenter size-full wp-image-319" title="Python-Tools-For-Visual-Studio" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Python-Tools-For-Visual-Studio.png" alt="Python-Tools-For-Visual-Studio" width="554" height="301" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/Python-Tools-For-Visual-Studio.png"><img class="aligncenter size-full wp-image-319" title="Python-Tools-For-Visual-Studio" src="http://maxcnunes.com/wp-content/uploads/2011/11/Python-Tools-For-Visual-Studio.png" alt="Python-Tools-For-Visual-Studio" width="554" height="301" /></a>
 
 Com a ferramenta instalada, estamos prontos para iniciar o desenvolvimento Python, através do Visual Studio.
 
 Abra o Visual Studio e crie um novo projeto do tipo "Python Application":
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Python-Application.png"><img class="aligncenter size-full wp-image-321" title="Python-Application" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Python-Application.png" alt="Python-Application" width="624" height="433" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/Python-Application.png"><img class="aligncenter size-full wp-image-321" title="Python-Application" src="http://maxcnunes.com/wp-content/uploads/2011/11/Python-Application.png" alt="Python-Application" width="624" height="433" /></a>
 
 Em seguida vamos configurar o projeto, para definir que os scripts aqui desenvolvidos serão executados no Interpretador Python 2.7.2 que instalamos anteriormente.
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Python-Application-Properties.png"><img class="aligncenter size-full wp-image-322" title="Python-Application-Properties" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Python-Application-Properties.png" alt="" width="591" height="424" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/Python-Application-Properties.png"><img class="aligncenter size-full wp-image-322" title="Python-Application-Properties" src="http://maxcnunes.com/wp-content/uploads/2011/11/Python-Application-Properties.png" alt="" width="591" height="424" /></a>
 
 Selecione o interpretador correto:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Python-Interpretador.png"><img class="aligncenter size-full wp-image-323" title="Python-Interpretador" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/Python-Interpretador.png" alt="" width="571" height="333" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/11/Python-Interpretador.png"><img class="aligncenter size-full wp-image-323" title="Python-Interpretador" src="http://maxcnunes.com/wp-content/uploads/2011/11/Python-Interpretador.png" alt="" width="571" height="333" /></a>
 
 Escreva algum código em Python para testar:
 
@@ -5728,14 +5728,14 @@ Note como o código Python é simples e elegante. Python utiliza a própria iden
 	</item>
 	<item>
 				<title>Programação Orientada a Objetos (POO) - I</title>
-		<link>http://blog.maxcnunes.com/2011/12/01/programacao-orientada-a-objetos-poo-i/</link>
+		<link>http://maxcnunes.com/2011/12/01/programacao-orientada-a-objetos-poo-i/</link>
 		<pubDate>Thu, 01 Dec 2011 03:21:41 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=383</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=383</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div id="box_conteudo_post">
 <h1></h1>
-[caption id="attachment_463" align="alignleft" width="150" caption="POO"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/12/oop.jpg"><img class="size-thumbnail wp-image-463" title="Programação Orientada a Objetos" src="http://blog.maxcnunes.com/wp-content/uploads/2011/12/oop-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+[caption id="attachment_463" align="alignleft" width="150" caption="POO"]<a href="http://maxcnunes.com/wp-content/uploads/2011/12/oop.jpg"><img class="size-thumbnail wp-image-463" title="Programação Orientada a Objetos" src="http://maxcnunes.com/wp-content/uploads/2011/12/oop-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 <h1><span class="Apple-style-span" style="font-size: 13px; font-weight: normal;">Programação Orientada a Objetos (POO)</span></h1>
 Orientação a objetos é um paradigma de programação organizado através de objetos. Isto é, quando utilizamos POO, estamos facilitando a forma de compreensão e implementação de um projeto. Porque, simplesmente estamos se preocupando na forma em que as informações são definidas, como característica e comportamentos, e como elas se relacionam entre si.
 
@@ -5754,7 +5754,7 @@ Sendo assim podemos definir que todas as pessoas em um time de futebol, fazem pa
 </td>
 </tr>
 <tr>
-<td valign="top" width="390"> <a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-jogadores.jpg"><img class="aligncenter size-full wp-image-394" title="POO-jogadores" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-jogadores.jpg" alt="POO-jogadores" width="466" height="108" /></a></td>
+<td valign="top" width="390"> <a href="http://maxcnunes.com/wp-content/uploads/2011/11/POO-jogadores.jpg"><img class="aligncenter size-full wp-image-394" title="POO-jogadores" src="http://maxcnunes.com/wp-content/uploads/2011/11/POO-jogadores.jpg" alt="POO-jogadores" width="466" height="108" /></a></td>
 <td valign="top" width="248"><strong><span style="text-decoration: underline;"> </span></strong><strong><span style="text-decoration: underline;">Características</span></strong>
 <ul>
 	<li>Nome</li>
@@ -5769,7 +5769,7 @@ Sendo assim podemos definir que todas as pessoas em um time de futebol, fazem pa
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="638"> <a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-DC-Pessoa.png"><img class="aligncenter size-full wp-image-402" title="POO-DC-Pessoa" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-DC-Pessoa.png" alt="" width="562" height="251" /></a></td>
+<td colspan="2" valign="top" width="638"> <a href="http://maxcnunes.com/wp-content/uploads/2011/11/POO-DC-Pessoa.png"><img class="aligncenter size-full wp-image-402" title="POO-DC-Pessoa" src="http://maxcnunes.com/wp-content/uploads/2011/11/POO-DC-Pessoa.png" alt="" width="562" height="251" /></a></td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="638">[sourcecode language="csharp"]
@@ -5842,7 +5842,7 @@ Por exemplo:
 </td>
 </tr>
 <tr>
-<td valign="top" width="319"> <a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-neymar.jpg"><img class="aligncenter size-full wp-image-396" title="POO-neymar" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-neymar.jpg" alt="" width="195" height="258" /></a></td>
+<td valign="top" width="319"> <a href="http://maxcnunes.com/wp-content/uploads/2011/11/POO-neymar.jpg"><img class="aligncenter size-full wp-image-396" title="POO-neymar" src="http://maxcnunes.com/wp-content/uploads/2011/11/POO-neymar.jpg" alt="" width="195" height="258" /></a></td>
 <td valign="top" width="319"><strong>Tipo do objeto:</strong>Pessoa<strong><span style="text-decoration: underline;">Características</span></strong>
 <ul>
 	<li>Nome: Neymar</li>
@@ -5935,11 +5935,11 @@ Para atender a este tipo de situação, podemos criar duas classes diferentes, m
 </td>
 </tr>
 <tr>
-<td colspan="2" width="452"> <a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-PessoaJogdores.jpg"><img class="aligncenter size-full wp-image-398" title="POO-PessoaJogdores" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-PessoaJogdores.jpg" alt="" width="369" height="254" /></a></td>
-<td width="186"> <a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-PessoaTecnico.jpg"><img class="aligncenter size-full wp-image-399" title="POO-PessoaTecnico" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-PessoaTecnico.jpg" alt="" width="172" height="183" /></a></td>
+<td colspan="2" width="452"> <a href="http://maxcnunes.com/wp-content/uploads/2011/11/POO-PessoaJogdores.jpg"><img class="aligncenter size-full wp-image-398" title="POO-PessoaJogdores" src="http://maxcnunes.com/wp-content/uploads/2011/11/POO-PessoaJogdores.jpg" alt="" width="369" height="254" /></a></td>
+<td width="186"> <a href="http://maxcnunes.com/wp-content/uploads/2011/11/POO-PessoaTecnico.jpg"><img class="aligncenter size-full wp-image-399" title="POO-PessoaTecnico" src="http://maxcnunes.com/wp-content/uploads/2011/11/POO-PessoaTecnico.jpg" alt="" width="172" height="183" /></a></td>
 </tr>
 <tr>
-<td colspan="3" width="638"> <a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-DC-Heranca.png"><img class="aligncenter size-full wp-image-404" title="POO-DC-Heranca" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-DC-Heranca.png" alt="" width="555" height="533" /></a></td>
+<td colspan="3" width="638"> <a href="http://maxcnunes.com/wp-content/uploads/2011/11/POO-DC-Heranca.png"><img class="aligncenter size-full wp-image-404" title="POO-DC-Heranca" src="http://maxcnunes.com/wp-content/uploads/2011/11/POO-DC-Heranca.png" alt="" width="555" height="533" /></a></td>
 </tr>
 <tr>
 <td width="347">[sourcecode language="csharp"]
@@ -6024,15 +6024,15 @@ Um modificador de acesso determina até onde o atributo ou método pode ser visu
 <table class="table_post_max" border="1" cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
-<td><a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-pulica.png"><img class="aligncenter size-full wp-image-419" title="POO-pulica" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-pulica.png" alt="" width="21" height="19" /></a></td>
+<td><a href="http://maxcnunes.com/wp-content/uploads/2011/11/POO-pulica.png"><img class="aligncenter size-full wp-image-419" title="POO-pulica" src="http://maxcnunes.com/wp-content/uploads/2011/11/POO-pulica.png" alt="" width="21" height="19" /></a></td>
 <td><strong>public </strong>Acesso não é restrito. Membro é acessado de qualquer lugar.</td>
 </tr>
 <tr>
-<td><a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-protected.png"><img class="aligncenter size-full wp-image-420" title="POO-protected" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-protected.png" alt="" width="25" height="20" /></a></td>
+<td><a href="http://maxcnunes.com/wp-content/uploads/2011/11/POO-protected.png"><img class="aligncenter size-full wp-image-420" title="POO-protected" src="http://maxcnunes.com/wp-content/uploads/2011/11/POO-protected.png" alt="" width="25" height="20" /></a></td>
 <td><strong>protected</strong> Pode ser acessado dentro da classe que o define e pelas classes que a herdam.</td>
 </tr>
 <tr>
-<td><a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-private.png"><img class="aligncenter size-full wp-image-421" title="POO-private" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-private.png" alt="" width="21" height="21" /></a></td>
+<td><a href="http://maxcnunes.com/wp-content/uploads/2011/11/POO-private.png"><img class="aligncenter size-full wp-image-421" title="POO-private" src="http://maxcnunes.com/wp-content/uploads/2011/11/POO-private.png" alt="" width="21" height="21" /></a></td>
 <td><strong>private </strong>Membro pode ser a cessado somente dentro da classe que o define.</td>
 </tr>
 </tbody>
@@ -6040,7 +6040,7 @@ Um modificador de acesso determina até onde o atributo ou método pode ser visu
 <table class="table_post_max" border="1" cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
-<td valign="top" width="638"> <a href="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-DC-ModificadorAcesso.png"><img class="aligncenter size-full wp-image-406" title="POO-DC-ModificadorAcesso" src="http://blog.maxcnunes.com/wp-content/uploads/2011/11/POO-DC-ModificadorAcesso.png" alt="" width="591" height="389" /></a></td>
+<td valign="top" width="638"> <a href="http://maxcnunes.com/wp-content/uploads/2011/11/POO-DC-ModificadorAcesso.png"><img class="aligncenter size-full wp-image-406" title="POO-DC-ModificadorAcesso" src="http://maxcnunes.com/wp-content/uploads/2011/11/POO-DC-ModificadorAcesso.png" alt="" width="591" height="389" /></a></td>
 </tr>
 <tr>
 <td valign="top" width="638">[sourcecode language="csharp"]
@@ -6153,12 +6153,12 @@ Por enquanto é isto. No próximo artigo continuarei com outros conceitos de POO
 	</item>
 	<item>
 				<title>Configurando controle de versões Team Foundation Server(TFS)</title>
-		<link>http://blog.maxcnunes.com/2011/12/13/configurando-controle-de-versoes-team-foundation-servertfs/</link>
+		<link>http://maxcnunes.com/2011/12/13/configurando-controle-de-versoes-team-foundation-servertfs/</link>
 		<pubDate>Tue, 13 Dec 2011 02:32:43 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=470</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=470</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_474" align="alignleft" width="150" caption="TFS - Team Foundation Server"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/12/tfs-team-foundation-server.jpg"><img class="size-thumbnail wp-image-474" title="tfs - team foundation server" src="http://blog.maxcnunes.com/wp-content/uploads/2011/12/tfs-team-foundation-server-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_474" align="alignleft" width="150" caption="TFS - Team Foundation Server"]<a href="http://maxcnunes.com/wp-content/uploads/2011/12/tfs-team-foundation-server.jpg"><img class="size-thumbnail wp-image-474" title="tfs - team foundation server" src="http://maxcnunes.com/wp-content/uploads/2011/12/tfs-team-foundation-server-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 Em um dos projetos que estive envolvido recentemente. Surgiu a necessidade de utilizar uma ferramenta robusta e confiável para o controle de versões dos fontes do projeto.
 
@@ -6168,7 +6168,7 @@ O TFS é uma plataforma da Microsoft, que tem o objetivo de oferecer uma infraes
 
 E uma das ferramentas integrada nessa plataforma é o Source Control(Controle de Versões).
 
-[caption id="attachment_476" align="aligncenter" width="617" caption="TFS - Estrutura"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/12/tfs-Estrutura.png"><img class="size-full wp-image-476" title="tfs - Estrutura" src="http://blog.maxcnunes.com/wp-content/uploads/2011/12/tfs-Estrutura.png" alt="" width="617" height="350" /></a>[/caption]
+[caption id="attachment_476" align="aligncenter" width="617" caption="TFS - Estrutura"]<a href="http://maxcnunes.com/wp-content/uploads/2011/12/tfs-Estrutura.png"><img class="size-full wp-image-476" title="tfs - Estrutura" src="http://maxcnunes.com/wp-content/uploads/2011/12/tfs-Estrutura.png" alt="" width="617" height="350" /></a>[/caption]
 
 Na seguinte apresentação detalhei passo a passo como configurar o Windows Server 2008, SQL Server 2008 e o Team Foundation Server 2010 para utilizar sua configuração básica.
 [slideshare id=10561160&amp;doc=configurandocontroledeversesteamfoundationservertfs-111212084759-phpapp02]]]></content:encoded>
@@ -6227,12 +6227,12 @@ Na seguinte apresentação detalhei passo a passo como configurar o Windows Serv
 	</item>
 	<item>
 				<title>Funções básicas da API Google Maps</title>
-		<link>http://blog.maxcnunes.com/2012/01/01/funcoes-basicas-da-api-google-maps/</link>
+		<link>http://maxcnunes.com/2012/01/01/funcoes-basicas-da-api-google-maps/</link>
 		<pubDate>Sun, 01 Jan 2012 21:28:38 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=493</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=493</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_496" align="alignleft" width="150" caption="API Gmap"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/12/gmap-exemplo.png"><img class="size-thumbnail wp-image-496" title="gmap-exemplo" src="http://blog.maxcnunes.com/wp-content/uploads/2011/12/gmap-exemplo-150x150.png" alt="Exemplo do tutorial" width="150" height="150" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_496" align="alignleft" width="150" caption="API Gmap"]<a href="http://maxcnunes.com/wp-content/uploads/2011/12/gmap-exemplo.png"><img class="size-thumbnail wp-image-496" title="gmap-exemplo" src="http://maxcnunes.com/wp-content/uploads/2011/12/gmap-exemplo-150x150.png" alt="Exemplo do tutorial" width="150" height="150" /></a>[/caption]
 
 Com o google maps cada vez mais difundido entre a população. Pela facilidade na utilização do aplicativo e pelos benefícios providos pelo mesmo. Está cada vez mais comum, nos depararmos com sites e sistemas utilizando tais funcionalidades do aplicativo, para indicar a localização de empresas, rotas e outros pontos interessantes.
 
@@ -6250,7 +6250,7 @@ Na demonstração a seguir será abordado funcionalidades simples da API do GMap
 	<li>Definir a fronteira e o zoom do mapa, de acordo com todos os pontos adicionados nele</li>
 </ul>
 <div>Para você ter uma ideia de como ficará, segue um printscreen do resultado final.</div>
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2011/12/gmap-exemplo.png"><img class="aligncenter size-full wp-image-496" title="gmap-exemplo" src="http://blog.maxcnunes.com/wp-content/uploads/2011/12/gmap-exemplo.png" alt="Exemplo do tutorial" width="652" height="448" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2011/12/gmap-exemplo.png"><img class="aligncenter size-full wp-image-496" title="gmap-exemplo" src="http://maxcnunes.com/wp-content/uploads/2011/12/gmap-exemplo.png" alt="Exemplo do tutorial" width="652" height="448" /></a>
 <pre>Faça o download do demo: <a href="https://github.com/maxcnunes/GoogleMapsAPI3" target="_blank">https://github.com/maxcnunes/GoogleMapsAPI3</a>
 [sourcecode language="javascript"]
 /*
@@ -6799,20 +6799,20 @@ Mas no site do google maps tem bastante coisa, da uma olhada lá.]]></wp:comment
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key>akismet_as_submitted</wp:meta_key>
-				<wp:meta_value><![CDATA[a:70:{s:15:"comment_post_ID";i:493;s:14:"comment_author";s:9:"maxcnunes";s:20:"comment_author_email";s:19:"maxcnunes@gmail.com";s:18:"comment_author_url";s:0:"";s:15:"comment_content";s:71:"Nāo vou conseguir te ajudar nesse caso. Acho que nunca fiz algo assim.";s:14:"comment_parent";i:2832;s:7:"user_ID";i:1;s:7:"user_ip";s:14:"187.49.237.214";s:10:"user_agent";s:120:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36";s:8:"referrer";s:52:"http://blog.maxcnunes.com/wp-admin/edit-comments.php";s:4:"blog";s:25:"http://blog.maxcnunes.com";s:9:"blog_lang";s:5:"en_US";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:72:"http://blog.maxcnunes.com/2012/01/01/funcoes-basicas-da-api-google-maps/";s:9:"user_role";s:13:"administrator";s:21:"akismet_comment_nonce";s:6:"passed";s:22:"POST_newcomment_author";s:0:"";s:28:"POST_newcomment_author_email";s:0:"";s:26:"POST_newcomment_author_url";s:0:"";s:12:"POST_user_ID";s:1:"1";s:11:"POST_action";s:15:"replyto-comment";s:15:"POST_comment_ID";s:4:"2832";s:20:"POST_comment_post_ID";s:3:"493";s:11:"POST_status";s:0:"";s:13:"POST_position";s:2:"-1";s:13:"POST_checkbox";s:1:"1";s:9:"POST_mode";s:6:"detail";s:32:"POST__ajax_nonce-replyto-comment";s:10:"ca23468f88";s:32:"POST__wp_unfiltered_html_comment";s:10:"ce822fcbce";s:10:"POST_ak_js";s:13:"1406893888623";s:12:"POST_content";s:71:"Nāo vou conseguir te ajudar nesse caso. Acho que nunca fiz algo assim.";s:7:"POST_id";s:3:"493";s:21:"POST_comments_listing";s:3:"all";s:19:"POST_approve_parent";s:1:"1";s:15:"SERVER_SOFTWARE";s:11:"nginx/1.6.0";s:11:"REQUEST_URI";s:24:"/wp-admin/admin-ajax.php";s:4:"USER";s:5:"nginx";s:4:"HOME";s:16:"/var/cache/nginx";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:15:"SCRIPT_FILENAME";s:63:"/var/www/maxcnunes.com/blog/public_html/wp-admin/admin-ajax.php";s:12:"QUERY_STRING";s:0:"";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"CONTENT_TYPE";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:14:"CONTENT_LENGTH";s:3:"405";s:11:"SCRIPT_NAME";s:24:"/wp-admin/admin-ajax.php";s:12:"DOCUMENT_URI";s:24:"/wp-admin/admin-ajax.php";s:13:"DOCUMENT_ROOT";s:39:"/var/www/maxcnunes.com/blog/public_html";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:11:"REMOTE_ADDR";s:14:"187.49.237.214";s:11:"REMOTE_PORT";s:5:"65495";s:11:"SERVER_ADDR";s:14:"198.211.102.52";s:11:"SERVER_PORT";s:2:"80";s:11:"SERVER_NAME";s:18:"blog.maxcnunes.com";s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:18:"blog.maxcnunes.com";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:19:"HTTP_CONTENT_LENGTH";s:3:"405";s:11:"HTTP_ACCEPT";s:3:"*/*";s:11:"HTTP_ORIGIN";s:25:"http://blog.maxcnunes.com";s:21:"HTTP_X_REQUESTED_WITH";s:14:"XMLHttpRequest";s:15:"HTTP_USER_AGENT";s:120:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36";s:17:"HTTP_CONTENT_TYPE";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:12:"HTTP_REFERER";s:52:"http://blog.maxcnunes.com/wp-admin/edit-comments.php";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip,deflate,sdch";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4";s:11:"HTTP_COOKIE";s:0:"";s:8:"PHP_SELF";s:24:"/wp-admin/admin-ajax.php";s:12:"REQUEST_TIME";s:10:"1406894278";s:25:"comment_post_modified_gmt";s:19:"2012-01-01 21:28:38";}]]></wp:meta_value>
+				<wp:meta_value><![CDATA[a:70:{s:15:"comment_post_ID";i:493;s:14:"comment_author";s:9:"maxcnunes";s:20:"comment_author_email";s:19:"maxcnunes@gmail.com";s:18:"comment_author_url";s:0:"";s:15:"comment_content";s:71:"Nāo vou conseguir te ajudar nesse caso. Acho que nunca fiz algo assim.";s:14:"comment_parent";i:2832;s:7:"user_ID";i:1;s:7:"user_ip";s:14:"187.49.237.214";s:10:"user_agent";s:120:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36";s:8:"referrer";s:52:"http://maxcnunes.com/wp-admin/edit-comments.php";s:4:"blog";s:25:"http://maxcnunes.com";s:9:"blog_lang";s:5:"en_US";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:72:"http://maxcnunes.com/2012/01/01/funcoes-basicas-da-api-google-maps/";s:9:"user_role";s:13:"administrator";s:21:"akismet_comment_nonce";s:6:"passed";s:22:"POST_newcomment_author";s:0:"";s:28:"POST_newcomment_author_email";s:0:"";s:26:"POST_newcomment_author_url";s:0:"";s:12:"POST_user_ID";s:1:"1";s:11:"POST_action";s:15:"replyto-comment";s:15:"POST_comment_ID";s:4:"2832";s:20:"POST_comment_post_ID";s:3:"493";s:11:"POST_status";s:0:"";s:13:"POST_position";s:2:"-1";s:13:"POST_checkbox";s:1:"1";s:9:"POST_mode";s:6:"detail";s:32:"POST__ajax_nonce-replyto-comment";s:10:"ca23468f88";s:32:"POST__wp_unfiltered_html_comment";s:10:"ce822fcbce";s:10:"POST_ak_js";s:13:"1406893888623";s:12:"POST_content";s:71:"Nāo vou conseguir te ajudar nesse caso. Acho que nunca fiz algo assim.";s:7:"POST_id";s:3:"493";s:21:"POST_comments_listing";s:3:"all";s:19:"POST_approve_parent";s:1:"1";s:15:"SERVER_SOFTWARE";s:11:"nginx/1.6.0";s:11:"REQUEST_URI";s:24:"/wp-admin/admin-ajax.php";s:4:"USER";s:5:"nginx";s:4:"HOME";s:16:"/var/cache/nginx";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:15:"SCRIPT_FILENAME";s:63:"/var/www/maxcnunes.com/blog/public_html/wp-admin/admin-ajax.php";s:12:"QUERY_STRING";s:0:"";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"CONTENT_TYPE";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:14:"CONTENT_LENGTH";s:3:"405";s:11:"SCRIPT_NAME";s:24:"/wp-admin/admin-ajax.php";s:12:"DOCUMENT_URI";s:24:"/wp-admin/admin-ajax.php";s:13:"DOCUMENT_ROOT";s:39:"/var/www/maxcnunes.com/blog/public_html";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:11:"REMOTE_ADDR";s:14:"187.49.237.214";s:11:"REMOTE_PORT";s:5:"65495";s:11:"SERVER_ADDR";s:14:"198.211.102.52";s:11:"SERVER_PORT";s:2:"80";s:11:"SERVER_NAME";s:18:"maxcnunes.com";s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:18:"maxcnunes.com";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:19:"HTTP_CONTENT_LENGTH";s:3:"405";s:11:"HTTP_ACCEPT";s:3:"*/*";s:11:"HTTP_ORIGIN";s:25:"http://maxcnunes.com";s:21:"HTTP_X_REQUESTED_WITH";s:14:"XMLHttpRequest";s:15:"HTTP_USER_AGENT";s:120:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36";s:17:"HTTP_CONTENT_TYPE";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:12:"HTTP_REFERER";s:52:"http://maxcnunes.com/wp-admin/edit-comments.php";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip,deflate,sdch";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4";s:11:"HTTP_COOKIE";s:0:"";s:8:"PHP_SELF";s:24:"/wp-admin/admin-ajax.php";s:12:"REQUEST_TIME";s:10:"1406894278";s:25:"comment_post_modified_gmt";s:19:"2012-01-01 21:28:38";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
 	</item>
 	<item>
 				<title>Manipulação de Dados com Repositórios em ADO.NET SqlClient</title>
-		<link>http://blog.maxcnunes.com/2012/02/01/manipulacao-de-dados-com-repositorios-em-ado-net-sqlclient/</link>
+		<link>http://maxcnunes.com/2012/02/01/manipulacao-de-dados-com-repositorios-em-ado-net-sqlclient/</link>
 		<pubDate>Wed, 01 Feb 2012 18:10:49 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=525</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=525</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div>
 
-[caption id="attachment_526" align="alignleft" width="186" caption="Estrutura do Projeto"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/02/Projeto-ADONET.png"><img class="size-medium wp-image-526" title="Projeto-ADONET" src="http://blog.maxcnunes.com/wp-content/uploads/2012/02/Projeto-ADONET-186x300.png" alt="" width="186" height="300" /></a>[/caption]
+[caption id="attachment_526" align="alignleft" width="186" caption="Estrutura do Projeto"]<a href="http://maxcnunes.com/wp-content/uploads/2012/02/Projeto-ADONET.png"><img class="size-medium wp-image-526" title="Projeto-ADONET" src="http://maxcnunes.com/wp-content/uploads/2012/02/Projeto-ADONET-186x300.png" alt="" width="186" height="300" /></a>[/caption]
 
 Hoje venho apresentar uma forma simples e produtiva para persistência e manipulação de dados.
 
@@ -6854,7 +6854,7 @@ Note que no código anterior utilizamos 3 tipos de <em><strong>"Execute Command"
 <h3>Projeto MDI_Escola (Apresentação)</h3>
 A tela para gerenciamento do Aluno ficará assim:
 
-[caption id="attachment_535" align="aligncenter" width="615" caption="Tela"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/02/Tela-ADONET.png"><img class="size-full wp-image-535 " title="Tela-ADONET" src="http://blog.maxcnunes.com/wp-content/uploads/2012/02/Tela-ADONET.png" alt="" width="615" height="446" /></a>[/caption]
+[caption id="attachment_535" align="aligncenter" width="615" caption="Tela"]<a href="http://maxcnunes.com/wp-content/uploads/2012/02/Tela-ADONET.png"><img class="size-full wp-image-535 " title="Tela-ADONET" src="http://maxcnunes.com/wp-content/uploads/2012/02/Tela-ADONET.png" alt="" width="615" height="446" /></a>[/caption]
 
 Eventos da tela Cadastrar Aluno (CodeBehind da Tela):
 [gist id=1748064 file=FrmCadAluno.cs]
@@ -6930,10 +6930,10 @@ Por último adicione um arquivo "App.config" ao projeto da camada de Apresentaç
 	</item>
 	<item>
 				<title>Replace All JavaScript</title>
-		<link>http://blog.maxcnunes.com/2012/03/11/replace-all-javascript/</link>
+		<link>http://maxcnunes.com/2012/03/11/replace-all-javascript/</link>
 		<pubDate>Sun, 11 Mar 2012 13:16:07 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=567</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=567</guid>
 		<description></description>
 		<content:encoded><![CDATA[Dica rápida:
 
@@ -7003,14 +7003,14 @@ var textoFormatado = texto.split('.').join('');
 	</item>
 	<item>
 				<title>Padrão de nomes</title>
-		<link>http://blog.maxcnunes.com/2012/09/25/padrao-de-nomes/</link>
+		<link>http://maxcnunes.com/2012/09/25/padrao-de-nomes/</link>
 		<pubDate>Tue, 25 Sep 2012 01:25:43 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=568</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=568</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
-[caption id="attachment_724" align="alignleft" width="150" caption="Nomenclatura - Organizado"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/09/organizado.jpg"><img class="size-thumbnail wp-image-724" title="organizado" src="http://blog.maxcnunes.com/wp-content/uploads/2012/09/organizado-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+[caption id="attachment_724" align="alignleft" width="150" caption="Nomenclatura - Organizado"]<a href="http://maxcnunes.com/wp-content/uploads/2012/09/organizado.jpg"><img class="size-thumbnail wp-image-724" title="organizado" src="http://maxcnunes.com/wp-content/uploads/2012/09/organizado-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 Em projetos que existem um time de desenvolvimento e um desenvolvedor depende de outros para construir um sistema, uma padronização no código deve ser tomada como regra para o bem comum do projeto.
 
@@ -7281,14 +7281,14 @@ Não utilize o mesmo nome para um namespace e uma classe. Um namespace chamado <
 	</item>
 	<item>
 				<title>Recuperar Query String com Javascript</title>
-		<link>http://blog.maxcnunes.com/2012/04/03/recuperar-query-string-com-javascript/</link>
+		<link>http://maxcnunes.com/2012/04/03/recuperar-query-string-com-javascript/</link>
 		<pubDate>Tue, 03 Apr 2012 02:51:46 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=589</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=589</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
-[caption id="attachment_590" align="alignleft" width="150" caption="JS recuperar Query String"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/04/recuperar-url-javascript.jpg"><img class="size-thumbnail wp-image-590" title="recuperar-url-javascript" src="http://blog.maxcnunes.com/wp-content/uploads/2012/04/recuperar-url-javascript-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+[caption id="attachment_590" align="alignleft" width="150" caption="JS recuperar Query String"]<a href="http://maxcnunes.com/wp-content/uploads/2012/04/recuperar-url-javascript.jpg"><img class="size-thumbnail wp-image-590" title="recuperar-url-javascript" src="http://maxcnunes.com/wp-content/uploads/2012/04/recuperar-url-javascript-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 Quando se está trabalhando com client side, tudo que for possível manter do lado do cliente e não for comprometer a segurança das informações, é preferível que não passe para o lado do servidor, por diminuir as requisições ao servidor e aumentar dessa forma a performance.
 
@@ -7407,14 +7407,14 @@ O html completo para testar essa funcionalidade fica assim:
 	</item>
 	<item>
 				<title>JQuery UI dialog com eventos do ASP.NET</title>
-		<link>http://blog.maxcnunes.com/2012/04/22/jquery-ui-dialog-com-eventos-do-asp-net/</link>
+		<link>http://maxcnunes.com/2012/04/22/jquery-ui-dialog-com-eventos-do-asp-net/</link>
 		<pubDate>Sun, 22 Apr 2012 16:48:01 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=594</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=594</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
-[caption id="attachment_596" align="alignleft" width="262" caption="Dialog com eventos ASP.NET"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/04/jquery-ui-dialog-events-aspnet.png"><img class="size-full wp-image-596 " title="jquery-ui-dialog-events-aspnet" src="http://blog.maxcnunes.com/wp-content/uploads/2012/04/jquery-ui-dialog-events-aspnet.png" alt="" width="262" height="147" /></a>[/caption]
+[caption id="attachment_596" align="alignleft" width="262" caption="Dialog com eventos ASP.NET"]<a href="http://maxcnunes.com/wp-content/uploads/2012/04/jquery-ui-dialog-events-aspnet.png"><img class="size-full wp-image-596 " title="jquery-ui-dialog-events-aspnet" src="http://maxcnunes.com/wp-content/uploads/2012/04/jquery-ui-dialog-events-aspnet.png" alt="" width="262" height="147" /></a>[/caption]
 
 Você começa um projeto novo e decidi aumentar a usabilidade, e nada melhor do que utilizar as várias funcionalidades que o plugin JQuery UI oferece. Dentro os vários, um bem legal é o dialog que é uma janela flutuante na tela.
 
@@ -7710,14 +7710,14 @@ como devo fazer ?]]></wp:comment_content>
 	</item>
 	<item>
 				<title>Definir um botão padrão de submit</title>
-		<link>http://blog.maxcnunes.com/2012/05/06/definir-um-botao-padrao-de-submit/</link>
+		<link>http://maxcnunes.com/2012/05/06/definir-um-botao-padrao-de-submit/</link>
 		<pubDate>Sun, 06 May 2012 14:41:06 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=600</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=600</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
-[caption id="attachment_601" align="alignleft" width="150" caption="Botão padrão do formulário"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/05/enviar.jpg"><img class="size-thumbnail wp-image-601" title="enviar" src="http://blog.maxcnunes.com/wp-content/uploads/2012/05/enviar-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+[caption id="attachment_601" align="alignleft" width="150" caption="Botão padrão do formulário"]<a href="http://maxcnunes.com/wp-content/uploads/2012/05/enviar.jpg"><img class="size-thumbnail wp-image-601" title="enviar" src="http://maxcnunes.com/wp-content/uploads/2012/05/enviar-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 O artigo de hoje é super simples, mas eu passei por uma situação nessa semana, na qual quando eu teclava o botão ENTER &nbsp;em um formulário de pesquisa o evento disparado era do botão de limpar ao invés do botão pesquisar. Isso era uma problema, porque a maioria dos usuário já estão acostumados com esse processo e quando realizassem nessa tela iriam ficar frustrados com o resultado.
 
@@ -7783,12 +7783,12 @@ Obs: Durante a minha pesquisa, alguns usuários relatavam que funcionava passand
 	</item>
 	<item>
 				<title>Consultar valores dentro de uma estrutura XML no banco</title>
-		<link>http://blog.maxcnunes.com/2012/05/12/consultar-valores-dentro-de-uma-estrutura-xml-no-banco/</link>
+		<link>http://maxcnunes.com/2012/05/12/consultar-valores-dentro-de-uma-estrutura-xml-no-banco/</link>
 		<pubDate>Sat, 12 May 2012 16:33:59 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=606</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=606</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_607" align="alignleft" width="150" caption="Consultar XML no BD"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/05/xml.png"><img class="size-thumbnail wp-image-607" title="xml" src="http://blog.maxcnunes.com/wp-content/uploads/2012/05/xml-150x150.png" alt="" width="150" height="150" /></a>[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_607" align="alignleft" width="150" caption="Consultar XML no BD"]<a href="http://maxcnunes.com/wp-content/uploads/2012/05/xml.png"><img class="size-thumbnail wp-image-607" title="xml" src="http://maxcnunes.com/wp-content/uploads/2012/05/xml-150x150.png" alt="" width="150" height="150" /></a>[/caption]
 
 Acredito que hoje em dia a maioria dos bancos de dados possui suporte para estruturas XML, sendo um formato de fácil manipulação, leitura e bem organizado por possuir uma estrutura formada por nós e elementos.
 
@@ -7923,14 +7923,14 @@ Para que fosse possível realizar a busca dentro do XML foi necessário declarar
 	</item>
 	<item>
 				<title>Concatenar uma lista de valores e juntá-los por um delimitador</title>
-		<link>http://blog.maxcnunes.com/2012/05/21/concatenar-uma-lista-de-valores-e-junta-los-por-um-delimitador/</link>
+		<link>http://maxcnunes.com/2012/05/21/concatenar-uma-lista-de-valores-e-junta-los-por-um-delimitador/</link>
 		<pubDate>Mon, 21 May 2012 00:42:00 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=646</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=646</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
-[caption id="attachment_651" align="alignleft" width="150" caption="string.Join"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/05/Join.jpg"><img class="size-thumbnail wp-image-651" title="Join" src="http://blog.maxcnunes.com/wp-content/uploads/2012/05/Join-150x141.jpg" alt="" width="150" height="141" /></a>[/caption]
+[caption id="attachment_651" align="alignleft" width="150" caption="string.Join"]<a href="http://maxcnunes.com/wp-content/uploads/2012/05/Join.jpg"><img class="size-thumbnail wp-image-651" title="Join" src="http://maxcnunes.com/wp-content/uploads/2012/05/Join-150x141.jpg" alt="" width="150" height="141" /></a>[/caption]
 
 Quando trabalhamos com Stored Procedures&nbsp;para aumentar a performance, muitas vezes quando a situação permite, damos preferência por realizar a execução de uma única vez de uma Stored Procedure, ao invés de chamá-la para cada código contido em uma lista.
 
@@ -8040,10 +8040,10 @@ Obs: Outra forma de passar uma lista de valores a Stored Procedure seria atravé
 	</item>
 	<item>
 				<title>Substituindo propriedade estáticas no ASP.NET</title>
-		<link>http://blog.maxcnunes.com/2012/05/28/substituindo-propriedade-estaticas-no-asp-net/</link>
+		<link>http://maxcnunes.com/2012/05/28/substituindo-propriedade-estaticas-no-asp-net/</link>
 		<pubDate>Mon, 28 May 2012 19:45:22 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=660</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=660</guid>
 		<description></description>
 		<content:encoded><![CDATA[Utilizar variáveis estática no ASP.NET é um sério problema, porque objetos estáticos possuem apenas uma estância em toda aplicação.
 
@@ -8200,16 +8200,16 @@ Da uma olhada nesses 2 links para entender melhor cada um:http://msdn.microsoft.
 	</item>
 	<item>
 				<title>Exceções não detalhadas em erros providos de uma aplicação WCF</title>
-		<link>http://blog.maxcnunes.com/2012/06/07/excecoes-nao-detalhadas-em-erros-providos-de-uma-aplicacao-wcf/</link>
+		<link>http://maxcnunes.com/2012/06/07/excecoes-nao-detalhadas-em-erros-providos-de-uma-aplicacao-wcf/</link>
 		<pubDate>Thu, 07 Jun 2012 23:09:55 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=666</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=666</guid>
 		<description></description>
 		<content:encoded><![CDATA[Se ao debugar o projeto, após configurar a autenticação "Claims-based authentication" no Sharepoint 2010, está apresentando a seguinte mensagem:
 
 <em>"The server was unable to process the request due to an internal error. For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <servicedebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework 3.0 SDK documentation and inspect the server trace logs."&nbsp;</servicedebug></em>
 
-[caption id="attachment_667" align="aligncenter" width="300" caption="SPClaimsUtility.AuthenticateFormUser Error Debug"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/SPClaimsUtility.AuthenticateFormUser_ErrorDebug.png"><img class="size-medium wp-image-667 " title="SPClaimsUtility.AuthenticateFormUser_ErrorDebug" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/SPClaimsUtility.AuthenticateFormUser_ErrorDebug-300x120.png" alt="" width="300" height="120" /></a>[/caption]
+[caption id="attachment_667" align="aligncenter" width="300" caption="SPClaimsUtility.AuthenticateFormUser Error Debug"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/SPClaimsUtility.AuthenticateFormUser_ErrorDebug.png"><img class="size-medium wp-image-667 " title="SPClaimsUtility.AuthenticateFormUser_ErrorDebug" src="http://maxcnunes.com/wp-content/uploads/2012/06/SPClaimsUtility.AuthenticateFormUser_ErrorDebug-300x120.png" alt="" width="300" height="120" /></a>[/caption]
 
 <!--more-->Este é um problema comum, ao utilizar serviços WCF, que por padrão vem com o detalhamento de exceções desabilitado para seus clientes.&nbsp;
 
@@ -8219,7 +8219,7 @@ Precisamos fazer algumas configurações no webconfig. Neste caso por estarmos f
 <p style="text-align: center;"><span style="color: #0000ff;"><em>&lt;serviceDebug httpHelpPageEnabled="true" includeExceptionDetailInFaults="true" /&gt;</em></span></p>
 
 
-[caption id="attachment_669" align="aligncenter" width="300" caption="serviceDebug"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/06/serviceDebug.png"><img class="size-medium wp-image-669" title="serviceDebug" src="http://blog.maxcnunes.com/wp-content/uploads/2012/06/serviceDebug-300x161.png" alt="" width="300" height="161" /></a>[/caption]
+[caption id="attachment_669" align="aligncenter" width="300" caption="serviceDebug"]<a href="http://maxcnunes.com/wp-content/uploads/2012/06/serviceDebug.png"><img class="size-medium wp-image-669" title="serviceDebug" src="http://maxcnunes.com/wp-content/uploads/2012/06/serviceDebug-300x161.png" alt="" width="300" height="161" /></a>[/caption]
 <p style="text-align: left;">Após isto, salve o webconfig e renicie o IIS. Com essa configuração na próxima vez que ocorrer um erro dentro do WCF, será exibido o erro detalhado e você será capaz de entender o que está acontecendo realmente.</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>666</wp:post_id>
@@ -8278,10 +8278,10 @@ Precisamos fazer algumas configurações no webconfig. Neste caso por estarmos f
 	</item>
 	<item>
 				<title>500 Internal Error when accessing _layouts/images virtual directory</title>
-		<link>http://blog.maxcnunes.com/2012/06/24/500-internal-error-when-accessing-_layoutsimages-virtual-directory/</link>
+		<link>http://maxcnunes.com/2012/06/24/500-internal-error-when-accessing-_layoutsimages-virtual-directory/</link>
 		<pubDate>Sun, 24 Jun 2012 02:47:18 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=678</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=678</guid>
 		<description></description>
 		<content:encoded><![CDATA[Outro dia passei por esse problema, fiquei cerca de 1 dia procurando uma solução de como resolver. Como estava utilizando&nbsp;Autenticação Baseada em Declarações (Claims Authentication), imaginei que fosse alguma falta de permissão para os usuários e acabei ficando preso a essa possibilidade. O que me levou a ficar todas essas horas definindo permissões de todas formas possíveis, na pasta LAYOUTS, no IIS, nas configurações do site collection. Mas nada resolvia e o bendito 500 Internal continuava a aparecer.
 
@@ -8347,10 +8347,10 @@ Fica a dica então:&nbsp;<strong>Nunca tente resolver um problema em cima de uma
 	</item>
 	<item>
 				<title>Response.BinaryWrite ou Response.Write dentro de um UpdatePanel</title>
-		<link>http://blog.maxcnunes.com/2012/08/03/response-binarywrite-ou-response-write-dentro-de-um-updatepanel/</link>
+		<link>http://maxcnunes.com/2012/08/03/response-binarywrite-ou-response-write-dentro-de-um-updatepanel/</link>
 		<pubDate>Fri, 03 Aug 2012 12:42:07 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=704</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=704</guid>
 		<description></description>
 		<content:encoded><![CDATA[Para resolver problemas relacionados Response.BinaryWrite ou Response.Write dentro de um UpdatePanel você deve definir o evento do controle que executa o Response como uma trigger do tipo PostBack, possibilitando um postaback completo da tela. Ao contrário do tipo de trigger padrão AsyncPostBack já definido para os controles dentro de um UpdatePanel, que realizam o post apenas do conteúdo dentro&nbsp;do UpdatePanel de forma assíncrona.
 
@@ -8429,13 +8429,13 @@ o controle desejado da seguinte forma:
 	</item>
 	<item>
 				<title>Comparação de arrays desordenados - Javascript</title>
-		<link>http://blog.maxcnunes.com/2012/08/10/comparacao-de-arrays-desordenados-javascript/</link>
+		<link>http://maxcnunes.com/2012/08/10/comparacao-de-arrays-desordenados-javascript/</link>
 		<pubDate>Fri, 10 Aug 2012 04:37:35 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=712</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=712</guid>
 		<description></description>
 		<content:encoded><![CDATA[
-[caption id="attachment_721" align="alignleft" width="150" caption="Disorderly"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/08/disorderly.jpg"><img class="size-thumbnail wp-image-721" title="disorderly" src="http://blog.maxcnunes.com/wp-content/uploads/2012/08/disorderly-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+[caption id="attachment_721" align="alignleft" width="150" caption="Disorderly"]<a href="http://maxcnunes.com/wp-content/uploads/2012/08/disorderly.jpg"><img class="size-thumbnail wp-image-721" title="disorderly" src="http://maxcnunes.com/wp-content/uploads/2012/08/disorderly-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 Trabalhando com javasacript, em muitos momentos surge a necessidade de manter em hiddens ids selecionados em arrays, concatenados por algum caracter separador. E em algumas dessas situações preciso comparar esses arrays com outros arrays, que podem estar em ordens diferentes.
 
@@ -8536,14 +8536,14 @@ Utilizando a função de comparação:
 	</item>
 	<item>
 				<title>SOLID Principles</title>
-		<link>http://blog.maxcnunes.com/2012/11/24/solid-principles/</link>
+		<link>http://maxcnunes.com/2012/11/24/solid-principles/</link>
 		<pubDate>Sat, 24 Nov 2012 19:57:10 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=747</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=747</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
-[caption id="attachment_764" align="alignleft" width="150"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/11/SOLID_MCN.png"><img class="size-thumbnail wp-image-764 " title="SOLID_MCN" src="http://blog.maxcnunes.com/wp-content/uploads/2012/11/SOLID_MCN-150x150.png" alt="" width="150" height="150" /></a> SOLID[/caption]
+[caption id="attachment_764" align="alignleft" width="150"]<a href="http://maxcnunes.com/wp-content/uploads/2012/11/SOLID_MCN.png"><img class="size-thumbnail wp-image-764 " title="SOLID_MCN" src="http://maxcnunes.com/wp-content/uploads/2012/11/SOLID_MCN-150x150.png" alt="" width="150" height="150" /></a> SOLID[/caption]
 
 Robert C. Martin “Uncle Bob” descreve os princípios SOLID, em “Agile Software Development: Principles, Patterns and Practices”, como cinco diretrizes para serem seguidas no que aumentariam a qualidade do código OO, facilitando a manutenção e alterações do código de acordo com as mudanças de requisitos.
 
@@ -8582,13 +8582,13 @@ Cada vez que uma classe é modificada o risco de surgirem novos bugs aumenta. Se
 
 É muito comum, infelizmente, vermos desenvolvedores atribuindo múltiplas responsabilidades para uma única classe ou método. Como esta classe empregado, além dos comportamentos esperados de um objeto empregado, ele ainda possui a responsabilidade de salvar as informações no banco e gerar relatórios.
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image001.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image001" src="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image001_thumb.png" alt="clip_image001" width="304" height="225" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image001.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image001" src="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image001_thumb.png" alt="clip_image001" width="304" height="225" /></a>
 
 <strong><span style="color: #00c40f;">CORRETO</span></strong>
 
 Modularize a classe anterior atribuindo às responsabilidades corretas para cada classe gerada:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image003.jpg"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image003" src="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image003_thumb.jpg" alt="clip_image003" width="624" height="199" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image003.jpg"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image003" src="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image003_thumb.jpg" alt="clip_image003" width="624" height="199" /></a>
 <h2>&nbsp;</h2>
 <h2><span style="font-weight: normal;"><span style="color: #0080ff;">OCP – O Princípio Aberto-Fechado</span></span></h2>
 O ORP define que entidades (classes, módulos, funções, etc) deveriam ser abertas para extensões, mas fechadas para modificações. O “fechado” trata da regra na qual um módulo desenvolvido e testado, este código deveria somente ser ajustado para corrigir bugs. O “aberto” trata da regra na qual deveria ser capaz de estender o código existente para introduzir novas funcionalidades.
@@ -8601,7 +8601,7 @@ Assim como o SRP, este princípio reduz o risco de novos erros sendo introduzido
 
 Suponha que você possui um relatório que deveria fazer o calculo de todas as áreas utilizadas em um sistema. Muitos provavelmente fariam da forma abaixo, criando objetos diferentes com métodos de calculo específicos para cada um e na classe de relatório passariam uma lista de cada tipo de objeto para realizar o calculo total de áreas:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image004.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image004" src="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image004_thumb.png" alt="clip_image004" width="426" height="271" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image004.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image004" src="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image004_thumb.png" alt="clip_image004" width="426" height="271" /></a>
 <pre class="brush: c-sharp; toolbar: false">class Quadrado
     {
         public decimal CalcularAreaQuadrado()
@@ -8639,7 +8639,7 @@ Mas e se surgisse uma nova forma geométrica no sistema? Da forma a cima você t
 
 Pense da seguinte forma, você sabe que a classe relatório deve calcular a área de qualquer objeto que saiba como calcular sua própria área. Dessa forma o melhor seria que cada um desses objetos implementassem um comportamento comum definido por uma interface.
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image005.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image005" src="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image005_thumb.png" alt="clip_image005" width="445" height="425" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image005.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image005" src="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image005_thumb.png" alt="clip_image005" width="445" height="425" /></a>
 <pre class="brush: c-sharp; toolbar: false">interface IArea
     {
         decimal CalcularArea();
@@ -8688,11 +8688,11 @@ Vamos considerar que exista a superclasse Animal e seja herdada pela subclasse c
 
 <strong><span style="color: #ff0000;">ERRADO</span> </strong>
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image006.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image006" src="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image006_thumb.png" alt="clip_image006" width="183" height="440" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image006.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image006" src="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image006_thumb.png" alt="clip_image006" width="183" height="440" /></a>
 
 <strong>Todos sabem que um Cavalo não possui comportamentos de Hibernar e Voar!!!</strong>
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image0081.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-top: 0px; border-width: 0px;" title="clip_image008" src="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image008_thumb1.png" alt="clip_image008" width="404" height="298" border="0" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image0081.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-top: 0px; border-width: 0px;" title="clip_image008" src="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image008_thumb1.png" alt="clip_image008" width="404" height="298" border="0" /></a>
 
 Então o código implementado ficaria assim:
 <pre class="brush: c-sharp">public abstract class Animal
@@ -8749,7 +8749,7 @@ Por mais que a classe derivada (Cavalo) possua a implementação para o método 
 
 Para resolver o problema anterior seria melhor separar especialidades em interfaces e manter comportamentos comuns na classe base. Ficando da seguinte forma:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image009.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image009" src="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image009_thumb.png" alt="clip_image009" width="505" height="505" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image009.png"><img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="clip_image009" src="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image009_thumb.png" alt="clip_image009" width="505" height="505" /></a>
 <h2>&nbsp;</h2>
 <h2><span style="color: #0080ff; font-weight: normal;">ISP – O Princípio da Segregação de Interface</span></h2>
 O Princípio da Segregação de Interface (ISP) determina que os clientes não devam ser forçados a depender de interfaces que eles não usam. Esta regra significa que, quando uma classe depende de outra, o número de membros na interface que é visível para a classe dependente deve ser minimizado.
@@ -8760,13 +8760,13 @@ Muitas vezes, quando você cria uma classe com um grande número de métodos e p
 
 <strong><span style="color: #ff0000;">ERRADO</span></strong>
 
-<img style="display: inline;" title="clip_image010" src="http://blog.maxcnunes.com/wp-content/uploads/2012/11/clip_image010.png" alt="clip_image010" width="574" height="603" />
+<img style="display: inline;" title="clip_image010" src="http://maxcnunes.com/wp-content/uploads/2012/11/clip_image010.png" alt="clip_image010" width="574" height="603" />
 
 <strong><span style="color: #333333;">CORRETO</span></strong>
 
 Segregando as interfaces aumentamos a reusabilidade e não impomos comportamentos indevidos para cada classe:
 
-<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://blog.maxcnunes.com/wp-content/uploads/2012/11/image.png" alt="image" width="623" height="663" border="0" />
+<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://maxcnunes.com/wp-content/uploads/2012/11/image.png" alt="image" width="623" height="663" border="0" />
 <h2>&nbsp;</h2>
 <h2><span style="color: #0080ff;"><span style="font-weight: normal;">DIP – O Princípio da Inversão de Dependência</span></span></h2>
 O Princípio da Inversão de Dependência (DIP) é a última das cinco regras. O DIP faz duas afirmações. A primeira é a de que os módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. A segunda parte da regra é que abstrações não devem depender de detalhes. Detalhes devem depender abstrações.
@@ -8937,16 +8937,16 @@ class Notificador
 	</item>
 	<item>
 				<title>Code Kata - Praticando para melhorar</title>
-		<link>http://blog.maxcnunes.com/2012/12/05/code-kata-praticando-para-melhorar/</link>
+		<link>http://maxcnunes.com/2012/12/05/code-kata-praticando-para-melhorar/</link>
 		<pubDate>Wed, 05 Dec 2012 02:33:38 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=781</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=781</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
 <strong>Kata</strong>: É um exercício no karate onde você repete um conjunto de movimentos vária vezes, melhorando a cada repetição.
 
-[caption id="attachment_783" align="aligncenter" width="600"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/12/kata.jpg"><img class="size-full wp-image-783" title="Kata" src="http://blog.maxcnunes.com/wp-content/uploads/2012/12/kata.jpg" alt="Kata" width="600" height="450" /></a> Kata[/caption]
+[caption id="attachment_783" align="aligncenter" width="600"]<a href="http://maxcnunes.com/wp-content/uploads/2012/12/kata.jpg"><img class="size-full wp-image-783" title="Kata" src="http://maxcnunes.com/wp-content/uploads/2012/12/kata.jpg" alt="Kata" width="600" height="450" /></a> Kata[/caption]
 
 <!--more-->
 
@@ -9021,16 +9021,16 @@ Para quem se interessar em ver como está ficando, estou com um repositório no 
 	</item>
 	<item>
 				<title>Desenvolvendo uma pequena aplicação web com Python e Flask</title>
-		<link>http://blog.maxcnunes.com/2012/12/24/desenvolvendo-pequena-aplicacao-web-python-flask/</link>
+		<link>http://maxcnunes.com/2012/12/24/desenvolvendo-pequena-aplicacao-web-python-flask/</link>
 		<pubDate>Mon, 24 Dec 2012 18:10:40 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=805</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=805</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
 Neste artigo será explicado como configurar o seu ambiente de desenvolvimento, desenvolver uma aplicação web em python modularizada e no final publicá-la em um servidor free.
 
-[caption id="attachment_836" align="aligncenter" width="480"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2012/12/Python-Code.png"><img class="size-full wp-image-836" title="Python-Code" src="http://blog.maxcnunes.com/wp-content/uploads/2012/12/Python-Code.png" alt="" width="480" height="333" /></a> Python Flask[/caption]
+[caption id="attachment_836" align="aligncenter" width="480"]<a href="http://maxcnunes.com/wp-content/uploads/2012/12/Python-Code.png"><img class="size-full wp-image-836" title="Python-Code" src="http://maxcnunes.com/wp-content/uploads/2012/12/Python-Code.png" alt="" width="480" height="333" /></a> Python Flask[/caption]
 
 <!--more-->
 
@@ -9041,7 +9041,7 @@ Tópicos abordados:
 	<li><a href="#pythonanywhere">Python Any Where – Publicando de maneira simples e rápida</a></li>
 </ul>
 <h2><a name="virtualenv"></a>O que é o Virtualenv?</h2>
-<img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://blog.maxcnunes.com/wp-content/uploads/2012/12/Virtualenv.jpg" alt="" />
+<img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://maxcnunes.com/wp-content/uploads/2012/12/Virtualenv.jpg" alt="" />
 
 Virtualenv é um software que permite a criação de ambientes virtuais com total independência dos outros ambientes criados no Virtualenv. Isso permite que cada ambiente tenha autonomia para instalar plug-ins e bibliotecas de forma que a configuração de um ambiente não impacte nos restantes. Um exemplo prático seria a possibilidade de ter várias versões do Python, diferente para cada projeto, instalado na mesma máquina.
 <h3>&nbsp;</h3>
@@ -9098,7 +9098,7 @@ Com o ambiente virtual ativado vamos instalar o pacote chamado yolk, que possui 
 Após instalado execute o seguinte comando para visualizar os pacotes instalados:
 <pre class="brush: bash; toolbar: false">yolk -l</pre>
 <h2><a name="flask"></a>O que é o Flask?</h2>
-<img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://blog.maxcnunes.com/wp-content/uploads/2012/12/Flask.jpg" alt="" />
+<img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://maxcnunes.com/wp-content/uploads/2012/12/Flask.jpg" alt="" />
 
 Flask é um micro framework de desenvolvimento web para Python baseado em duas bibliotecas externas: O Jinja2 e o Werkzeug. Por mais que seja considerado “micro”, Flask suporta extensões de diversas funcionalidades para a sua aplicação, como integração de ORM, validação de formulários, open autenticações e outras diversas extensões.
 <h3>&nbsp;</h3>
@@ -9875,7 +9875,7 @@ Se a aplicação não possuir nenhuma falha grave será exibido a seguinte mensa
 </div>
 Para visualizar a aplicação abra qualquer browser com a seguinte URL: <a title="http://127.0.0.1:8090/ " href="http://127.0.0.1:8090/">http://127.0.0.1:8090/</a>.
 <h2><a name="pythonanywhere"></a>O que é o Python Any Where?</h2>
-<img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://blog.maxcnunes.com/wp-content/uploads/2012/12/PythonAnywhere.png" alt="" />
+<img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://maxcnunes.com/wp-content/uploads/2012/12/PythonAnywhere.png" alt="" />
 
 O <a href="https://www.pythonanywhere.com" target="_blank">Python Any Where</a> é uma IDE online e serviço de hospedagem baseado em Python. No qual disponibiliza a hospedagem web de aplicações python e acesso ao um console online possibilitando desenvolvimento em python com várias bibliotecas disponíveis de maneira online, fácil e gratuita para o plano mais simples.
 <h3>Publicando</h3>
@@ -10026,14 +10026,14 @@ Robson Grangeiro]]></wp:comment_content>
 	</item>
 	<item>
 				<title>Running Python, Virtualenv, Flask and GAE on Windows</title>
-		<link>http://blog.maxcnunes.com/2013/01/12/running-python-virtualenv-flask-and-gae-on-windows/</link>
+		<link>http://maxcnunes.com/2013/01/12/running-python-virtualenv-flask-and-gae-on-windows/</link>
 		<pubDate>Sat, 12 Jan 2013 23:04:33 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=843</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=843</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is a short tutorial explaining how to configure a environment on windows to create an application with python, flask and google app engine.
 
-[caption id="attachment_846" align="aligncenter" width="500"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2013/01/python_flask_gae_windows.jpg"><img class="size-full wp-image-846" title="python flask gae windows" alt="" src="http://blog.maxcnunes.com/wp-content/uploads/2013/01/python_flask_gae_windows.jpg" width="500" height="500" /></a> python flask gae windows[/caption]
+[caption id="attachment_846" align="aligncenter" width="500"]<a href="http://maxcnunes.com/wp-content/uploads/2013/01/python_flask_gae_windows.jpg"><img class="size-full wp-image-846" title="python flask gae windows" alt="" src="http://maxcnunes.com/wp-content/uploads/2013/01/python_flask_gae_windows.jpg" width="500" height="500" /></a> python flask gae windows[/caption]
 
 Before start the article I would say the best operation system to work with python is not the Windows. Should be really easier if you work with the Linux or IOS, that are more supported for this kind of development. But anyway is possible do the same on the Windows, so lets begin...<!--more-->
 
@@ -10153,10 +10153,10 @@ Before start the article I would say the best operation system to work with pyth
 	</item>
 	<item>
 				<title>DOS / Terminal - Abrir uma janela a partir do diretório atual</title>
-		<link>http://blog.maxcnunes.com/2013/01/28/dos-terminal-abrir-uma-janela-a-partir-do-diretorio-atual/</link>
+		<link>http://maxcnunes.com/2013/01/28/dos-terminal-abrir-uma-janela-a-partir-do-diretorio-atual/</link>
 		<pubDate>Mon, 28 Jan 2013 11:34:47 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=865</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=865</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
@@ -10257,10 +10257,10 @@ Valeu aí, rapaz
 	</item>
 	<item>
 				<title>Apresentação de Flask e Python na Bravi Software</title>
-		<link>http://blog.maxcnunes.com/2013/02/01/apresentacao-de-flask-e-python-na-bravi-software/</link>
+		<link>http://maxcnunes.com/2013/02/01/apresentacao-de-flask-e-python-na-bravi-software/</link>
 		<pubDate>Fri, 01 Feb 2013 22:02:09 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=874</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=874</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/16299282" height="486" width="597" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <div style="margin-bottom: 5px;"><strong> <a title="Flask – Python" href="http://www.slideshare.net/maxcnunes1/flask-python-16299282" target="_blank">Flask – Python</a> </strong> from <strong><a href="http://www.slideshare.net/maxcnunes1" target="_blank">Max Claus Nunes</a></strong></div>]]></content:encoded>
@@ -10320,10 +10320,10 @@ Valeu aí, rapaz
 	</item>
 	<item>
 				<title>Apresentação de Git e Github na Bravi Software</title>
-		<link>http://blog.maxcnunes.com/2013/03/17/apresentacao-de-git-e-github-na-bravi-software/</link>
+		<link>http://maxcnunes.com/2013/03/17/apresentacao-de-git-e-github-na-bravi-software/</link>
 		<pubDate>Sun, 17 Mar 2013 13:02:04 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=879</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=879</guid>
 		<description></description>
 		<content:encoded><![CDATA[[slideshare id=16869115&amp;doc=introductiontogitandgithub-published-130301165004-phpapp01]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10381,10 +10381,10 @@ Valeu aí, rapaz
 	</item>
 	<item>
 				<title>Debug Knockout js</title>
-		<link>http://blog.maxcnunes.com/2013/03/23/debug-knockout-js/</link>
+		<link>http://maxcnunes.com/2013/03/23/debug-knockout-js/</link>
 		<pubDate>Sat, 23 Mar 2013 22:47:09 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=885</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=885</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
@@ -10395,7 +10395,7 @@ Um forma simples que tenho utilizado para facilitar os binds durante o desenvolv
 [gist id=5229570]
 
 Um exemplo dos dados serializados em JSON seria assim:
-<p style="text-align: center;"><a href="http://blog.maxcnunes.com/wp-content/uploads/2013/03/ViewModelJson.png"><img class="size-full wp-image-886 aligncenter" alt="" src="http://blog.maxcnunes.com/wp-content/uploads/2013/03/ViewModelJson.png" width="350" height="335" /></a></p>]]></content:encoded>
+<p style="text-align: center;"><a href="http://maxcnunes.com/wp-content/uploads/2013/03/ViewModelJson.png"><img class="size-full wp-image-886 aligncenter" alt="" src="http://maxcnunes.com/wp-content/uploads/2013/03/ViewModelJson.png" width="350" height="335" /></a></p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>885</wp:post_id>
 		<wp:post_date>2013-03-23 22:47:09</wp:post_date>
@@ -10451,10 +10451,10 @@ Um exemplo dos dados serializados em JSON seria assim:
 	</item>
 	<item>
 				<title> Bind elemento a partir de um item selecionado - Knockout</title>
-		<link>http://blog.maxcnunes.com/2013/03/27/bind-elemento-a-partir-de-um-item-selecionado-knockout/</link>
+		<link>http://maxcnunes.com/2013/03/27/bind-elemento-a-partir-de-um-item-selecionado-knockout/</link>
 		<pubDate>Wed, 27 Mar 2013 04:17:22 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=895</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=895</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
@@ -10525,14 +10525,14 @@ No final vai ficar algo mais ou menos assim:
 	</item>
 	<item>
 				<title>Abrir uma Solution do Visual Studio através da linha de comando (Git Bash/Prompt)</title>
-		<link>http://blog.maxcnunes.com/2013/04/08/abrir-uma-solution-do-visual-studio-atraves-da-linha-de-comando-git-bashprompt/</link>
+		<link>http://maxcnunes.com/2013/04/08/abrir-uma-solution-do-visual-studio-atraves-da-linha-de-comando-git-bashprompt/</link>
 		<pubDate>Mon, 08 Apr 2013 01:25:17 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=903</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=903</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
-[caption id="attachment_921" align="alignleft" width="150"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2013/04/command-prompt.png"><img class=" wp-image-921 " alt="Command Line" src="http://blog.maxcnunes.com/wp-content/uploads/2013/04/command-prompt.png" width="150" height="150" /></a> Command Line[/caption]
+[caption id="attachment_921" align="alignleft" width="150"]<a href="http://maxcnunes.com/wp-content/uploads/2013/04/command-prompt.png"><img class=" wp-image-921 " alt="Command Line" src="http://maxcnunes.com/wp-content/uploads/2013/04/command-prompt.png" width="150" height="150" /></a> Command Line[/caption]
 
 Como todos já sabem eu gosto muito do controle de versão GIT. E eu gosto de utilizá-lo através do GIT Bash porque é possível realizar mais operações do que qualquer outra ferramente com interface para GIT e porque através da linha de comando é fácil de executar operações e automatizá-las com scripts.
 
@@ -10604,14 +10604,14 @@ Explicando cada solução:
 	</item>
 	<item>
 				<title>Configurando Continuous Integration para .NET com AppHarbor e Github</title>
-		<link>http://blog.maxcnunes.com/2013/04/11/configurando-continuous-integration-para-net-com-appharbor-e-github/</link>
+		<link>http://maxcnunes.com/2013/04/11/configurando-continuous-integration-para-net-com-appharbor-e-github/</link>
 		<pubDate>Thu, 11 Apr 2013 01:35:11 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=926</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=926</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
-[caption id="attachment_965" align="alignleft" width="235"]<a href="http://blog.maxcnunes.com/wp-content/uploads/2013/04/CI-Build.png"><img class="size-full wp-image-965" alt="Continuous Integration" src="http://blog.maxcnunes.com/wp-content/uploads/2013/04/CI-Build.png" width="235" height="141" /></a> Continuous Integration[/caption]
+[caption id="attachment_965" align="alignleft" width="235"]<a href="http://maxcnunes.com/wp-content/uploads/2013/04/CI-Build.png"><img class="size-full wp-image-965" alt="Continuous Integration" src="http://maxcnunes.com/wp-content/uploads/2013/04/CI-Build.png" width="235" height="141" /></a> Continuous Integration[/caption]
 
 Um dos projetos que tenho trabalhado ultimamente tem crescido aos poucos e já começa a apresentar alguns problemas comuns de qualquer projeto. As alterações no código realizadas por implementações de novas features ou correções de bugs podem ser commitadas com algum problema que quebre o build ou até mesmo imperceptivelmente interfira&nbsp;no comportamento&nbsp;de uma feature existente.
 <h3>&nbsp;<!--more--></h3>
@@ -10631,7 +10631,7 @@ Ou seja, é uma prática de desenvolvimento para facilitar a identificação de 
 
 Então automatizando builds e testes para serem executados a partir de cada integração você conseguirá identificar qual foi o commit e desenvolvedor responsável pelo problema.
 <p style="text-align: center;"><strong><em>Continuous Integration Workflow</em></strong></p>
-<p style="text-align: center;"><img class="size-full wp-image-947   aligncenter" alt="Continuous Integration Workflow" src="http://blog.maxcnunes.com/wp-content/uploads/2013/04/CI.png" width="425" height="672" /></p>
+<p style="text-align: center;"><img class="size-full wp-image-947   aligncenter" alt="Continuous Integration Workflow" src="http://maxcnunes.com/wp-content/uploads/2013/04/CI.png" width="425" height="672" /></p>
 <p style="text-align: center;"><em>http://blogs.collab.net/cloudforge/continuous-integration-overview-best-practice</em></p>
 
 <h3>AppHarbor</h3>
@@ -10641,24 +10641,24 @@ AppHarbor é uma hospedagem para aplicações web na plataforma .NET. Dentre vá
 
 <span style="line-height: 13px;">1. Crie uma Application para o seu projeto</span><span style="line-height: 13px;">&nbsp;no AppHarbor</span><span style="line-height: 13px;">.</span>
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2013/04/CreateApp-AppHarbor.png"><img class="aligncenter  wp-image-958" alt="CreateApp-AppHarbor" src="http://blog.maxcnunes.com/wp-content/uploads/2013/04/CreateApp-AppHarbor.png" width="600" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2013/04/CreateApp-AppHarbor.png"><img class="aligncenter  wp-image-958" alt="CreateApp-AppHarbor" src="http://maxcnunes.com/wp-content/uploads/2013/04/CreateApp-AppHarbor.png" width="600" /></a>
 
 2. Autorize o acesso da sua conta no Github.
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2013/04/Authorize-AppHarbor.png"><img class="aligncenter size-full wp-image-954" alt="Authorize-AppHarbor" src="http://blog.maxcnunes.com/wp-content/uploads/2013/04/Authorize-AppHarbor.png" width="426" height="285" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2013/04/Authorize-AppHarbor.png"><img class="aligncenter size-full wp-image-954" alt="Authorize-AppHarbor" src="http://maxcnunes.com/wp-content/uploads/2013/04/Authorize-AppHarbor.png" width="426" height="285" /></a>
 
 3. Selecione o repositório relacionado a esta aplicação.
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2013/04/SelectRepository-AppHarbor.png"><img class="aligncenter size-full wp-image-955" alt="SelectRepository-AppHarbor" src="http://blog.maxcnunes.com/wp-content/uploads/2013/04/SelectRepository-AppHarbor.png" width="577" height="127" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2013/04/SelectRepository-AppHarbor.png"><img class="aligncenter size-full wp-image-955" alt="SelectRepository-AppHarbor" src="http://maxcnunes.com/wp-content/uploads/2013/04/SelectRepository-AppHarbor.png" width="577" height="127" /></a>
 
 4. Acesse o Settings do seu repositório no Github para confirmar se a configuração foi realizada &nbsp;com sucesso.
-<p style="text-align: center;"><a href="http://blog.maxcnunes.com/wp-content/uploads/2013/04/ServiceHooks-AppHarbor.png"><img class="aligncenter  wp-image-956" alt="ServiceHooks-AppHarbor" src="http://blog.maxcnunes.com/wp-content/uploads/2013/04/ServiceHooks-AppHarbor.png" width="600" /></a></p>
+<p style="text-align: center;"><a href="http://maxcnunes.com/wp-content/uploads/2013/04/ServiceHooks-AppHarbor.png"><img class="aligncenter  wp-image-956" alt="ServiceHooks-AppHarbor" src="http://maxcnunes.com/wp-content/uploads/2013/04/ServiceHooks-AppHarbor.png" width="600" /></a></p>
 <p style="text-align: left;">5. De volta no AppHarbor acesse o painel de controle referente a esta aplicação e agora irá conter informações sobre os builds realizados.</p>
-<p style="text-align: center;"><a href="http://blog.maxcnunes.com/wp-content/uploads/2013/04/BuildStatus-AppHarbor.png"><img class="aligncenter  wp-image-957" alt="BuildStatus-AppHarbor" src="http://blog.maxcnunes.com/wp-content/uploads/2013/04/BuildStatus-AppHarbor.png" width="600" /></a></p>
+<p style="text-align: center;"><a href="http://maxcnunes.com/wp-content/uploads/2013/04/BuildStatus-AppHarbor.png"><img class="aligncenter  wp-image-957" alt="BuildStatus-AppHarbor" src="http://maxcnunes.com/wp-content/uploads/2013/04/BuildStatus-AppHarbor.png" width="600" /></a></p>
 <p style="text-align: left;">6. Clique sobre o build e será exibido informações mais detalhadas.</p>
-<p style="text-align: center;"><a href="http://blog.maxcnunes.com/wp-content/uploads/2013/04/BuildInfo-AppHarbor.png"><img class="aligncenter  wp-image-960" alt="BuildInfo-AppHarbor" src="http://blog.maxcnunes.com/wp-content/uploads/2013/04/BuildInfo-AppHarbor.png" width="600" /></a></p>
+<p style="text-align: center;"><a href="http://maxcnunes.com/wp-content/uploads/2013/04/BuildInfo-AppHarbor.png"><img class="aligncenter  wp-image-960" alt="BuildInfo-AppHarbor" src="http://maxcnunes.com/wp-content/uploads/2013/04/BuildInfo-AppHarbor.png" width="600" /></a></p>
 <p style="text-align: left;">7. Através do Commit Id você consegue descobrir quem realizou o commit.</p>
-<p style="text-align: left;"><a href="http://blog.maxcnunes.com/wp-content/uploads/2013/04/CommitInfo-Git.png"><img class="aligncenter size-full wp-image-961" alt="CommitInfo-Git" src="http://blog.maxcnunes.com/wp-content/uploads/2013/04/CommitInfo-Git.png" width="395" height="111" /></a></p>]]></content:encoded>
+<p style="text-align: left;"><a href="http://maxcnunes.com/wp-content/uploads/2013/04/CommitInfo-Git.png"><img class="aligncenter size-full wp-image-961" alt="CommitInfo-Git" src="http://maxcnunes.com/wp-content/uploads/2013/04/CommitInfo-Git.png" width="395" height="111" /></a></p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>926</wp:post_id>
 		<wp:post_date>2013-04-11 01:35:11</wp:post_date>
@@ -10768,10 +10768,10 @@ consegue me ajudar?]]></wp:comment_content>
 	</item>
 	<item>
 				<title>Authentication with old password no longer supported, use 4.1 style passwords</title>
-		<link>http://blog.maxcnunes.com/2013/04/13/authentication-with-old-password-no-longer-supported-use-4-1-style-passwords/</link>
+		<link>http://maxcnunes.com/2013/04/13/authentication-with-old-password-no-longer-supported-use-4-1-style-passwords/</link>
 		<pubDate>Sat, 13 Apr 2013 15:45:12 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=971</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=971</guid>
 		<description></description>
 		<content:encoded><![CDATA[Esta semana eu estava trabalhando normalmente usando NHibernate conectado em um banco de dados MySQL local. Quando tentei mudar minha conexão para um servidor remoto na minha hospedagem, começou a exibir a seguinte mensagem de erro bem genérica ao tentar abrir a conexão:
 
@@ -10932,10 +10932,10 @@ Obrigado..]]></wp:comment_content>
 	</item>
 	<item>
 				<title>TDC 2013 - Ferramentas e Bibliotecas que você deveria estar utilizando</title>
-		<link>http://blog.maxcnunes.com/2013/05/27/tdc-2013-ferramentas-e-bibliotecas-que-voce-deveria-estar-utilizando/</link>
+		<link>http://maxcnunes.com/2013/05/27/tdc-2013-ferramentas-e-bibliotecas-que-voce-deveria-estar-utilizando/</link>
 		<pubDate>Mon, 27 May 2013 12:52:47 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=978</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=978</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 
@@ -11057,10 +11057,10 @@ backbonejs.org]]></wp:comment_content>
 	</item>
 	<item>
 				<title>Erro ao publicar Rails no Heroku - &quot;Gemfile.lock required. Please check it in.&quot;</title>
-		<link>http://blog.maxcnunes.com/2013/05/30/erro-ao-publicar-rails-no-heroku-gemfile-lock-required-please-check-it-in/</link>
+		<link>http://maxcnunes.com/2013/05/30/erro-ao-publicar-rails-no-heroku-gemfile-lock-required-please-check-it-in/</link>
 		<pubDate>Thu, 30 May 2013 05:36:58 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=984</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=984</guid>
 		<description></description>
 		<content:encoded><![CDATA[Passei um bom tempo quebrando a cabeça por causa desse problema a baixo que ocorria toda vez que eu tentava publicar o Rails no Heroku:
 
@@ -11133,17 +11133,17 @@ No final das contas a solução foi simples, mas como pode ser que ocorra com al
 	</item>
 	<item>
 				<title>ZSH e Oh My ZSH</title>
-		<link>http://blog.maxcnunes.com/2013/05/31/zsh-e-oh-my-zsh/</link>
+		<link>http://maxcnunes.com/2013/05/31/zsh-e-oh-my-zsh/</link>
 		<pubDate>Fri, 31 May 2013 17:09:09 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=988</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=988</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h3><span style="font-size: 1.17em;">ZSH</span></h3>
 O <strong>ZSH </strong>é um shell para Unix que vai fazer você não querer mais usar qualquer outro shell além dele.
 <h3>O Oh My ZSH</h3>
 Existe um <a href="https://github.com/robbyrussell/oh-my-zsh">projeto no github</a> chamado "<strong>O Oh My ZSH</strong>" que contêm plugins e configurações para customizar o ZSH que aumentam ainda mais a usabilidade neste terminal. Outro detalhe legal é a possibilidade de alterar temas do terminal: <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/themes">exemplos</a>.
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2013/05/OhMyZsh.png"><img class="aligncenter size-full wp-image-1011" alt="OhMyZsh" src="http://blog.maxcnunes.com/wp-content/uploads/2013/05/OhMyZsh.png" width="655" height="266" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2013/05/OhMyZsh.png"><img class="aligncenter size-full wp-image-1011" alt="OhMyZsh" src="http://maxcnunes.com/wp-content/uploads/2013/05/OhMyZsh.png" width="655" height="266" /></a>
 
 Para ter uma ideia melhor de uma olhada nesse vídeo: <a href="http://vimeo.com/57123291">http://vimeo.com/57123291</a> (em inglês)
 <h4>Instalando ZSH e Oh My ZSH no Ubuntu</h4>
@@ -11222,10 +11222,10 @@ Para ter uma ideia melhor de uma olhada nesse vídeo: <a href="http://vimeo.com
 	</item>
 	<item>
 				<title>Bind Handler Debugger Knockout</title>
-		<link>http://blog.maxcnunes.com/2013/06/22/bind-handler-debugger-knockout/</link>
+		<link>http://maxcnunes.com/2013/06/22/bind-handler-debugger-knockout/</link>
 		<pubDate>Sat, 22 Jun 2013 02:33:40 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1073</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1073</guid>
 		<description></description>
 		<content:encoded><![CDATA[Knockout é uma ótima biblioteca javascript para aplicar o padrão MVVM no front-end. Mas dependendo do seu cenário, pode ser um pouco complicado para debuggar algum problema durante qualquer bind na view.
 Então para essas situações eu sempre utilizo um custom bind handler do knockout para invocar a pausa do js debugger durante o bind em tempo de execução:
@@ -11245,11 +11245,11 @@ ko.bindingHandlers.debuggerBind = {
 };</pre>
 No bind eu adiciono o atributo <strong>debuggerBind</strong> e carrego a página no navegador com a ferramenta do desenvolvedor aberta. O resultado será o seguinte:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger.png"><img class="aligncenter size-full wp-image-1085" alt="knockout-debugger" src="http://blog.maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger.png" width="452" height="121" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger.png"><img class="aligncenter size-full wp-image-1085" alt="knockout-debugger" src="http://maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger.png" width="452" height="121" /></a>
 
 Debugger pausado durante bind:
 
-<a href="http://blog.maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger2.png"><img class="aligncenter size-full wp-image-1083" alt="knockout-debugger2" src="http://blog.maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger2.png" width="605" height="214" /></a>
+<a href="http://maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger2.png"><img class="aligncenter size-full wp-image-1083" alt="knockout-debugger2" src="http://maxcnunes.com/wp-content/uploads/2013/06/knockout-debugger2.png" width="605" height="214" /></a>
 
 <a href="http://jsfiddle.net/maxcnunes/vYY7T/" target="_blank">Veja o exemplo no JsFiddle</a>. (Execute com a ferramenta do desenvolvedor aberta - F12)]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11286,10 +11286,10 @@ Debugger pausado durante bind:
 	</item>
 	<item>
 				<title>Moving to Digital Ocean</title>
-		<link>http://blog.maxcnunes.com/2013/06/23/moving-to-digital-ocean/</link>
+		<link>http://maxcnunes.com/2013/06/23/moving-to-digital-ocean/</link>
 		<pubDate>Sun, 23 Jun 2013 20:03:18 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1091</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1091</guid>
 		<description></description>
 		<content:encoded><![CDATA[Novo server, novo tema, novo idioma. Como a maioria dos assuntos em tecnologia é publicado em inglês e eu preciso praticar mais, vou estar tentando escrever alguns posts em inglês. Se vocês notarem qualquer erro, por favor me avisem :).
 
@@ -11397,10 +11397,10 @@ I just recently signed up for Digital Ocean and wanted to thank you for these re
 	</item>
 	<item>
 				<title>Single Page Apps</title>
-		<link>http://blog.maxcnunes.com/2013/07/16/single-page-apps/</link>
+		<link>http://maxcnunes.com/2013/07/16/single-page-apps/</link>
 		<pubDate>Tue, 16 Jul 2013 22:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1113</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1113</guid>
 		<description></description>
 		<content:encoded><![CDATA[Presentation about Single Pages App done at Bravi.
 [slideshare id=24314469&amp;doc=singlepageapps-130716172921-phpapp01]]]></content:encoded>
@@ -11437,10 +11437,10 @@ I just recently signed up for Digital Ocean and wanted to thank you for these re
 	</item>
 	<item>
 				<title>Linux command line to check the directory&#039;s size</title>
-		<link>http://blog.maxcnunes.com/2013/07/23/linux-command-line-to-check-the-directorys-size/</link>
+		<link>http://maxcnunes.com/2013/07/23/linux-command-line-to-check-the-directorys-size/</link>
 		<pubDate>Tue, 23 Jul 2013 23:44:41 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1116</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1116</guid>
 		<description></description>
 		<content:encoded><![CDATA[Using the Nitrous.io I got this message "<strong>disk quota exceeded</strong>" after try install mongoid. The initial plan available for free accounts on Nitrous provides 750MB storage.
 
@@ -11502,10 +11502,10 @@ Explaning the command line:
 	</item>
 	<item>
 				<title>Vagrant - Error: UNKNOWN, symlink</title>
-		<link>http://blog.maxcnunes.com/2013/09/20/vagrant-error-unknown-symlink/</link>
+		<link>http://maxcnunes.com/2013/09/20/vagrant-error-unknown-symlink/</link>
 		<pubDate>Fri, 20 Sep 2013 22:12:49 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1128</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1128</guid>
 		<description></description>
 		<content:encoded><![CDATA[Why does with Windows always has a problem or is more difficult to work with nice non-Microsoft stuff?! I was configuring Vagrant to run a project with Nodejs. Everything was going really well when my host machine was the Mac. But when I had to use the Windows as host machine then I got my first problem to run the command npm install inside the guest Ubuntu machine:
 <pre class="brush: shell">Error: UNKNOWN, symlink</pre>
@@ -11545,10 +11545,10 @@ Take a look on this <a href="http://www.conroyp.com/2013/04/13/symlink-shenaniga
 	</item>
 	<item>
 				<title>Clear the contents of an existing UNIX file</title>
-		<link>http://blog.maxcnunes.com/2013/10/30/clear-the-contents-of-an-existing-unix-file/</link>
+		<link>http://maxcnunes.com/2013/10/30/clear-the-contents-of-an-existing-unix-file/</link>
 		<pubDate>Wed, 30 Oct 2013 01:40:54 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1139</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1139</guid>
 		<description></description>
 		<content:encoded><![CDATA[A really simple but useful tip. To clear the contents of an existing file you can override the file with another empty file.
 
@@ -11584,10 +11584,10 @@ Take a look on this <a href="http://www.conroyp.com/2013/04/13/symlink-shenaniga
 	</item>
 	<item>
 				<title>VIM - Select the word under the cursor</title>
-		<link>http://blog.maxcnunes.com/2013/11/02/vim-select-the-word-under-the-cursor/</link>
+		<link>http://maxcnunes.com/2013/11/02/vim-select-the-word-under-the-cursor/</link>
 		<pubDate>Sat, 02 Nov 2013 23:14:30 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1145</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1145</guid>
 		<description></description>
 		<content:encoded><![CDATA[Type in normal mode:
 [gist id="7284424" file="select-the-word-under-the-cursor"]]]></content:encoded>
@@ -11621,10 +11621,10 @@ Take a look on this <a href="http://www.conroyp.com/2013/04/13/symlink-shenaniga
 	</item>
 	<item>
 				<title>Tell don&#039;t Ask</title>
-		<link>http://blog.maxcnunes.com/2014/01/03/tell-dont-ask/</link>
+		<link>http://maxcnunes.com/2014/01/03/tell-dont-ask/</link>
 		<pubDate>Fri, 03 Jan 2014 17:30:08 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1157</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1157</guid>
 		<description></description>
 		<content:encoded><![CDATA[<em>Article originally posted on <a href="http://tribalingua.wordpress.com/2013/12/17/tell-dont-ask/">Tribalingua</a>.</em>
 
@@ -11673,10 +11673,10 @@ So do you want to be known as a good writer or as that crazy drunk friend that s
 	</item>
 	<item>
 				<title>The reasons why I like Ruby</title>
-		<link>http://blog.maxcnunes.com/2014/01/12/the-reasons-why-i-like-ruby/</link>
+		<link>http://maxcnunes.com/2014/01/12/the-reasons-why-i-like-ruby/</link>
 		<pubDate>Sun, 12 Jan 2014 20:18:50 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1166</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1166</guid>
 		<description></description>
 		<content:encoded><![CDATA[Some of the best parts of Ruby that I most like
 
@@ -11712,10 +11712,10 @@ So do you want to be known as a good writer or as that crazy drunk friend that s
 	</item>
 	<item>
 				<title>Error - npm doesn&#039;t install packages with GitHub dependencies</title>
-		<link>http://blog.maxcnunes.com/2014/03/18/error-npm-doesnt-install-packages-with-github-dependencies/</link>
+		<link>http://maxcnunes.com/2014/03/18/error-npm-doesnt-install-packages-with-github-dependencies/</link>
 		<pubDate>Tue, 18 Mar 2014 11:12:36 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1173</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1173</guid>
 		<description></description>
 		<content:encoded><![CDATA[To set in your node project a dependency from github you just need to include the <strong>&lt;username&gt;/&lt;repository&gt;</strong> on package.json:
 
@@ -11759,10 +11759,10 @@ If you are getting the error below then probably you don't have git installed in
 	</item>
 	<item>
 				<title>Solve graphics issues with NVIDIA NVS 4200m - Dell Latitude E6520</title>
-		<link>http://blog.maxcnunes.com/2014/03/20/solve-graphics-issues-with-nvidia-nvs-4200m-dell-latitude-e6520/</link>
+		<link>http://maxcnunes.com/2014/03/20/solve-graphics-issues-with-nvidia-nvs-4200m-dell-latitude-e6520/</link>
 		<pubDate>Thu, 20 Mar 2014 12:37:10 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1177</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1177</guid>
 		<description></description>
 		<content:encoded><![CDATA[After spend an whole day trying to install the driver for my NVIDIA NVS 4200m I figured out I just had to disable the Optimus support in the BIOS.
 
@@ -11803,10 +11803,10 @@ Just it will allow the remote monitors work pretty well. Also with this change w
 	</item>
 	<item>
 				<title>Docker Build Error</title>
-		<link>http://blog.maxcnunes.com/2014/04/03/docker-build-error/</link>
+		<link>http://maxcnunes.com/2014/04/03/docker-build-error/</link>
 		<pubDate>Thu, 03 Apr 2014 15:37:52 +0000</pubDate>
 		<dc:creator><![CDATA[maxcnunes]]></dc:creator>
-		<guid isPermaLink="false">http://blog.maxcnunes.com/?p=1180</guid>
+		<guid isPermaLink="false">http://maxcnunes.com/?p=1180</guid>
 		<description></description>
 		<content:encoded><![CDATA[I was playing around Docker this week using this Dockerfile to build my container:
 
