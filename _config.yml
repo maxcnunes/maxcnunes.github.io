@@ -24,3 +24,5 @@ github:
   repo:           https://github.com/maxcnunes
 
 comments:         true
+
+gems: [jekyll-paginate, jekyll-gist]
