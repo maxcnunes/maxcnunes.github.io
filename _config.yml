@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        /:year/:month/:day/:title/
+permalink:        /post/:year/:month/:day/:title/
 
 # Setup
 title:            Max Claus Nunes
